@@ -1,0 +1,3 @@
+[submodule "themes/hugo-acecentre-theme"]
+	path = themes/hugo-acecentre-theme
+	url = https://github.com/AceCentre/hugo-acecentre-theme.git
