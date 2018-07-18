@@ -9,6 +9,7 @@ styles:
 mainimage:
   location: images/getting-started-with-aac-logo.png
   alt: Getting started with AAC
+content_partial: ccg_home.html
 ---
 
 <div class="lead">

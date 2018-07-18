@@ -3,6 +3,20 @@ languageCode = "en-us"
 title = "NHS Service Finder"
 theme = "hugo-acecentre-theme"
 
+[outputFormats]
+  [outputFormats.rawdata]
+    mediaType = "application/json"
+    baseName = "rawdata"
+    isPlainText = true
+
+[outputs]
+page = [ "html", "rawdata" ]
+taxonomy = [ "html", "rawdata" ]
+
+[taxonomies]
+ccgservice = "ccgservices"
+ccgcode = "ccgcodes"
+
 [permalinks]
 page = "/:slug/"
 

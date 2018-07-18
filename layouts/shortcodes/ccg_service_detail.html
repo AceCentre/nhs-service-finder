@@ -1,0 +1,24 @@
+<ul>
+{{ with $.Page.Params.caseload }}
+  <li>Caseload: {{ . }}</li>
+{{ end }}
+{{ with $.Page.Params.contactphone }}
+  <li><i class="fa fa-phone"></i> {{ . }}</li>
+{{ end }}
+{{ with $.Page.Params.email }}
+  <li><i class="fa fa-envelope"></i> <a href="mailto:{{ . }}">{{ . }}</a></li>
+{{ end }}
+{{ with $.Page.Params.website }}
+  <li><a href="{{ . }}"><i class="fa fa-link"></i> {{ . }}</a></li>
+{{ end }}
+{{ with $.Page.Params.cm_listing_link }}
+  <li><a href="{{ . }}"><i class="fa fa-link"></i> CM Listing Link</a></li>
+{{ end }}
+{{ with $.Page.Params.address }}
+  <li><span>Address: </span> {{ . }}</li>
+{{ end }}
+{{ with $.Page.Params.note }}
+  <li>{{ . }}</li>
+{{ end }}
+</ul>
+

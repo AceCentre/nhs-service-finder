@@ -1,0 +1,8 @@
+{{- $scratch := .Scratch -}}
+{{- $params := .Params -}}
+{{- $scratch.Set "rawdata" (dict "serviceid" .Params.serviceid "servicename" .Params.servicename "ccgservices" .Params.ccgservices) -}}
+{{- range $name := (slice "caseload" "contactphone" "email" "website" "cm_listing_link" "note" "template") -}}
+{{- with (index $params $name) -}}
+{{- $scratch.SetInMap "rawdata" $name . -}}
+{{- end -}}
+{{- end -}}
