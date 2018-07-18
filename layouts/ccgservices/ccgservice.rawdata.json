@@ -1,0 +1,9 @@
+{{- $.Scratch.Set "json" (dict) -}}
+{{- $.Scratch.Delete "ccglist" -}}
+{{- $.Scratch.Add "ccglist" (slice) -}}
+{{- range .Pages -}}
+{{- partial "ccg/rawdata-compact.json" . -}}
+{{- with (.Scratch.Get "rawdata") -}}{{- $.Scratch.Add "ccglist" . -}}{{- end -}}
+{{- end -}}
+{{- $.Scratch.SetInMap "json" "items" ($.Scratch.Get "ccglist") -}}
+{{- $.Scratch.Get "json" | jsonify -}}

@@ -1,0 +1,2 @@
+{{- partial "ccg/rawdata-full.json" . -}}
+{{- .Scratch.Get "rawdata" | jsonify -}}
