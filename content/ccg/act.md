@@ -8,6 +8,7 @@ email: ACT.Duty@bhamcommunity.nhs.uk
 website: http://www.bhamcommunity.nhs.uk/patients-public/rehabilitation/act/
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/access-communication-and-technology
 note: "Also specialised EC provider to West Midlands region"
+servicecolor: "#91fa0a"
 ccgservices:
   - ec
   - aac
