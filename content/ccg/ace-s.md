@@ -8,6 +8,7 @@ email: enquiries@acecentre.org.uk
 website: http://acecentre.org.uk 
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/ace-centre-oxford
 note: ""
+servicecolor: "#39d4c0"
 ccgservices:
   - aac
 ccgcodes:

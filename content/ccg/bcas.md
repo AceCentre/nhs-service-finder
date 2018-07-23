@@ -8,6 +8,7 @@ email: cacadmin@nbt.nhs.uk
 website: http://www.nbt.nhs.uk/bcas 
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/bristol-communication-aid-service
 note: ""
+servicecolor: "#b539d4"
 ccgservices:
   - aac
 ccgcodes:
