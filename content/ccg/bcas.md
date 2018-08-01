@@ -23,6 +23,7 @@ ccgcodes:
   - e38000206
   - e38000022
   - e38000129
+  - e38000222
 ---
 
 {{< ccg_service_detail >}}
