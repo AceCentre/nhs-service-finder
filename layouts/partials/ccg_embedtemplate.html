@@ -1,0 +1,42 @@
+<script type="text/x-template" id="ccglookup-template">
+  {% if ("withtitle" in data) { %}
+  <h2>{{ .Title }}</h2>
+  {% } %}
+  <form id="ccg-lookup-form">
+    <select id="ccg-service-input">
+      <option value="ALL">ALL</option>
+      <option value="AAC">AAC</option>
+      <option value="EC">EC</option>
+      <option value="WCS">WCS</option>
+    </select>
+    <input type="name" autocomplete="off" id="ccg-postcode-input" />
+    <button class="btn" type="submit">Lookup</button>
+  </form>
+  <div id="ccg-lookup-result">
+  </div>
+  <div id="ccg-map-wrapper" class="ccg-map-wrapper" style="display:none">
+    <svg id="ccg-map-svg" data-ratio="16:9"></svg>
+    <div class="tebtns">
+      <a href id="ccg-map-zoom-btn"><i class="fa  fa-search-plus fa-2x"></i></a>
+    </div>
+  </div>
+</script>
+<script type="text/x-template" id="ccg-map-region-tooltip">
+  <h4><a class="ccgquery" href data-query="#{%- data.properties.ccg16cd.toLowerCase() %}">{%- data.properties.ccg16nm %} [{%- data.properties.ccg16cd %}]</a></h4>
+  {% _.each(data.ccg_list||[], function (ccg) { %}
+  <div class="ccg-sp">
+    <h5><a href="/ccg/{%- ccg.serviceid.toLowerCase() %}/" target="_blank">{%- ccg.servicename %}</a></h5>
+    <ul class="ccg-services">
+      {% _.each(ccg.ccgservices, function (name) { %}
+      <li>{%- name %}</li>
+      {% }); %}
+    </ul>
+  <hr/>
+  </div>
+  {% }); %}
+</script>
+{{ range (readDir "static/ccgtemplate/") }}
+<script type="text/x-template" class="ccglookup-item-template" data-name="{{ .Name }}">
+{{ readFile (printf "static/ccgtemplate/%s" .Name) | safeHTML }}
+</script>
+{{ end }}

@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Example of embedding ccglookup</title>
+  </head>
+  <body>
+    <!-- load the embed script -->
+    <link rel="stylesheet" type="text/css" href="{{ (printf "/css/ccglookup_embed%s" (cond (eq (getenv "IS_PRODUCTION") "1") "min.css" ".css")) | absURL }} "/>
+    <script src="{{ (printf "/jsbundle/ccglookup_embed%s" (cond (eq (getenv "IS_PRODUCTION") "1") "min.js" ".js")) | absURL }} "></script>
+    <div id="ccglookup" data-inject data-withtitle style="max-width:640px"></div>
+  </body>
+</html>
