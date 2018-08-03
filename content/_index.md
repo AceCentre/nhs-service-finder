@@ -1,14 +1,14 @@
 ---
-title: Getting started with AAC
-seotitle: Getting started with AAC | AAC Books from Ace Centre
-description: Three books designed to help families and professionals get started with Augmentative and Alternative Communication (AAC). Edited by Ace Centre, a UK AAC/AT charity.
+title: NHS Service Finder
+seotitle: NHS Specialised Service Finder | from Ace Centre
+description: Find your NHS Specialised Service (Augmentative & Alternative Communication - AAC, Wheelchair Services and Environmental Control Services). Edited by Ace Centre, a UK AAC/AT charity.
 date: 2018-06-30T02:34:06+03:00
 draft: false
 styles:
   - text-center
 mainimage:
-  location: images/getting-started-with-aac-logo.png
-  alt: Getting started with AAC
+  location: images/service-finder-logo.png
+  alt: NHS Service Finder image
 content_partial: ccg_home.html
 ---
 
