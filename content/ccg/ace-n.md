@@ -46,6 +46,7 @@ ccgcodes:
   - e38000208
   - e38000101
   - e38000024
+  - e38000228
 ---
 
 {{< ccg_service_detail >}}
