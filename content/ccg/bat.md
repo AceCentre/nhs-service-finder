@@ -35,6 +35,7 @@ ccgcodes:
   - e38000085
   - e38000188
   - e38000025
+  - e38000225
 ---
 
 {{< ccg_service_detail >}}
