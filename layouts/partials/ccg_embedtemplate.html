@@ -22,7 +22,7 @@
   </div>
 </script>
 <script type="text/x-template" id="ccg-map-region-tooltip">
-  <h4><a class="ccgquery" href data-query="#{%- data.properties.ccg16cd.toLowerCase() %}">{%- data.properties.ccg16nm %} [{%- data.properties.ccg16cd %}]</a></h4>
+  <h4><a class="ccgquery" href data-query="#{%- (data.properties.ccgcd||'').toLowerCase() %}">{%- (data.properties.ccgnm||"") %} [{%- (data.properties.ccgcd||"") %}]</a></h4>
   {% _.each(data.ccg_list||[], function (ccg) { %}
   <div class="ccg-sp">
     <h5><a href="/ccg/{%- ccg.serviceid.toLowerCase() %}/" target="_blank">{%- ccg.servicename %}</a></h5>
