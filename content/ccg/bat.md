@@ -4,6 +4,7 @@ serviceid: BAT
 servicename: Barnsley Assistive Technology Team
 caseload: All
 contactphone: 01226 432159
+servicecolor: "#4B3171"
 email: barnsley.at@nhs.net
 website: http://www.barnsleyhospital.nhs.uk/assistive-technology/
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/barnsley-assistive-technology-service

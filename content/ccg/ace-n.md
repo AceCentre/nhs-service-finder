@@ -3,6 +3,7 @@ title: ACE Centre North
 serviceid: ACE-N
 servicename: ACE Centre North
 caseload: All
+servicecolor: "#588BBA"
 contactphone: 0800 080 3115
 email: enquiries@acecentre.org.uk
 website: http://acecentre.org.uk 
