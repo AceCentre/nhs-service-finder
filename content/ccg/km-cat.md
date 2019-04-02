@@ -3,6 +3,7 @@ title: Kent and Medway Communication and Assistive Technology Service (KM CAT)- 
 serviceid: KM-CAT
 servicename: Kent and Medway Communication and Assistive Technology Service (KM CAT)- Adult Team
 caseload: Adults
+servicecolor: "#213953"
 contactphone: 1227864083
 email: acat.service@nhs.net
 website: http://www.ekhuft.nhs.uk/acat
