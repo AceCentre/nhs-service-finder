@@ -2,4 +2,6 @@
 tmp/
 res/scripts/node_modules/
 public/
+.python-virtualenv
+
 
