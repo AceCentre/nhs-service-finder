@@ -6,6 +6,9 @@ import re
 import os.path
 import operator
 
+# Run this like python details2hugoc.py ../data/service-wcs-ccg.csv ../data/service-wcs-details.csv --dest ../data/somedata/
+
+
 parser = argparse.ArgumentParser(description='Service/Detail csv files.')
 parser.add_argument('files', metavar='N', type=str, nargs='+',
                     help='services/details, filename should have this format, service-<name>-[ccg/details].csv')
@@ -104,6 +107,7 @@ if __name__ == '__main__':
           allservices[name] = records
       elif match.group(2) == "details":
         alldetails[name] = fn
+
   # write content
   for _servicename, fn in alldetails.items():
     with open(fn, 'r') as f:
