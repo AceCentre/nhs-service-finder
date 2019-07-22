@@ -58,9 +58,8 @@ serviceid: {Service ID}
 servicename: {Service Name}
 contactphone: {Enquiries Contact - phone}
 email: {Enquiries Contact - email}
-website: {Website}
-address: "{Address}"
-note: "{Notes}"
+website: {URL}
+address: "{Address} {postcode}"
 ccgservices:
 {ccgservices}
 ccgcodes:
