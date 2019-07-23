@@ -1,12 +1,10 @@
 Service ID,CCG17CD
-aberdeen,S03000012
+aberdeen,
 bednluton,E38000010
 bednluton,E38000102
 eaberks,E38000224
 weberks,E38000114
-weberks,E38000221
 buckingh,E38000207
-buckingh,E38000223
 milkeyn,E38000107
 huntingd,E38000026
 petebor,E38000026
@@ -34,7 +32,7 @@ easushas,E38000213
 brihove,E38000021
 eassusdgn,E38000083
 huleardn,E38000085
-ednlthian,S03000042
+ednlthian,
 wlchless,E38000192
 ntheaecl,E38000106
 havrng,E38000077
@@ -42,7 +40,7 @@ mdessx,E38000106
 rdbrdge,E38000138
 sthndesx,E38000117
 shwesthr,E38000197
-glsgwsct,S03000043
+glsgwsct,
 chlgloush,E38000062
 wgnleigh,E38000205
 bltngm,E38000016
@@ -52,23 +50,19 @@ altrman,E38000217
 bsngham,E38000118
 ptsmhmp,E38000137
 wnchhmp,E38000013
-herfherf,E38000078
+herfherf,E38000049
 hlstessx,E38000197
 herfdshr,E38000049
-invrnshgl,S03000044
+invrnshgl,
 nwislew,E38000087
-bcknkent,E38000023
+bcknkent,E38000124
 cantkent,E38000199
-cantkent,E38000029
 bexlyknt,E38000011
 knmdart,E38000104
-knmdart,E38000043
 knmgilln,E38000156
-knmgilln,E38000104
 knmashfd,E38000002
 knmaylsm,E38000002
 knmmaid,E38000207
-knmmaid,E38000199
 chrlyman,E38000034
 prestman,E38000050
 sthptlanc,E38000170
@@ -83,7 +77,6 @@ hcknylnd,E38000035
 putnyldn,E38000202
 roelondn,E38000202
 farqlondn,E38000023
-farqlondn,E38000171
 stratlond,E38000113
 hartottlnd,E38000031
 hrtottlon,E38000202
@@ -113,7 +106,7 @@ nottnottn,E38000132
 mannottn,E38000103
 oxfoxfds,E38000136
 shrewshp,E38000147
-carsglam,W11000029
+carsglam,E38000056
 donsthyk,E38000022
 rthstyork,E38000141
 sffstyork,E38000146
@@ -187,7 +180,7 @@ easushas,E38000213
 brihove,E38000021
 eassusdgn,E38000083
 huleardn,E38000085
-ednlthian,S03000042
+ednlthian,
 wlchless,E38000192
 ntheaecl,E38000106
 havrng,E38000077
