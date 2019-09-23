@@ -5,6 +5,7 @@ import argparse
 import re
 import os.path
 import operator
+from functools import reduce
 
 # Run this like python details2hugoc.py ../data/service-wcs-ccg.csv ../data/service-wcs-details.csv --dest ../data/somedata/
 
