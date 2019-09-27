@@ -1,14 +1,14 @@
 ---
-title: Access to Communication and Technology (ACT)
+title: Access to Communication and Technology (ACT), Birmingham
 serviceid: ACT
-servicename: Access to Communication and Technology (ACT)
+servicename: Access to Communication and Technology, Birmingham
 caseload: All
 contactphone: 0121 466 3028 (Referrals)
-email: ACT.Duty@bhamcommunity.nhs.uk
-website: http://www.bhamcommunity.nhs.uk/patients-public/rehabilitation/act/
+email: ACTduty@nhs.net
+website: http://www.bhamcommunity.nhs.uk/about-us/services-directory/specialist-services/rehabilitation/services/act/
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/access-communication-and-technology
-note: "Also specialised EC provider to West Midlands region"
-servicecolor: "#91fa0a"
+address: "ACT, WMRC,Oak Tree Lane, Selly Oak, Birmingham B29 6JA"
+note: ""
 ccgservices:
   - ec
   - aac
