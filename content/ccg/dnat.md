@@ -1,10 +1,11 @@
 ---
 title: Derbyshire & Nottinghamshire EAT service 
+host: Derby Teaching Hospitals NHS Foundation Trust
 serviceid: DNAT
 servicename: Derbyshire & Nottinghamshire EAT service 
 contactphone: 01332 254980
 email: dhft.eat@nhs.net
-website: None at present
+website: https://www.uhdb.nhs.uk/service-electronic-assistive-technology
 address: "Derbyshire & Nottinghamshire Electronic Assistive Technology Service, London Road Community Hospital, London Road, Derby DE1 2QY"
 note: ""
 ccgservices:

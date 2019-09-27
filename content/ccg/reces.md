@@ -1,7 +1,8 @@
 ---
-title: North Thames RECES                         (Regional Environmental Control Equipment Service) 
+title: North Thames RECES (Regional Environmental Control Equipment Service) 
 serviceid: RECES
-servicename: North Thames RECES                         (Regional Environmental Control Equipment Service) 
+host: Hillingdon Hospital NHS Foundation Trust
+servicename: North Thames RECES (Regional Environmental Control Equipment Service) 
 contactphone: 01895 279 158
 email: thh-tr.RECES@nhs.net
 website: http://www.thh.nhs.uk/services/RECES/index.php
