@@ -92,8 +92,8 @@ if __name__ == '__main__':
     basename = os.path.basename(fn)
     match = re.match(r"^service-([^\-]+)-([^\.]+).csv", basename, re.IGNORECASE)
     if match != None:
-      name = match.group(1)
-      if match.group(2) == "ccg":
+       name = match.group(1)
+       if match.group(2) == "ccg":
         with open(fn, 'r') as f:
           rows = list(reader(f))
           if len(rows) < 2:
@@ -106,7 +106,7 @@ if __name__ == '__main__':
               record[fields[i]] = row[i] if len(row) > i else ""
             records.append(record)
           allservices[name] = records
-      elif match.group(2) == "details":
+       elif match.group(2) == "details":
         alldetails[name] = fn
 
   # write content
