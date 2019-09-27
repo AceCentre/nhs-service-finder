@@ -1,5 +1,6 @@
 ---
 title: Suffolk ECS
+host: West Suffolk NHS Foundation Trust
 serviceid: SEC
 servicename: Suffolk ECS
 contactphone: 01473 692727
