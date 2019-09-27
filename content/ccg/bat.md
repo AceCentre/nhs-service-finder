@@ -2,13 +2,14 @@
 title: Barnsley Assistive Technology Team
 serviceid: BAT
 servicename: Barnsley Assistive Technology Team
-caseload: All
-contactphone: 01226 432159
 servicecolor: "#4B3171"
+contactphone: 01226 432159
 email: barnsley.at@nhs.net
 website: http://www.barnsleyhospital.nhs.uk/assistive-technology/
+address: "Barnsley Assistive Technology Team, Barnsley Hospital NHS Foundation Trust, Gawber Road,Barnsley,S75 2EP"
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/barnsley-assistive-technology-service
 note: "Also specialised EC provider to region."
+note: ""
 ccgservices:
   - ec
   - aac
@@ -21,7 +22,6 @@ ccgcodes:
   - e38000121
   - e38000064
   - e38000044
-  - e38000008
   - e38000122
   - e38000190
   - e38000146
@@ -36,6 +36,7 @@ ccgcodes:
   - e38000085
   - e38000188
   - e38000025
+  - e38000008
   - e38000225
 ---
 
