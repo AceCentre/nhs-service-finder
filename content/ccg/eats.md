@@ -4,8 +4,10 @@ caseload: All
 serviceid: EATS
 servicename: Electronic Assistive Technology Service (EATS)
 contactphone: 01522 697282
-website: http://www.eatslincoln.co.uk/ (temporary)
+email: eats.lincoln@nhs.net 
+website: http://www.eatslincoln.co.uk/ 
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/lincolnshire-adults-aac-service
+address: "Electronic Assistive Technology Service, Fen House, Fen Lane, North Hykeham, Lincoln LN6 8UZ"
 note: ""
 ccgservices:
   - ec
