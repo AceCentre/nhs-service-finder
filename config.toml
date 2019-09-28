@@ -8,6 +8,11 @@ theme = "hugo-acecentre-theme"
     mediaType = "application/json"
     baseName = "rawdata"
     isPlainText = true
+  [outputFormats.kml]
+    mediaType = "application/xml"
+    baseName = "kml"
+    isPlainText = true
+
 
 [outputs]
 page = [ "html", "rawdata" ]
