@@ -1,7 +1,7 @@
 ---
 title: North East Regional EC Service
 serviceid: NTE
-host:Northumberland, Tyne & Wear NHS Foundation Trust
+host: Northumberland, Tyne & Wear NHS Foundation Trust
 servicename: North East Regional EC Service
 contactphone: 01434 612714
 email: RECSAdmin@ntw.nhs.uk
