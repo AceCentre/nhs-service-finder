@@ -11,13 +11,11 @@ note: ""
 ccgservices:
   - ec
 ccgcodes:
-  - e38000218
-  - e38000219
   - e38000124
   - e38000131
   - e38000159
-  - e38000063
   - e38000203
+  - e38000063
 ---
 
 {{< ccg_service_detail >}}
