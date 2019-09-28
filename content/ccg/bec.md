@@ -1,6 +1,6 @@
 ---
 title: Bedfordshire EC service
-host:Essex Partneship University Trust
+host: Essex Partneship University Trust
 serviceid: BEC
 servicename: Bedfordshire EC service
 contactphone: 01582 709037 
