@@ -2,14 +2,15 @@ backend:
   name: github
   repo: acecentre/nhs-service-finder
   branch: master 
+
+media_folder: "static/images/uploads"
+media_library:
+  name: uploads    
   
 collections:
   - name: "nhs-service" 
     label: "Service" 
     folder: "content/ccg" 
-    media_folder: "static/images/uploads"
-    media_library:
-      name: uploads    
     create: false 
     slug: "{{fields.serviceid}}" 
     fields: 
