@@ -46,8 +46,7 @@ cd ../../
 hugo
 ```
 
-NB: to build the list of options. Take the spreadsheet (tsv) from arcgis
-and then run this regex: 
+NB: to build the list of options for the admin. Take the spreadsheet (tsv ([e.g.](https://opendata.arcgis.com/datasets/fb54d17c298a451fbf198d1f441c53d0_0.csv?session=undefined))) from arcgis, remove some of the columns that we don't need then run this regex: 
 
 ```find: ^(E[0-9]{8})\t([a-zA-Z\s(),-]+)$
 replace: { label: "\1", value: "\2" }, 
