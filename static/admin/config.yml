@@ -17,6 +17,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Service ID", name: "serviceid", widget: "string"}
       - {label: "Service Name", name: "servicename", widget: "string"}
+      - {label: "Service Colour", name: "servicecolor", widget: "string", required: false}
+      - {label: "Email", name: "email", widget: "string", required: false}
+      - {label: "Alternative web address", name: "cm_listing_link", widget: "string", required: false}
       - {label: "Contact Phone #", name: "contactphone", widget: "string"}
       - {label: "Website", name: "website", widget: "string"}
       - {label: "Address", name: "address", widget: "text"}
