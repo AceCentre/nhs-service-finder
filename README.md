@@ -45,3 +45,10 @@ bower install
 cd ../../
 hugo
 ```
+
+NB: to build the list of options. Take the spreadsheet (tsv) from arcgis
+and then run this regex: 
+
+```find: ^(E[0-9]{8})\t([a-zA-Z\s(),-]+)$
+replace: { label: "\1", value: "\2" }, 
+```
