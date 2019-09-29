@@ -8,10 +8,9 @@ cm_listing_link: >-
   http://www.communicationmatters.org.uk/contact-assessment-service/ace-centre-oldham
 contactphone: 0800 080 3115
 website: 'http://acecentre.org.uk'
-address: Gikkub===
+address: 'Hollinwood Business Centre, Albert Street, Oldham, OL8 3QL'
 ccgservices:
   - aac
-  - wcs
 ccgcodes:
   - e38000135
   - e38000143
