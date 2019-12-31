@@ -3,8 +3,8 @@ title: Kent & Medway Specialist Equipment Service
 serviceid: KMPT
 servicename: Kent & Medway Specialist Equipment Service
 contactphone: 01634 833923
-email: KAMNASCPT.specialistequipmentservices@nhs.net
-website: https://www.kmpt.nhs.uk/services/environmental-control-service/7017
+email: kmpt.specialistequipmentservices@nhs.net 
+website: https://www.kmpt.nhs.uk/our-services/environmental-control-service/ 
 address: "Specialist Equipment Service, Disablement Services Centre, Medway Hospital, Windmill Road, Gillingham, Kent ME7 5PA"
 note: ""
 ccgservices:
