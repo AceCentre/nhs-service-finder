@@ -3,6 +3,7 @@ title: Communication Aid Service East of England (CASEE)
 serviceid: CASEE
 servicename: Communication Aid Service East of England (CASEE)
 caseload: All
+address: Addenbrooke’s Hospital Cambridge Biomedical Campus Hills Road
 contactphone: 01223 349401
 email: enquiries.casee@nhs.net
 website: n/a

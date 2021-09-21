@@ -4,8 +4,9 @@ serviceid: ACE-S
 servicename: ACE Centre South
 caseload: All
 contactphone: 0800 080 3115
-email: enquiries@acecentre.org.uk 
-website: http://acecentre.org.uk 
+address: "5 Hitching Court  Blacklands Way  Abingdon Business Park  Oxfordshire OX14 1RG"
+email: enquiries@acecentre.org.uk
+website: http://acecentre.org.uk
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/ace-centre-oxford
 note: ""
 servicecolor: "#39d4c0"

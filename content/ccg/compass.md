@@ -7,6 +7,7 @@ contactphone: 020 8780 4500
 email: compass@rhn.org.uk
 website: https://www.rhn.org.uk/what-makes-us-special/services/compass/
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/compass-assistive-technology-service
+address: Royal Hospital for Neuro-Disability  West Hill Putney London  SW15 3SW
 note: ""
 ccgservices:
   - aac

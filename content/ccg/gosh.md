@@ -8,6 +8,7 @@ email: acsadmin@gosh.nhs.uk
 website: http://www.gosh.nhs.uk/medical-information/clinical-specialties/neurodisability-information-parents-and-visitors/clinics-and-services/augmentative-communication-service
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/wolfson-neurodisability-team-communication-service
 note: "Children only (0-16)."
+address: Great Ormond Street  London  WC1N 3JH
 ccgservices:
   - aac
 ccgcodes:
