@@ -9,7 +9,6 @@ website: http://www.barnsleyhospital.nhs.uk/assistive-technology/
 address: "Barnsley Assistive Technology Team, Barnsley Hospital NHS Foundation Trust, Gawber Road,Barnsley,S75 2EP"
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/barnsley-assistive-technology-service
 note: "Also specialised EC provider to region."
-note: ""
 ccgservices:
   - ec
   - aac
