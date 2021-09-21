@@ -6,6 +6,7 @@ caseload: All
 contactphone: 01825 721506
 email: SC-TR.ChaileyAACservice@nhs.net
 website: http://www.sussexcommunity.nhs.uk/services/chailey-communication-aidservice.htm
+address: Beggars Wood Road  North Chailey Lewes BN8 4JN
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/chailey-clinical-services
 note: ""
 ccgservices:

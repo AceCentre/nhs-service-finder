@@ -9,6 +9,7 @@ email: acat.service@nhs.net
 website: http://www.ekhuft.nhs.uk/acat
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/km-cat-adults
 note: ""
+address: Department of Medical Physics  Kent and Canterbury Hospital  Ethelbert Road  Canterbury  CT1 3NG
 ccgservices:
   - aac
 ccgcodes:

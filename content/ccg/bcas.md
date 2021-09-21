@@ -2,10 +2,11 @@
 title: Bristol Communication Aid Service (BCAS)
 serviceid: BCAS
 servicename: Bristol Communication Aid Service (BCAS)
+address: Bristol Centre for Enablement  Highwood Pavilions  Jupiter Road  Patchway  Bristol BS34 5BW
 caseload: All
 contactphone: 0117 414 5850
 email: cacadmin@nbt.nhs.uk
-website: http://www.nbt.nhs.uk/bcas 
+website: http://www.nbt.nhs.uk/bcas
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/bristol-communication-aid-service
 note: ""
 servicecolor: "#b539d4"

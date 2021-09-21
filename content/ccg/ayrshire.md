@@ -3,6 +3,7 @@ title: Ayrshire & Arran AAC Resource
 serviceid: AYRSHIRE
 servicename: Ayrshire & Arran AAC Resource
 caseload: Adults
+address: "Ayrshire Central Hospital Kilwinning Rd Irvine  KA12 8SS"
 contactphone: 01294 323528
 email: linda.page@aapct.scot.nhs.uk
 website: https://www.nhsaaa.net/allied-health-professionals-ahps/speech-and-language-therapy/augmentative-and-alternative-communication/
