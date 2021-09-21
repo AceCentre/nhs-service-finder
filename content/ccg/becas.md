@@ -2,10 +2,10 @@
 title: Belfast Communication Advice Centre
 serviceid: BECAS
 servicename: Belfast Communication Advice Centre
-caseload: 
-contactphone: 
-email: 
-website: 
+caseload:
+contactphone: 028 950 46866
+email:
+website:
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/communication-advice-centre
 note: ""
 ccgservices:

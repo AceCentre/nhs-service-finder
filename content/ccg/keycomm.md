@@ -3,10 +3,10 @@ title: Lothian Communication Technology Service
 serviceid: KEYCOMM
 servicename: Lothian Communication Technology Service
 caseload: Adults
-contactphone: 
-email: 
-website: 
-cm_listing_link: 
+contactphone: 0131 311 7130
+email:
+website:
+cm_listing_link:
 note: ""
 ccgservices:
   - aac

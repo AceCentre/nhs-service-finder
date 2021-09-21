@@ -3,10 +3,10 @@ title: Regional Communication Aid Service (RCAS)
 serviceid: RCAS
 servicename: Regional Communication Aid Service (RCAS)
 caseload: All
-contactphone: 
-email: 
+contactphone: 0191 287 5240
+email:
 website: http://www.communicationmatters.org.uk/contact-assessment-service/regional-communication-aid-service
-cm_listing_link: 
+cm_listing_link:
 note: ""
 ccgservices:
   - ec
