@@ -2,10 +2,10 @@
 title: Barnet Wheelchair Service
 serviceid: finchlndn
 servicename: Barnet Wheelchair Service
-contactphone: 0845 389 2889
-email: wheelchair.service@barnet-pct.nhs.uk
-website: 
-address: "Finchley Memorial Hospital Granville Road   Finchley London N12 0JE"
+contactphone: 0808 164 2040
+email: parkroyal@ajmhealthcare.org
+website: https://northwestlondon.wheelchair.services/
+address: "Vale Drive Primary Care Centre  Vale Drive  Barnet  EN5 2ED"
 ccgservices:
   - wcs
 ccgcodes:

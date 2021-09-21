@@ -4,8 +4,8 @@ serviceid: KEYCOMM
 servicename: Lothian Communication Technology Service
 caseload: Adults
 contactphone: 0131 311 7130
-email:
-website:
+email: deborah.jans@ea.edin.sch.uk
+website: https://keycommaac.wordpress.com/
 cm_listing_link:
 note: ""
 ccgservices:

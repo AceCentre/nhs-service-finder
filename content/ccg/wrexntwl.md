@@ -3,8 +3,8 @@ title: Artificial Limb and Appliance Service
 serviceid: wrexntwl
 servicename: Artificial Limb and Appliance Service
 contactphone: 01978 727524
-email: 
-website: 
+email: CAV_Alas@wales.nhs.uk
+website: https://cavuhb.nhs.wales/our-services/artificial-limb-and-appliance-service/
 address: "Wrexham Maelor Hospital Croesnewydd Road   Wrexham North Wales LL13 7TD"
 ccgservices:
   - wcs

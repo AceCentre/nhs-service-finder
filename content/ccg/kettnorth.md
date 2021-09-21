@@ -2,10 +2,10 @@
 title: Northamptonshire Wheelchair Service Assessment Team
 serviceid: kettnorth
 servicename: Northamptonshire Wheelchair Service Assessment Team
-contactphone: 01536 516069
+contactphone: 0333 999 0890
 email: wheelchair.assessment@nhft.nhs.uk
-website: 
-address: "Forest House 2 Riley Road   Kettering Northamptonshire NN16 8NN"
+website: https://millbrookhealthcare.co.uk/pages/northamptonshire-wcs
+address: "22 Meadow Road  Kettering NN16 8TL"
 ccgservices:
   - wcs
 ccgcodes:

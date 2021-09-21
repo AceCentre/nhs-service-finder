@@ -1,11 +1,11 @@
 ---
-title: East Berks Wheelchair Service
+title: East Berkshire Specialist Wheelchair Service
 serviceid: eaberks
-servicename: East Berks Wheelchair Service
-contactphone: 01753 - 638647
-email: 
-website: 
-address: "Mobility Centre (Wheelchair Service) St Mark's Hospital St Mark's Road  Maidenhead Berkshire SL6 6DU"
+servicename: East Berkshire Specialist Wheelchair Service
+contactphone: 01628 670117
+email: berkseast.mobility@berkshire.nhs.uk
+website: https://www.berkshirehealthcare.nhs.uk/our-services/physical-and-community-healthcare/east-berkshire-specialist-wheelchair-service/
+address: "3 Abell Gardens Maidenhead  SL6 6PS"
 ccgservices:
   - wcs
 ccgcodes:
