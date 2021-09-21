@@ -4,8 +4,8 @@ serviceid: AYRSHIRE
 servicename: Ayrshire & Arran AAC Resource
 caseload: Adults
 contactphone: 01294 323528
-email:
-website:
+email: linda.page@aapct.scot.nhs.uk
+website: https://www.nhsaaa.net/allied-health-professionals-ahps/speech-and-language-therapy/augmentative-and-alternative-communication/
 cm_listing_link:
 note: ""
 ccgservices:

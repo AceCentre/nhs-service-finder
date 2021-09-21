@@ -2,10 +2,10 @@
 title: Greenwich Wheelchair Service
 serviceid: grenlond
 servicename: Greenwich Wheelchair Service
-contactphone: 0208 836 8536
-email: 
-website: 
-address: "Memorial Hospital Shooters Hill   Woolwich London SE18 3RZ"
+contactphone: 020 3045 5437
+email: info@inspirecommunitytrust.org
+website: https://inspirecommunitytrust.org/services/wheelchair/
+address: "20 Whitehall Lane Slade Green Kent  DA8 2DH"
 ccgservices:
   - wcs
 ccgcodes:

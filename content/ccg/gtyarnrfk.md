@@ -2,10 +2,10 @@
 title: Great Yarmouth & Waveney Wheelchair Service
 serviceid: gtyarnrfk
 servicename: Great Yarmouth & Waveney Wheelchair Service
-contactphone: 01493 659722
-email: 
-website: 
-address: "Norfolk Coastal Centre for Independent Life Woodfarm Lane Beacon Park Gorleston Great Yarmouth Norfolk NR31 9AQ"
+contactphone: 01502 532182
+email: ecch.enquiry@nhs.net
+website: https://www.ecch.org/our-services/wheelchair-service/
+address: "Kirkley Mill Health Centre  Economy Road  Lowestoft Suffolk NR33 0DR"
 ccgservices:
   - wcs
 ccgcodes:

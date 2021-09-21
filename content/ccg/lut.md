@@ -1,10 +1,10 @@
 ---
-title: Luton EC Service 
+title: Luton EC Service
 serviceid: LUT
-servicename: Luton EC Service 
+servicename: Luton EC Service
 contactphone: 01895 279 158
 email: thh-tr.RECES@nhs.net
-website: 
+website: https://www.thh.nhs.uk/services/reces/
 address: ""
 note: ""
 ccgservices:

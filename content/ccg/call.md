@@ -4,8 +4,8 @@ serviceid: CALL
 servicename: CALL Scotland
 caseload: Children
 contactphone: 0131 651 6236
-email:
-website:
+email: call.scotland@ed.ac.uk
+website: https://www.callscotland.org.uk/home/
 cm_listing_link:
 note: ""
 ccgservices:

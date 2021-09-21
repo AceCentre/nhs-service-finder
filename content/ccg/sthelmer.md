@@ -3,8 +3,8 @@ title: Wheelchair Assessment Unit
 serviceid: sthelmer
 servicename: Wheelchair Assessment Unit
 contactphone: 01744 646809
-email: 
-website: 
+email: bchft.enquiries@nhs.net
+website: https://bridgewater.nhs.uk/haltonsthelens/wheelchairservice/
 address: "Eccleston Centre St Helens Hospital Marshalls Cross Road  St Helens Merseyside WA9 3DA"
 ccgservices:
   - wcs

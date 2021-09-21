@@ -1,11 +1,11 @@
 ---
-title: Basingstoke Wheelchair Service
+title: Hampshire Wheelchair Service
 serviceid: bsngham
-servicename: Basingstoke Wheelchair Service
-contactphone: 01256 376485
-email: s.afshar@nhs.net
-website: 
-address: "Fairway House Parklands Hospital Aldermaston Road  Basingstoke Hampshire RG24 9RH"
+servicename: Hampshire Wheelchair Service
+contactphone: 03330038071
+email: scwcsu.hantswheelchairservice@nhs.net
+website: https://www.hampshirewheelchairservice.co.uk/
+address: "Millbrook Healthcare  Unit E1, Omega Enterprise Park  Chandler’s Ford Industrial Estate Eastleigh SO53 4SE"
 ccgservices:
   - wcs
 ccgcodes:

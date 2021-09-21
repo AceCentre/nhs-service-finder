@@ -2,10 +2,10 @@
 title: Havering Wheelchair Service
 serviceid: havrng
 servicename: Havering Wheelchair Service
-contactphone: 01708 796200
-email: 
-website: 
-address: "Disablement Services Centre Harold Wood Hospital Gubbins Lane Haroldwood Romford Essex RM3 0AR"
+contactphone: 0808 169 1040
+email: nel.ajmhealthcare@nhs.net
+website: https://northeastlondon.wheelchair.services/
+address: "Unit B1 Thamesview Business Centre  Fairview Industrial Park  Barlow Way  Rainham RM13 8BT"
 ccgservices:
   - wcs
 ccgcodes:
