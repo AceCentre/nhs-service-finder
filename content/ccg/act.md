@@ -1,7 +1,7 @@
 ---
 title: Access to Communication and Technology (ACT), Birmingham
 serviceid: ACT
-servicename: Access to Communication and Technology, Birmingham
+servicename: Access to Communication and Technology (ACT), Birmingham
 caseload: All
 contactphone: 0121 466 3028 (Referrals)
 email: ACTduty@nhs.net
