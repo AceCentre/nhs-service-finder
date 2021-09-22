@@ -3,7 +3,7 @@ title: Artificial Limb and Appliance Service
 serviceid: carsglam
 servicename: Artificial Limb and Appliance Service
 contactphone: 029 20 313905
-email:
+email: CAV_Alas@wales.nhs.uk
 website: www.wales.nhs.uk/alas
 address: "Rookwood Hospital  Fairwater Road  Llandaff  Cardiff  South Glamorgan  CF5 2YN"
 ccgservices:
