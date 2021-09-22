@@ -9,7 +9,7 @@ website: http://www.ntw.nhs.uk
 address: "Regional Environmental Control Systems (ECS) Service, Neurological Services, Special Care Group, Northumberland, Tyne & Wear NHS Foundation Trust, Chad House, Corbridge Road, Hexham, Northumberland, NE46 1QJ"
 note: ""
 ccgservices:
-
+  - ec
 ccgcodes:
   - e39000002
   - e38000042
