@@ -1,0 +1,16 @@
+{
+  "serviceTypes": [
+    {
+      "id": "wcs",
+      "title": "Wheelchair services"
+    },
+    {
+      "id": "aac",
+      "title": "AAC services"
+    },
+    {
+      "id": "ec",
+      "title": "EC services"
+    }
+  ]
+}
