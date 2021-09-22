@@ -1,0 +1,22 @@
+{
+  "name": "nhs-service-finder",
+  "version": "1.0.0",
+  "description": "This is a database of NHS Specialist Services around the UK - and the regions they cover. The main focus is for indivdiuals (clients/patients) looking for which service supports them in their postcoded area. The site also is useful for professionals alike. As well as the postcode look up tool each service has its own detailed page (for example https://servicefinder.acecentre.net/ccg/reces/) with the data existing in just one file (for example https://github.com/AceCentre/nhs-service-finder/blob/master/content/ccg/reces.md).",
+  "main": "one-time-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AceCentre/nhs-service-finder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AceCentre/nhs-service-finder/issues"
+  },
+  "homepage": "https://github.com/AceCentre/nhs-service-finder#readme",
+  "dependencies": {
+    "apollo-server-lambda": "^3.3.0"
+  }
+}
