@@ -6,7 +6,7 @@ caseload: Children
 contactphone: 0131 651 6236
 email: call.scotland@ed.ac.uk
 website: https://www.callscotland.org.uk/home/
-address: Moray House  Paterson's Land Holyrood Rd Edinburgh EH8 8AQ
+address: Moray House  Paterson's Land  Holyrood Rd  Edinburgh  EH8 8AQ
 cm_listing_link:
 note: ""
 ccgservices:

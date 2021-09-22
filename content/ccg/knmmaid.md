@@ -5,7 +5,7 @@ servicename: Kent & Medway Wheelchair Service, Maidstone
 contactphone: 0300 7900128
 email: kcht.wheelchairservice-kent@nhs.net
 website: www.kentcht.nhs.uk
-address: "The Heathside Centre Heath Road Coxheath  Maidstone Kent ME17 4AH"
+address: "The Heathside Centre  Heath Road  Coxheath  Maidstone  Kent  ME17 4AH"
 ccgservices:
   - wcs
 ccgcodes:

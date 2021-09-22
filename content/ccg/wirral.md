@@ -5,7 +5,7 @@ servicename: Wirral Wheelchair Service
 contactphone: 0121 466 3028 (Referrals)
 email: ACT.Duty@bhamcommunity.nhs.uk
 website: http://www.bhamcommunity.nhs.uk/patients-public/rehabilitation/act/
-address: "http://www.communicationmatters.org.uk/contact-assessment-service/access-communication-and-technology"
+address: "West Midlands Rehabilitation Centre, 91 Oak Tree Lane, Selly Oak, Birmingham, B29 6JA"
 note: "Also specialised EC provider to West Midlands region"
 ccgservices:
   - wcs

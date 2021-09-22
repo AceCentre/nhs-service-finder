@@ -5,7 +5,7 @@ servicename: Wiltshire Wheelchair Service and Specialist Service
 contactphone: 01225 899 130
 email: Joanne.lawton@gwh.nhs.uk
 website: https://wiltshirehealthandcare.nhs.uk/service/wheelchair-service/
-address: "Melksham Community Hospital Spa Road Melksham Wiltshire SN12 7NA"
+address: "Melksham Community Hospital  Spa Road  Melksham  Wiltshire  SN12 7NA"
 ccgservices:
   - wcs
 ccgcodes:

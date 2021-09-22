@@ -5,7 +5,7 @@ servicename: North Lincolnshire Wheelchair Service
 contactphone: 01724 298080
 email: nlg-tr.PALS@nhs.net
 website: https://www.nlg.nhs.uk/services/wheelchair-services/
-address: "Horkstow House Brumby Resource Centre East Common Lane  Scunthorpe North Lincolnshire DN16 1QQ"
+address: "Horkstow House Brumby Resource Centre  East Common Lane  Scunthorpe  North Lincolnshire  DN16 1QQ"
 ccgservices:
   - wcs
 ccgcodes:

@@ -5,7 +5,7 @@ servicename: Wolverhampton Wheelchair Service Maltings Mobility Centre
 contactphone: 01902 444042
 email: rwh-tr.wheelchairservice@nhs.net
 website: https://www.royalwolverhampton.nhs.uk/services/service-directory-a-z/wolverhampton-wheelchair-service/
-address: "The Maltings Herbert Street   Wolverhampton West Midlands WV1 1NQ"
+address: "The Maltings  Herbert Street   Wolverhampton  West Midlands  WV1 1NQ"
 ccgservices:
   - wcs
 ccgcodes:

@@ -7,7 +7,7 @@ contactphone: 01233 629859
 email: kcht.cat-admin@nhs.net
 website: http://www.kelsi.org.uk
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/km-cat-children-and-young-people
-address: Kent Communications and Assistive Technology Service The Old Railway School  Wainwright Place Ashford TN24 0PF
+address: Kent Communications and Assistive Technology Service  The Old Railway School  Wainwright Place  Ashford  TN24 0PF
 note: ""
 ccgservices:
   - aac

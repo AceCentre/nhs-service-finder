@@ -3,9 +3,9 @@ title: Salford Disable Living Centre
 serviceid: salfman
 servicename: Salford Disable Living Centre
 contactphone: 0161 607 1499
-email: 
+email:
 website: www.salford.gov.uk
-address: "Burrows House Wardley Industrial Estate   Salford Greater Manchester M28 2LY"
+address: "Burrows House  Wardley Industrial Estate   Salford  Greater Manchester  M28 2LY"
 ccgservices:
   - wcs
 ccgcodes:

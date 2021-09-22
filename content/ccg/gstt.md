@@ -8,7 +8,7 @@ email: gst-tr.acs-hub@nhs.net
 website: http://www.guysandstthomas.nhs.uk/our-services/community-assistive-communication-service/overview.aspx
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/assistive-technology-team
 note: ""
-address: Bowley Close Regional Specialist Rehabilitation Centre Farquhar Road  London  SE19 1SZ
+address: Bowley Close Regional Specialist Rehabilitation Centre  Farquhar Road  London  SE19 1SZ
 ccgservices:
   - aac
 ccgcodes:

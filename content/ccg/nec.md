@@ -6,7 +6,7 @@ servicename: Norfolk EC Service
 contactphone: 01603 255754
 email: EnvironmentalControlService@nchc.nhs.uk
 website: http://www.norfolkcommunityhealthandcare.nhs.uk
-address: "Jubilee House, Colman Centre for Specialist Rehabilitation Services, Unthank Road,Norwich NR2 2PJ"
+address: "Jubilee House, Colman Centre for Specialist Rehabilitation Services, Unthank Road,Norwich, NR2 2PJ"
 note: ""
 ccgservices:
   - ec
