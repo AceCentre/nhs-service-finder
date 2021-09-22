@@ -8,6 +8,10 @@ const typeDefs = gql`
   type Service {
     id: String!
   }
+
+  type Query {
+    services: [Service]
+  }
 `;
 
 const resolvers = {
