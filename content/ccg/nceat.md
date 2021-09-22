@@ -4,7 +4,7 @@ serviceid: NCEAT
 servicename: National Centre for Electronic Assistive Technology (NCEAT)
 caseload: All
 contactphone: 029 2031 3914
-email:
+email: info.eat@wales.nhs.uk
 website: http://www.cardiffandvaleuhb.wales.nhs.uk/electronic-assistive-technology
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/communication-aid-centre-alac
 note: ""
