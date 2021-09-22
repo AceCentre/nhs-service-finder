@@ -5,7 +5,7 @@ servicename: Wheelchair Assessment Unit
 contactphone: 01744 646809
 email: bchft.enquiries@nhs.net
 website: https://bridgewater.nhs.uk/haltonsthelens/wheelchairservice/
-address: "Eccleston Centre St Helens Hospital Marshalls Cross Road  St Helens Merseyside WA9 3DA"
+address: "Eccleston Centre  St Helens Hospital  Marshalls Cross Road  St Helens  Merseyside  WA9 3DA"
 ccgservices:
   - wcs
 ccgcodes:

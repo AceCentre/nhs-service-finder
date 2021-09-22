@@ -3,9 +3,9 @@ title: Wheelchair and Special Seating Services
 serviceid: donsthyk
 servicename: Wheelchair and Special Seating Services
 contactphone: 01302 566701
-email: 
+email:
 website: www.rdash.nhs.uk
-address: "Tickhill Road Hospital Tickhill road Balby  Doncaster South Yorkshire DN4 8QN"
+address: "Tickhill Road Hospital  Tickhill Road  Balby  Doncaster  South Yorkshire  DN4 8QN"
 ccgservices:
   - wcs
 ccgcodes:

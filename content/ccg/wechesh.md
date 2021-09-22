@@ -3,9 +3,9 @@ title: West Cheshire Wheelchair Service
 serviceid: wechesh
 servicename: West Cheshire Wheelchair Service
 contactphone: 0151 357 1070
-email: 
+email:
 website: http://www.wirralct.nhs.uk
-address: "Poole Centre New Grosvenor Road   Ellesmere Port Cheshire CH65 2HB"
+address: "Poole Centre  New Grosvenor Road   Ellesmere Port  Cheshire  CH65 2HB"
 ccgservices:
   - wcs
 ccgcodes:

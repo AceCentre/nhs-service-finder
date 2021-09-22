@@ -5,7 +5,7 @@ servicename: Southport & Formby Wheelchair Services
 contactphone: 01704 385098
 email: Wheelchairs.southportandformby@lancashirecare.nhs.uk
 website: https://www.lscft.nhs.uk/wheelchair-service-southport-and-formby
-address: "44 - 46 Houghton ST    Southport Lancashire PR9 0PQ"
+address: "44 - 46 Houghton ST    Southport  Lancashire  PR9 0PQ"
 ccgservices:
   - wcs
 ccgcodes:

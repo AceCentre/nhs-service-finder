@@ -7,7 +7,7 @@ contactphone: 0191 287 5240
 email: rcas@ntw.nhs.uk
 website: http://www.communicationmatters.org.uk/contact-assessment-service/regional-communication-aid-service
 cm_listing_link:
-address: Walkergate Park  Centre for Neurorehabilitation and Neuropsychiatry  Benfield Road Newcastle upon Tyne NE6 4QD
+address: Walkergate Park  Centre for Neurorehabilitation and Neuropsychiatry  Benfield Road  Newcastle upon Tyne  NE6 4QD
 note: ""
 ccgservices:
   - ec

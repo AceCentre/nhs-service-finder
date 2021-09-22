@@ -7,7 +7,7 @@ contactphone: 0141 201 2619
 email: sctci@ggc.scot.nhs.uk
 website:
 cm_listing_link: https://www.communicationmatters.org.uk/assessment_service/sctci/
-address: "WESTMARC  Queen Elizabeth University Hospital 1345 Govan Road    Glasgow G51 4TF"
+address: "WESTMARC  Queen Elizabeth University Hospital  1345 Govan Road    Glasgow  G51 4TF"
 note: ""
 ccgservices:
 

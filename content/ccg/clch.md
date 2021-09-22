@@ -5,7 +5,7 @@ servicename: Assistive Communication Service - CLCH (ACS)
 caseload: All
 contactphone: 0208 102 4067
 email: Nikky.steiner@nhs.net
-address: South Westminster Centre for Health  St Georges House  82 Vincent Square London  SW1P 2PF
+address: South Westminster Centre for Health  St Georges House  82 Vincent Square  London  SW1P 2PF
 website: http://www.clch.nhs.uk/services/assistive-communication-service.aspx
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/assistive-communication-service
 note: ""

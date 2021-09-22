@@ -6,7 +6,7 @@ servicename: North West AT Service
 contactphone: 0151 529 2022
 email: eatnw@nhs.net
 website: http://www.northwestassistivetechnology.nhs.uk/
-address: "Northwest Assistive Technology, Aintree University Hospital,  1st Floor Aintree House, Longmoor Lane, Liverpool L9 7AL"
+address: "Northwest Assistive Technology, Aintree University Hospital, 1st Floor Aintree House, Longmoor Lane, Liverpool  L9 7AL"
 note: ""
 ccgservices:
   - ec

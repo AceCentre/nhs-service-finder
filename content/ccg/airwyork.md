@@ -3,9 +3,9 @@ title: Airedale Mobility Services
 serviceid: airwyork
 servicename: Airedale Mobility Services
 contactphone: 01535 292228
-email: 
+email:
 website: www.airedale-trust.nhs.uk
-address: "Airedale General Hospital Skipton Road Steeton  Near Keighley West Yorkshire BD20 6TD"
+address: "Airedale General Hospital  Skipton Road Steeton  Near Keighley  West Yorkshire  BD20 6TD"
 ccgservices:
   - wcs
 ccgcodes:

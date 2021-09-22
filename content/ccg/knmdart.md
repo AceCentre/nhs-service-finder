@@ -5,7 +5,7 @@ servicename: Kent and Medway Wheelchair Service , Dartford
 contactphone: 0300 7900128
 email: kcht.wheelchairservice-kent@nhs.net
 website: www.kentcht.nhs.uk
-address: "Greenacres Bow Arrow  Lane   Dartford Kent DA2 6PB"
+address: "Greenacres, Bow Arrow Lane   Dartford  Kent  DA2 6PB"
 ccgservices:
   - wcs
 ccgcodes:

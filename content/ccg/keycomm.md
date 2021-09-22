@@ -8,7 +8,7 @@ email: deborah.jans@ea.edin.sch.uk
 website: https://keycommaac.wordpress.com/
 cm_listing_link:
 note: ""
-address: Keycomm Resource Centre  1c Pennywell Road Edinburgh EH4 4PH
+address: Keycomm Resource Centre  1c Pennywell Road  Edinburgh  EH4 4PH
 ccgservices:
   - aac
 ccgcodes:

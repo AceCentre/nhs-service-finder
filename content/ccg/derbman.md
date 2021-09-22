@@ -5,7 +5,7 @@ servicename: Derbyshire Wheelchair Service
 contactphone: 0808 169 8747
 email: derbyshire@ajmhealthcare.org
 website: https://derbyshire.wheelchair.services/
-address: "Alfreton Road Derby DE21 4AQ"
+address: "Alfreton Road  Derby  DE21 4AQ"
 ccgservices:
   - wcs
 ccgcodes:

@@ -8,7 +8,7 @@ email:
 website: http://www.cardiffandvaleuhb.wales.nhs.uk/electronic-assistive-technology
 cm_listing_link: http://www.communicationmatters.org.uk/contact-assessment-service/communication-aid-centre-alac
 note: ""
-address: 18 Fairwater Rd  Cardiff CF5 2YN
+address: 18 Fairwater Rd  Cardiff  CF5 2YN
 ccgservices:
   - ec
   - aac

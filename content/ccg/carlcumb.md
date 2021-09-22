@@ -5,7 +5,7 @@ servicename: Carlisle Disablement Services Centre
 contactphone: 01228 814783
 email: neil.wallace@blatchford.co.uk
 website: https://www.blatchford.co.uk/locations/carlisle-nhs-clinic/
-address: "Lower Ground Floor Cumberland Infirmary Infirmary Street  Carlisle Cumbria CA2 7HY"
+address: "Lower Ground Floor  Cumberland Infirmary  Infirmary Street  Carlisle  Cumbria  CA2 7HY"
 ccgservices:
   - wcs
 ccgcodes:

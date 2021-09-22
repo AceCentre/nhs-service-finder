@@ -5,7 +5,7 @@ servicename: Waltham Forest Wheelchair & Special Seating Service
 contactphone: 0800 1230810
 email: walthamforest@ajmhealthcare.org
 website: https://walthamforest.wheelchair.services/
-address: "The Gemini Centre 88 New London Road   Chelmsford Essex CM2 0PD"
+address: "The Gemini Centre  88 New London Road   Chelmsford  Essex  CM2 0PD"
 ccgservices:
   - wcs
 ccgcodes:
