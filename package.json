@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AceCentre/nhs-service-finder#readme",
   "dependencies": {
-    "apollo-server-lambda": "^3.3.0"
+    "apollo-server-lambda": "^3.3.0",
+    "graphql": "^15.6.0"
   }
 }
