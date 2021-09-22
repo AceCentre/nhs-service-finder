@@ -5,4 +5,4 @@ public/
 .python-virtualenv
 res/data/
 
-
+node_modules
