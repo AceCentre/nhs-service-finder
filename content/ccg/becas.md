@@ -2,7 +2,7 @@
 title: Belfast Communication Advice Centre
 serviceid: BECAS
 servicename: Belfast Communication Advice Centre
-caseload:
+caseload: All
 contactphone: 028 950 46866
 email: bronagh.blaney@belfasttrust.hscni.net
 website:
