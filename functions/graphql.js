@@ -1,6 +1,8 @@
-import { ApolloServer, gql } from "apollo-server-lambda";
-import { services } from "../new-data/services.json";
-import { ApolloServerPluginLandingPageGraphQLPlayground } from "apollo-server-core";
+const { ApolloServer, gql } = require("apollo-server-lambda");
+const { services } = require("../new-data/services.json");
+const {
+  ApolloServerPluginLandingPageGraphQLPlayground,
+} = require("apollo-server-core");
 
 const typeDefs = gql`
   type Service {
