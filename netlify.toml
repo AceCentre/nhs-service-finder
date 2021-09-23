@@ -8,5 +8,6 @@
     functions = "functions"
 
 [[redirects]]
-    from = "/api/graphql"
-    to = "/.netlify/functions/graphql"
+    from = "/graphql"
+    to = "https://servicefinder.acecentre.net/.netlify/functions/graphql"
+    status = 200
