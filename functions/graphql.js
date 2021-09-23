@@ -28,4 +28,7 @@ const server = new ApolloServer({
   //   plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
 });
 
-exports.handler = server.createHandler();
+exports.handler = (...all) => {
+  console.log(JSON.stringify(all, null, 2));
+  return server.createHandler()(...all);
+};
