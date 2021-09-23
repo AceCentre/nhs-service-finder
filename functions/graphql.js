@@ -10,6 +10,17 @@ const typeDefs = gql`
 
   type Service {
     id: String!
+    serviceName: String!
+    phoneNumber: String!
+    website: String!
+    addressLines: [String!]!
+    email: String!
+    ccgCodes: [String!]!
+    caseload: String!
+    provider: String
+    note: String
+    serviceColor: String
+    communicationMatters: String
   }
 
   type Query {
