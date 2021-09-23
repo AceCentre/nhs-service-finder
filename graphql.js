@@ -32,6 +32,8 @@ const typeDefs = gql`
     service(id: String!): Service!
     serviceTypes: [ServiceType!]!
     serviceType(id: String!): ServiceType!
+
+    serviceForGivenCcgList(ccgCodes: [String!]!): [Service]!
   }
 `;
 
@@ -58,6 +60,13 @@ const resolvers = {
       }
 
       return serviceType;
+    },
+    serviceForGivenCcgList: (_, { ccgCodes }) => {
+      const servicesForGivenCcgList = services.filter((service) => {
+        return ccgCodes.some((ccgCode) => service.ccgCodes.includes(ccgCode));
+      });
+
+      return servicesForGivenCcgList;
     },
   },
   ServiceType: {
