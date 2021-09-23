@@ -28,9 +28,16 @@ const server = new ApolloServer({
   //   plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
 });
 
+// We add this data to every event.
+// For some reason 'apollo-server-lambda' needs extra data
+// its a hack and might not be correct but it works.
+// We merge this with the real event, the real event takes precedence.
+const MANUAL_EVENT_PARAMS = {};
+
 exports.handler = (event, context) => {
-  return server.createHandler()(
-    { requestContext: true, version: "2.0", ...event },
-    context
-  );
+  const newEvent = { ...MANUAL_EVENT_PARAMS, ...event };
+
+  console.log(JSON.stringify(newEvent, null, 2));
+
+  return server.createHandler()(newEvent, context);
 };
