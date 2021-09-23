@@ -29,7 +29,6 @@ const server = new ApolloServer({
 });
 
 exports.handler = (event, context) => {
-  console.log(JSON.stringify(all, null, 2));
   return server.createHandler()(
     { requestContext: true, version: "2.0", ...event },
     context
