@@ -1,8 +1,5 @@
 const { ApolloServer, gql } = require("apollo-server-lambda");
 const { services } = require("../new-data/services.json");
-const {
-  ApolloServerPluginLandingPageGraphQLPlayground,
-} = require("apollo-server-core");
 
 const typeDefs = gql`
   type Service {
@@ -25,7 +22,6 @@ const server = new ApolloServer({
   resolvers,
   introspection: true,
   playground: true,
-  //   plugins: [ApolloServerPluginLandingPageGraphQLPlayground()],
 });
 
 // We add this data to every event.
@@ -36,8 +32,6 @@ const MANUAL_EVENT_PARAMS = { requestContext: true, version: "1.0" };
 
 exports.handler = (event, context) => {
   const newEvent = { ...MANUAL_EVENT_PARAMS, ...event };
-
-  console.log(JSON.stringify(newEvent, null, 2));
 
   return server.createHandler()(newEvent, context);
 };
