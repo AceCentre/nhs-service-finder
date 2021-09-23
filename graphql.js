@@ -20,6 +20,7 @@ const typeDefs = gql`
     email: String!
     ccgCodes: [String!]!
     caseload: String!
+    postcode: String!
     provider: String
     note: String
     serviceColor: String
