@@ -6,6 +6,7 @@ const typeDefs = gql`
   type ServiceType {
     id: String!
     title: String!
+    services: [Service!]!
   }
 
   type Service {
@@ -21,6 +22,7 @@ const typeDefs = gql`
     note: String
     serviceColor: String
     communicationMatters: String
+    servicesOffered: [ServiceType]!
   }
 
   type Query {
@@ -33,6 +35,22 @@ const resolvers = {
   Query: {
     services: () => services,
     serviceTypes: () => serviceTypes,
+  },
+  ServiceType: {
+    services: (serviceType) => {
+      return services.filter((currentService) => {
+        return currentService.servicesOffered.includes(serviceType.id);
+      });
+    },
+  },
+  Service: {
+    servicesOffered: (service) => {
+      const fullServices = service.servicesOffered.map((serviceType) => {
+        return serviceTypes.find((current) => current.id === serviceType);
+      });
+
+      return fullServices;
+    },
   },
 };
 
