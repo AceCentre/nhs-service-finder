@@ -1,19 +1,27 @@
 const { ApolloServer, gql } = require("apollo-server-lambda");
 const { services } = require("../new-data/services.json");
+const { serviceTypes } = require("../new-data/service-types.json");
 
 const typeDefs = gql`
+  type ServiceType {
+    id: String!
+    title: String!
+  }
+
   type Service {
     id: String!
   }
 
   type Query {
-    services: [Service]
+    services: [Service!]!
+    serviceTypes: [ServiceType!]!
   }
 `;
 
 const resolvers = {
   Query: {
     services: () => services,
+    serviceTypes: () => serviceTypes,
   },
 };
 
