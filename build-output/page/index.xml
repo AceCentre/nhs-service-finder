@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on NHS Service Finder</title>
+    <link>https://servicefinder.acecentre.net/page/</link>
+    <description>Recent content in Pages on NHS Service Finder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://servicefinder.acecentre.net/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://servicefinder.acecentre.net/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://servicefinder.acecentre.net/privacy/</guid>
+      <description>The Ace Centre respects the privacy of the users of its website. Details of our privacy policy are given below.
+Registration Details submitted through registration forms will only be used for the purposes indicated. If information is to be used for other purposes, such as the selective dissemination of Ace Centre information, this will be stated and the facility to opt out will be provided in line with data protection legislation.</description>
+    </item>
+    
+  </channel>
+</rss>

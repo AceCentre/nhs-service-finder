@@ -1,0 +1,13 @@
+[[headers]]
+    for = "/*"
+
+[headers.values]
+    Access-Control-Allow-Origin = "*"
+
+[build]
+    functions = "functions"
+
+[[redirects]]
+    from = "/graphql"
+    to = "https://servicefinder.acecentre.net/.netlify/functions/graphql"
+    status = 200
