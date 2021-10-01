@@ -17,5 +17,13 @@ const MANUAL_EVENT_PARAMS = { requestContext: true, version: "1.0" };
 exports.handler = (event, context) => {
   const newEvent = { ...MANUAL_EVENT_PARAMS, ...event };
 
-  return server.createHandler()(newEvent, context);
+  console.log("Event has come in", newEvent);
+
+  try {
+    return server.createHandler()(newEvent, context);
+  } catch (e) {
+    console.log(e);
+    console.log(newEvent);
+    throw e;
+  }
 };
