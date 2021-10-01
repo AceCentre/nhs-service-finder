@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ccgservices on NHS Service Finder</title>
+    <link>https://servicefinder.acecentre.net/ccgservices/</link>
+    <description>Recent content in Ccgservices on NHS Service Finder</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://servicefinder.acecentre.net/ccgservices/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Aac</title>
+      <link>https://servicefinder.acecentre.net/ccgservices/aac/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://servicefinder.acecentre.net/ccgservices/aac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ec</title>
+      <link>https://servicefinder.acecentre.net/ccgservices/ec/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://servicefinder.acecentre.net/ccgservices/ec/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wcs</title>
+      <link>https://servicefinder.acecentre.net/ccgservices/wcs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://servicefinder.acecentre.net/ccgservices/wcs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

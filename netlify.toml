@@ -6,6 +6,8 @@
 
 [build]
     functions = "functions"
+    command = "echo 'Not gonna bother building'"
+    publish = "build-output"
 
 [[redirects]]
     from = "/graphql"
