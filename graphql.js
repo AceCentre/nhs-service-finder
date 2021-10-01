@@ -1,5 +1,6 @@
 const { ApolloError } = require("apollo-server-errors");
 const { gql } = require("apollo-server-lambda");
+const fetch = require("node-fetch");
 
 const { services } = require("./new-data/services.json");
 const { serviceTypes } = require("./new-data/service-types.json");
@@ -28,6 +29,11 @@ const typeDefs = gql`
     servicesOffered: [ServiceType]!
   }
 
+  type ServiceResult {
+    services: [Service!]!
+    nearbyServices: [Service!]!
+  }
+
   type Query {
     services: [Service!]!
     service(id: String!): Service!
@@ -35,8 +41,22 @@ const typeDefs = gql`
     serviceType(id: String!): ServiceType!
 
     serviceForGivenCcgList(ccgCodes: [String!]!): [Service]!
+    servicesForCoords(lat: Float!, lng: Float!): ServiceResult!
+    servicesForPostcode(postcode: String!): ServiceResult!
   }
 `;
+
+const uniq = (array) => [...new Set(array)];
+
+const servicesForGivenCcgList = (ccgCodes) => {
+  const servicesForGivenCcgList = services.filter((service) => {
+    return ccgCodes
+      .map((x) => x.toLowerCase())
+      .some((ccgCode) => service.ccgCodes.includes(ccgCode.toLowerCase()));
+  });
+
+  return servicesForGivenCcgList;
+};
 
 const resolvers = {
   Query: {
@@ -63,11 +83,85 @@ const resolvers = {
       return serviceType;
     },
     serviceForGivenCcgList: (_, { ccgCodes }) => {
-      const servicesForGivenCcgList = services.filter((service) => {
-        return ccgCodes.some((ccgCode) => service.ccgCodes.includes(ccgCode));
-      });
+      return servicesForGivenCcgList(ccgCodes);
+    },
+    servicesForCoords: async (_, { lat, lng }) => {
+      let data;
+      try {
+        const result = await fetch(
+          `https://api.postcodes.io/postcodes?lon=${lng}&lat=${lat}&limit=100&radius=2000`
+        );
+        data = await result.json();
+      } catch (error) {
+        throw new ApolloError(`Failed to get CCGs for your given lat/long`);
+      }
 
-      return servicesForGivenCcgList;
+      if (data.status !== 200) {
+        throw new ApolloError(data.error || "Failed to get CCGs");
+      }
+
+      if (data.result.length === 0) {
+        throw new ApolloError("No postcodes were found for you given lat/long");
+      }
+
+      const nearestPostcode = data.result[0];
+      const nearestCcgs = uniq([
+        nearestPostcode.ccg,
+        nearestPostcode.codes.ccg,
+        nearestPostcode.codes.ccg_id,
+      ]).filter((x) => !!x);
+
+      const allCcgs = uniq(
+        data.result.flatMap((postcode) => {
+          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
+        })
+      ).filter((x) => !!x);
+
+      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+
+      return {
+        services: servicesForGivenCcgList(nearestCcgs),
+        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+      };
+    },
+    servicesForPostcode: async (_, { postcode }) => {
+      let data;
+      try {
+        const result = await fetch(
+          `https://api.postcodes.io/postcodes/${postcode}/nearest?limit=100&radius=2000`
+        );
+        data = await result.json();
+      } catch (error) {
+        throw new ApolloError(`Failed to get CCGs for your given postcode`);
+      }
+
+      if (data.status !== 200) {
+        throw new ApolloError(data.error || "Failed to get CCGs");
+      }
+
+      if (data.result.length === 0) {
+        throw new ApolloError("No postcodes were found for you given postcode");
+      }
+
+      const nearestPostcode = data.result[0];
+      const nearestCcgs = uniq([
+        nearestPostcode.ccg,
+        nearestPostcode.codes.ccg,
+        nearestPostcode.codes.ccg_id,
+      ]).filter((x) => !!x);
+
+      const allCcgs = uniq(
+        data.result.flatMap((postcode) => {
+          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
+        })
+      ).filter((x) => !!x);
+
+      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+
+      return {
+        services: servicesForGivenCcgList(nearestCcgs),
+        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+      };
     },
   },
   ServiceType: {
