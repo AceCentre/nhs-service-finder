@@ -12,6 +12,11 @@ const typeDefs = gql`
     services: [Service!]!
   }
 
+  type Coordinates {
+    latitude: Float!
+    longitude: Float!
+  }
+
   type Service {
     id: String!
     serviceName: String!
@@ -27,6 +32,7 @@ const typeDefs = gql`
     serviceColor: String
     communicationMatters: String
     servicesOffered: [ServiceType]!
+    coordinates: Coordinates!
   }
 
   type ServiceResult {
@@ -178,6 +184,35 @@ const resolvers = {
       });
 
       return fullServices;
+    },
+    coordinates: async (service) => {
+      const postcode = service.postcode;
+
+      let data;
+
+      try {
+        const result = await fetch(
+          `https://api.postcodes.io/postcodes/${postcode}`
+        );
+        data = await result.json();
+      } catch (error) {
+        throw new ApolloError(`Failed to get CCGs for your given postcode`);
+      }
+
+      if (data.status !== 200) {
+        throw new ApolloError(
+          data.error || `Failed to get lat/long for: ${postcode}`
+        );
+      }
+
+      if (!data.result.latitude || !data.result.longitude) {
+        throw new ApolloError(`Failed to get lat/long for: ${postcode}`);
+      }
+
+      return {
+        latitude: data.result.latitude,
+        longitude: data.result.longitude,
+      };
     },
   },
 };
