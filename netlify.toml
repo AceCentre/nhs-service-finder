@@ -18,3 +18,4 @@
     from = "/*"
     to = "https://acecentre.org.uk/nhs-service-finder"
     status = 301
+    force = true
