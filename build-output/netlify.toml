@@ -11,3 +11,9 @@
     from = "/graphql"
     to = "https://servicefinder.acecentre.net/.netlify/functions/graphql"
     status = 200
+
+[[redirects]]
+    from = "/*"
+    to = "https://acecentre.org.uk/nhs-service-finder"
+    status = 301
+    force = true
