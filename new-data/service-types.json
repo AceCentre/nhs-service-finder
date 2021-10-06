@@ -2,15 +2,18 @@
   "serviceTypes": [
     {
       "id": "wcs",
-      "title": "Wheelchair services"
+      "title": "Wheelchair services",
+      "description": "NHS Wheelchair Services assess people with mobility needs, to decide what sort of wheelchair or other mobility equipment they should be provided with."
     },
     {
       "id": "aac",
-      "title": "AAC services"
+      "title": "AAC services",
+      "description": "Augmentative and Alternative Communication (AAC) services help people. communicate as effectively as possible when speech is impaired."
     },
     {
       "id": "ec",
-      "title": "EC services"
+      "title": "EC services",
+      "description": "An Environmental Control (EC) system can provide a level of independent control of many devices in the home for people with significant physical disabilities."
     }
   ]
 }

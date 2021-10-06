@@ -9,6 +9,7 @@ const typeDefs = gql`
   type ServiceType {
     id: String!
     title: String!
+    description: String!
     services: [Service!]!
   }
 
