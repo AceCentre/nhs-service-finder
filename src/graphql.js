@@ -2,8 +2,8 @@ const { ApolloError } = require("apollo-server-errors");
 const { gql } = require("apollo-server-lambda");
 const fetch = require("node-fetch");
 
-const { services } = require("./data/services.json");
-const { serviceTypes } = require("./data/service-types.json");
+const { services } = require("../data/services.json");
+const { serviceTypes } = require("../data/service-types.json");
 
 const typeDefs = gql`
   type ServiceType {
