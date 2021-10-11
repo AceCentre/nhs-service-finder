@@ -1,4 +1,0 @@
-{{- $.Scratch.Set "json" (dict) -}}
-{{- partial "ccg/rawdata-compact.json" (dict "pages" .Pages "Scratch" $.Scratch) -}}
-{{- $.Scratch.SetInMap "json" "items" ($.Scratch.Get "result") -}}
-{{- $.Scratch.Get "json" | jsonify -}}
