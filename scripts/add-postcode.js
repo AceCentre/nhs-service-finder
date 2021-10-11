@@ -3,7 +3,7 @@ const path = require("path");
 const axios = require("axios").default;
 
 const { services } = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "../new-data/services.json")).toString()
+  fs.readFileSync(path.join(__dirname, "../data/services.json")).toString()
 );
 
 (async () => {
@@ -24,7 +24,7 @@ const { services } = JSON.parse(
   );
 
   fs.writeFileSync(
-    path.join(__dirname, "../new-data/updated-services.json"),
+    path.join(__dirname, "../data/updated-services.json"),
     JSON.stringify({ services: newServices }, null, 2)
   );
 })();

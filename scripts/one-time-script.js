@@ -13,8 +13,8 @@ const fs = require("fs");
  * File locations
  */
 const CCG_FOLDER = path.join(__dirname, "./content/ccg");
-const OUTPUT_PATH = path.join(__dirname, "./new-data/services.json");
-const SERVICE_TYPES = path.join(__dirname, "./new-data/service-types.json");
+const OUTPUT_PATH = path.join(__dirname, "./data/services.json");
+const SERVICE_TYPES = path.join(__dirname, "./data/service-types.json");
 
 /**
  *  Services types
