@@ -27,13 +27,13 @@ The GraphQL server is deployed to Netlify. There are no build steps before deplo
 
 We have a few redirects in place so that if you access the root of the domain you are redirect to the Ace Centre service finder UI.
 
-# FAQs
+## FAQs
 
-## Data in this dataset is incorrect
+### Data in this dataset is incorrect
 
 We try our best to keep it up to date but its hard when there is so many services. Open a an issue or a PR and we will update the information as best as possible
 
-## What is a CCG?
+### What is a CCG?
 
 Clinical Commissioning Groups (CCGs) commission most of the hospital and community NHS services in the local areas for which they are responsible.
 
@@ -53,7 +53,7 @@ Services CCGs commission include:
 
 [Description taken from NHS England](https://www.england.nhs.uk/ccgs/)
 
-## Where is the data from?
+### Where is the data from?
 
 The data is taken from a few sources originally (with permission). It has since gone further than all of these sources and includes multiple services types. Most of the data is taken from Googling services and viewing the data on their website, or we have contacts at the given service.
 
