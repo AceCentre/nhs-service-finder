@@ -20,7 +20,14 @@ exports.handler = (event, context) => {
   console.log("Event has come in", JSON.stringify(newEvent, null, 2));
 
   try {
-    return server.createHandler()(newEvent, context);
+    return server.createHandler({
+      expressGetMiddlewareOptions: {
+        cors: {
+          origin: "*",
+          credentials: true,
+        },
+      },
+    })(newEvent, context);
   } catch (e) {
     console.log(e);
     console.log(JSON.stringify(newEvent, null, 2));
