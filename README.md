@@ -1,17 +1,31 @@
-# Service Finder
+# Service Finder [![Netlify Status](https://api.netlify.com/api/v1/badges/fd6cb4cc-b92a-44a2-91af-d6b58c37f63d/deploy-status)](https://app.netlify.com/sites/nhs-service-finder/deploys)
 
-This is a repo which hosts the data of NHS Specialist Services around the UK - and the regions they cover. The main focus is for indivdiuals (clients/patients) looking for which service supports them in their postcoded area.
+This is a repo which contains the data of NHS Specialist Services around the UK - and the regions they cover. The main focus is for indivdiuals (clients/patients) looking for which service supports them in their postcoded area.
 
-# Accessing the data
+This repo does not contain a UI for end users. However, you can explore the data using the UI on the [Ace Centre website, available here.](https://acecentre.org.uk/nhs-service-finder)
 
-The data is exposed on a graphql server so that it can be accessed and explored. The API is self documenting. The API is hosted on [netlify and can be accessed here](https://servicefinder.acecentre.net/graphql).
+## Using the data
 
-# Development
+You can view the raw data in the [data](./data) folder of this repo. You are free to use this data to support whatever you want to build.
+
+The data is also exposed on a GraphQL API so that it can be accessed and explored. The API is hosted on [netlify and can be accessed here](https://servicefinder.acecentre.net/graphql). You can view the schema using the GraphQL playground available at the same location. [You can learn more about GraphQL here.](https://graphql.org/learn/)
+
+We ask that if you are going to use this data you make sure to continue to use the latest version of the data at all times so that you are not spreading old data.
+
+We also ask that if you are going to deploy a large scale application using the APIs available that you open an issue before you do so that we can make sure our APIs are ready to handle the load.
+
+## Development
 
 You can run a local version of the graphql server for development. Here are the steps to run the server
 
 1. Install npm deps: `npm install`
 2. Run the dev server: `npm run dev`
+
+## Deployment
+
+The GraphQL server is deployed to Netlify. There are no build steps before deployment. The `functions` folder become serverless functions.
+
+We have a few redirects in place so that if you access the root of the domain you are redirect to the Ace Centre service finder UI.
 
 # FAQs
 
