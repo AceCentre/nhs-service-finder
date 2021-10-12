@@ -7,11 +7,11 @@ const geojsonhint = require("@mapbox/geojsonhint");
 let features = [];
 
 // Start with only AAC services for simplicity
-const aacServices = services.filter((service) =>
-  service.servicesOffered.includes("aac")
-);
+// const aacServices = services.filter((service) =>
+//   service.servicesOffered.includes("aac")
+// );
 
-for (const currentService of aacServices) {
+for (const currentService of services) {
   let coordinateGroups = [];
 
   for (const currentCcg of currentService.ccgCodes) {
