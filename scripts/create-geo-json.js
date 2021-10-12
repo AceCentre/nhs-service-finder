@@ -24,8 +24,10 @@ for (const currentService of services) {
         featureForCcg.geometry.coordinates.forEach((coordinateGroup) => {
           coordinateGroups.push(coordinateGroup);
         });
-      } else {
+      } else if ("Polygon") {
         coordinateGroups.push(featureForCcg.geometry.coordinates);
+      } else {
+        throw new Error("We dont know how to deal with that");
       }
     }
   }
@@ -47,6 +49,6 @@ const result = { type: "FeatureCollection", features };
 console.log(geojsonhint.hint(JSON.stringify(result, null, 2)));
 
 fs.writeFileSync(
-  path.join(__dirname, "../data/services.geojson"),
+  path.join(__dirname, "../data/services-geo.json"),
   JSON.stringify(result, null, 2)
 );
