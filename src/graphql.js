@@ -4,6 +4,7 @@ const fetch = require("node-fetch");
 
 const { services } = require("../data/services.json");
 const { serviceTypes } = require("../data/service-types.json");
+const servicesGeo = require("../data/services-geo.json");
 
 const typeDefs = gql`
   type ServiceType {
