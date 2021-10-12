@@ -34,7 +34,7 @@ for (const currentService of services) {
 
   let currentFeature = {
     type: "Feature",
-    properties: currentService,
+    properties: { serviceId: currentService.id },
     geometry: {
       type: "MultiPolygon",
       coordinates: coordinateGroups,
@@ -52,3 +52,17 @@ fs.writeFileSync(
   path.join(__dirname, "../data/services-geo.json"),
   JSON.stringify(result, null, 2)
 );
+
+// const turf = require("@turf/turf");
+
+// // AceCentre location
+// // @53.5166219,-2.1425253
+// const currentPoint = turf.point([-2.1425253, 53.5166219]);
+// let featuresWithPoints = [];
+// for (const current of features) {
+//   const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
+//   const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
+//   if (ptsWithin.features.length > 0) {
+//     featuresWithPoints.push(current.properties);
+//   }
+// }
