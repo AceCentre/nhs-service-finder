@@ -5,6 +5,7 @@ const fetch = require("node-fetch");
 const { services } = require("../data/services.json");
 const { serviceTypes } = require("../data/service-types.json");
 const servicesGeo = require("../data/services-geo.json");
+const turf = require("@turf/turf");
 
 const typeDefs = gql`
   type ServiceType {
@@ -54,7 +55,22 @@ const typeDefs = gql`
   }
 `;
 
-const uniq = (array) => [...new Set(array)];
+// This could be optimized and cleaned up
+const getServicesFromPoint = (currentPoint) => {
+  let featuresWithPoints = [];
+  for (const current of servicesGeo.features) {
+    const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
+    const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
+    if (ptsWithin.features.length > 0) {
+      featuresWithPoints.push(current.properties.serviceId);
+    }
+  }
+
+  const foundServices = featuresWithPoints.map((feature) =>
+    services.find((x) => x.id === feature)
+  );
+  return foundServices;
+};
 
 const servicesForGivenCcgList = (ccgCodes) => {
   const servicesForGivenCcgList = services.filter((service) => {
@@ -94,42 +110,11 @@ const resolvers = {
       return servicesForGivenCcgList(ccgCodes);
     },
     servicesForCoords: async (_, { lat, lng }) => {
-      let data;
-      try {
-        const result = await fetch(
-          `https://api.postcodes.io/postcodes?lon=${lng}&lat=${lat}&limit=100&radius=2000`
-        );
-        data = await result.json();
-      } catch (error) {
-        throw new ApolloError(`Failed to get CCGs for your given lat/long`);
-      }
-
-      if (data.status !== 200) {
-        throw new ApolloError(data.error || "Failed to get CCGs");
-      }
-
-      if (data.result.length === 0) {
-        throw new ApolloError("No postcodes were found for you given lat/long");
-      }
-
-      const nearestPostcode = data.result[0];
-      const nearestCcgs = uniq([
-        nearestPostcode.ccg,
-        nearestPostcode.codes.ccg,
-        nearestPostcode.codes.ccg_id,
-      ]).filter((x) => !!x);
-
-      const allCcgs = uniq(
-        data.result.flatMap((postcode) => {
-          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
-        })
-      ).filter((x) => !!x);
-
-      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+      const currentPoint = turf.point([lng, lat]);
 
       return {
-        services: servicesForGivenCcgList(nearestCcgs),
-        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+        services: getServicesFromPoint(currentPoint),
+        nearbyServices: [],
       };
     },
     servicesForPostcode: async (_, { postcode }) => {
@@ -152,23 +137,14 @@ const resolvers = {
       }
 
       const nearestPostcode = data.result[0];
-      const nearestCcgs = uniq([
-        nearestPostcode.ccg,
-        nearestPostcode.codes.ccg,
-        nearestPostcode.codes.ccg_id,
-      ]).filter((x) => !!x);
-
-      const allCcgs = uniq(
-        data.result.flatMap((postcode) => {
-          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
-        })
-      ).filter((x) => !!x);
-
-      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+      const currentPoint = turf.point([
+        nearestPostcode.longitude,
+        nearestPostcode.latitude,
+      ]);
 
       return {
-        services: servicesForGivenCcgList(nearestCcgs),
-        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+        services: getServicesFromPoint(currentPoint),
+        nearbyServices: [],
       };
     },
   },
