@@ -2,6 +2,8 @@ const { services } = require("../data/services.json");
 const fs = require("fs");
 const path = require("path");
 const ccgGeoData = require("../archive/Clinical_Commissioning_Groups_(April_2019).json");
+const olderCcgGeoData = require("../archive/Clinical_Commissioning_Groups_(April_2016)_Boundaries.json");
+
 const geojsonhint = require("@mapbox/geojsonhint");
 
 let features = [];
@@ -15,9 +17,16 @@ for (const currentService of services) {
   let coordinateGroups = [];
 
   for (const currentCcg of currentService.ccgCodes) {
-    const featureForCcg = ccgGeoData.features.find((x) => {
+    let featureForCcg = ccgGeoData.features.find((x) => {
       return x.properties.ccg19cd.toLowerCase() === currentCcg.toLowerCase();
     });
+
+    // Look in older data if we cant find the answer in newer data
+    if (!featureForCcg) {
+      olderCcgGeoData.features.find((x) => {
+        return x.properties.ccg16cd.toLowerCase() === currentCcg.toLowerCase();
+      });
+    }
 
     if (featureForCcg) {
       if (featureForCcg.geometry.type === "MultiPolygon") {
@@ -29,6 +38,9 @@ for (const currentService of services) {
       } else {
         throw new Error("We dont know how to deal with that");
       }
+    } else {
+      console.log(`Could not find location for ccg, ${currentCcg}`);
+      // throw new Error(`Could not find location for ccg, ${currentCcg}`);
     }
   }
 
