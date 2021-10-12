@@ -57,6 +57,7 @@ const typeDefs = gql`
 
 // This could be optimized and cleaned up
 const getServicesFromPoint = (currentPoint) => {
+  console.log("Called with", currentPoint);
   let featuresWithPoints = [];
   for (const current of servicesGeo.features) {
     const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
