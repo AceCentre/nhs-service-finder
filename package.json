@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/AceCentre/nhs-service-finder#readme",
   "dependencies": {
+    "@mapbox/geojsonhint": "^3.0.1",
     "apollo-server": "^3.3.0",
     "apollo-server-errors": "^3.1.0",
     "apollo-server-lambda": "^3.3.0",
