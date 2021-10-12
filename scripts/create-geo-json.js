@@ -23,7 +23,7 @@ for (const currentService of services) {
 
     // Look in older data if we cant find the answer in newer data
     if (!featureForCcg) {
-      olderCcgGeoData.features.find((x) => {
+      featureForCcg = olderCcgGeoData.features.find((x) => {
         return x.properties.ccg16cd.toLowerCase() === currentCcg.toLowerCase();
       });
     }
