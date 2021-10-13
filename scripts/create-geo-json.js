@@ -9,6 +9,7 @@ const geojsonhint = require("@mapbox/geojsonhint");
 const writeGeoJsonForServices = (currentServiceList, outputName) => {
   let features = [];
 
+  const NorthernIreland = require("../archive/northern-ireland.json");
   const CcgEngland21 = require("../archive/Clinical_Commissioning_Groups_(April_2021)_EN_BUC.json");
   const CcgEngland20 = require("../archive/Clinical_Commissioning_Groups_(April_2020)_EN_BFC_V2.json");
   const CcgEngland19 = require("../archive/Clinical_Commissioning_Groups__April_2019__Boundaries_EN_BUC.json");
@@ -17,6 +18,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   const CcgEngland15 = require("../archive/Clinical_Commissioning_Groups_(July_2015)_Boundaries.json");
 
   const PRIORITY_ORDER_GEOJSON = [
+    { map: NorthernIreland, key: "isNorthernIreland" },
     { map: CcgEngland21, key: "CCG21CD" },
     { map: CcgEngland20, key: "ccg20cd" },
     { map: CcgEngland19, key: "CCG19CD" },
