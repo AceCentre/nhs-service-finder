@@ -422,7 +422,7 @@
       ],
       "email": "bronagh.blaney@belfasttrust.hscni.net",
       "servicesOffered": ["ec", "aac"],
-      "ccgCodes": ["zc020", "zc010", "zc050", "zc040", "zc030"],
+      "ccgCodes": ["zc020", "zc010", "zc050", "zc040", "zc030", "ni"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -452,29 +452,6 @@
       "provider": null,
       "note": null,
       "postcode": "MK45 1AB"
-    },
-    {
-      "serviceName": "Regional Wheelchair Service",
-      "id": "belfstrn",
-      "serviceColor": null,
-      "communicationMatters": null,
-      "phoneNumber": "028 9056 3545",
-      "website": "https://belfasttrust.hscni.net/service/regional-wheelchair-service/",
-      "addressLines": [
-        "Strand House",
-        "102 Holywood Road",
-        "Belfast",
-        "County Antrim",
-        "BT4 1NU"
-      ],
-      "email": "info@belfasttrust.hscni.net",
-      "servicesOffered": ["wcs"],
-      "ccgCodes": ["e38000154"],
-      "caseload": "All",
-      "serviceColour": null,
-      "provider": null,
-      "note": null,
-      "postcode": "BT4 1NU"
     },
     {
       "serviceName": "Bexley Wheelchair Service",
@@ -2782,7 +2759,7 @@
       ],
       "email": "Enquiry.hscb@hscni.net",
       "servicesOffered": ["wcs"],
-      "ccgCodes": ["e38000066"],
+      "ccgCodes": ["ni"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
