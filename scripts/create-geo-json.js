@@ -22,6 +22,10 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   const PostcodeLD = require("../archive/welsh-postcodes/LD.json");
   const PostcodeLL = require("../archive/welsh-postcodes/LL.json");
   const PostcodeSY = require("../archive/welsh-postcodes/SY.json");
+  const PostcodeCF = require("../archive/welsh-postcodes/CF.json");
+  const PostcodeHR = require("../archive/welsh-postcodes/HR.json");
+  const PostcodeSA = require("../archive/welsh-postcodes/SA.json");
+  const PostcodeNP = require("../archive/welsh-postcodes/NP.json");
 
   const PRIORITY_ORDER_GEOJSON = [
     { map: NorthernIreland, key: "isNorthernIreland" },
@@ -30,6 +34,10 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
     { map: PostcodeLD, key: "name" },
     { map: PostcodeLL, key: "name" },
     { map: PostcodeSY, key: "name" },
+    { map: PostcodeCF, key: "name" },
+    { map: PostcodeHR, key: "name" },
+    { map: PostcodeSA, key: "name" },
+    { map: PostcodeNP, key: "name" },
     { map: CcgEngland21, key: "CCG21CD" },
     { map: CcgEngland20, key: "ccg20cd" },
     { map: CcgEngland19, key: "CCG19CD" },
