@@ -1,7 +1,7 @@
 const { ApolloError } = require("apollo-server-errors");
 const { gql } = require("apollo-server-lambda");
 const fetch = require("node-fetch");
-const fs = require("fs/promises");
+const fs = require("fs").promises;
 const path = require("path");
 const turf = require("@turf/turf");
 
