@@ -4,6 +4,7 @@ const fetch = require("node-fetch");
 const fs = require("fs").promises;
 const path = require("path");
 const turf = require("@turf/turf");
+const { uniqBy } = require("lodash");
 
 const { services } = require("../data/services.json");
 const { serviceTypes } = require("../data/service-types.json");
@@ -107,7 +108,7 @@ const getServicesFromPoint = async (currentPoint) => {
   const foundServices = featuresWithPoints.map((feature) =>
     services.find((x) => x.id === feature)
   );
-  return foundServices;
+  return uniqBy(foundServices, "id");
 };
 
 const servicesForGivenCcgList = (ccgCodes) => {
