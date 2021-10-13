@@ -8,7 +8,7 @@
     command = "echo 'Not gonna bother building'"
     publish = "build-output"
 
-[functions.image]
+[functions]
     included_files = ["data/*"]
 
 [[redirects]]
