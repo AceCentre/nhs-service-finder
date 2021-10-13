@@ -8,6 +8,9 @@
     command = "echo 'Not gonna bother building'"
     publish = "build-output"
 
+[functions.image]
+    included_files = ["data/*"]
+
 [[redirects]]
     from = "/graphql"
     to = "https://servicefinder.acecentre.net/.netlify/functions/graphql"
