@@ -14,9 +14,7 @@
         "AB15 6LS"
       ],
       "email": "gram.wheelchairs@nhs.scot",
-      "servicesOffered": [
-        "wcs"
-      ],
+      "servicesOffered": ["wcs"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -38,9 +36,7 @@
         "OL8 3QL"
       ],
       "email": "enquiries@acecentre.org.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000135",
         "e38000143",
@@ -102,9 +98,7 @@
         "OX14 1RG"
       ],
       "email": "enquiries@acecentre.org.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000017",
         "e38000137",
@@ -152,10 +146,7 @@
         "B29 6JA"
       ],
       "email": "ACTduty@nhs.net",
-      "servicesOffered": [
-        "ec",
-        "aac"
-      ],
+      "servicesOffered": ["ec", "aac"],
       "ccgCodes": [
         "e39000010",
         "e38000038",
@@ -204,12 +195,8 @@
         "BD20 6TD"
       ],
       "email": "pals.office@anhst.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000001"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000001"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -232,12 +219,8 @@
         "M22 4NY"
       ],
       "email": "manchesterwheelchairservices@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000217"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000217"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -260,12 +243,8 @@
         "CB4 1PX"
       ],
       "email": "careinfo@cambridgeshire.gov.uk",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000026"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000026"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -286,14 +265,8 @@
         "KA12 8SS"
       ],
       "email": "linda.page@aapct.scot.nhs.uk",
-      "servicesOffered": [
-        "aac"
-      ],
-      "ccgCodes": [
-        "s03000001",
-        "s03000003",
-        "s03000002"
-      ],
+      "servicesOffered": ["aac"],
+      "ccgCodes": ["s03000001", "s03000003", "s03000002"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -315,10 +288,7 @@
         "S75 2EP"
       ],
       "email": "barnsley.at@nhs.net",
-      "servicesOffered": [
-        "ec",
-        "aac"
-      ],
+      "servicesOffered": ["ec", "aac"],
       "ccgCodes": [
         "e39000007",
         "e38000052",
@@ -369,9 +339,7 @@
         "BS34 5BW"
       ],
       "email": "cacadmin@nbt.nhs.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000125",
         "e38000089",
@@ -407,12 +375,8 @@
         "BR31DU"
       ],
       "email": "bromley.wheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000124"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000124"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -435,12 +399,8 @@
         "LU5 4TP"
       ],
       "email": "Katrina.Harrison1@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000010"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000010"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -461,17 +421,8 @@
         "BT9 7JB"
       ],
       "email": "bronagh.blaney@belfasttrust.hscni.net",
-      "servicesOffered": [
-        "ec",
-        "aac"
-      ],
-      "ccgCodes": [
-        "zc020",
-        "zc010",
-        "zc050",
-        "zc040",
-        "zc030"
-      ],
+      "servicesOffered": ["ec", "aac"],
+      "ccgCodes": ["zc020", "zc010", "zc050", "zc040", "zc030"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -494,13 +445,8 @@
         "MK45 1AB"
       ],
       "email": "wheelchairs.admin@sept.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000102",
-        "e38000010"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000102", "e38000010"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -522,12 +468,8 @@
         "BT4 1NU"
       ],
       "email": "info@belfasttrust.hscni.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000154"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000154"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -549,12 +491,8 @@
         "DA8 2DH"
       ],
       "email": "info@inspirecommunitytrust.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000011"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000011"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -577,12 +515,8 @@
         "B29 6JA"
       ],
       "email": "Birmingham.Wheelchairs@NHS.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000012"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000012"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -604,12 +538,8 @@
         "BL1 1SQ"
       ],
       "email": "Bolccg.communications@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000016"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000016"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -631,12 +561,8 @@
         "PO22 9PP"
       ],
       "email": "SCT-TR.wheelchairservicebognor@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000083"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000083"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -659,12 +585,8 @@
         "BD8 9RY"
       ],
       "email": "bradford.wheelchairservices@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000018"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000018"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -687,12 +609,8 @@
         "HA0 4UZ"
       ],
       "email": "harriet.beynon@brentpct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000020"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000020"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -714,12 +632,8 @@
         "BN2 3EX"
       ],
       "email": "SC-TR.wheelchairadmin@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000021"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000021"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -742,12 +656,8 @@
         "SO53 4SE"
       ],
       "email": "scwcsu.hantswheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000118"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000118"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -769,12 +679,8 @@
         "BS34 5BW"
       ],
       "email": "wheelchairs@nbt.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000022"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000022"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -796,12 +702,8 @@
         "HP7 0JD"
       ],
       "email": "bht.pals@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000207"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000207"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -825,12 +727,8 @@
         "HX5 9HB"
       ],
       "email": "ellandwcs@rosscare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000064"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000064"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -852,9 +750,7 @@
         "EH8 8AQ"
       ],
       "email": "call.scotland@ed.ac.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "s03000044",
         "s03000041",
@@ -904,12 +800,8 @@
         "TR27 5JR"
       ],
       "email": "cornwallwcs@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000089"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000089"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -931,12 +823,8 @@
         "NW5 2TX"
       ],
       "email": "enquiries.wheelchair@camdenpct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000027"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000027"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -959,12 +847,8 @@
         "WS11 9SS"
       ],
       "email": "Staffordshire.wheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000153"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000153"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -986,12 +870,8 @@
         "CT1 1AZ"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000199"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000199"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1014,12 +894,8 @@
         "CA2 7HY"
       ],
       "email": "neil.wallace@blatchford.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000215"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000215"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1042,12 +918,8 @@
         "CF5 2YN"
       ],
       "email": "CAV_Alas@wales.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000056"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000056"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1069,9 +941,7 @@
         "CB2 0QQ"
       ],
       "email": "enquiries.casee@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000049",
         "e38000185",
@@ -1115,9 +985,7 @@
         "BN8 4JN"
       ],
       "email": "SC-TR.ChaileyAACservice@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000177",
         "e38000178",
@@ -1153,12 +1021,8 @@
         "GL51 0BY"
       ],
       "email": "wheelchair.service@ghc.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000062"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000062"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1181,12 +1045,8 @@
         "WN8 9PN"
       ],
       "email": "https://www.southportandormskirk.nhs.uk/services/wheelchair-services/",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000034"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000034"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1208,9 +1068,7 @@
         "SW1P 2PF"
       ],
       "email": "Nikky.steiner@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000005",
         "e38000070",
@@ -1244,12 +1102,8 @@
         "ST6 7AG"
       ],
       "email": "Staffordshire.wheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000126"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000126"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1271,13 +1125,8 @@
         "DL3 6HX"
       ],
       "email": "janetmoran@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000042",
-        "e38000116"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000042", "e38000116"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1299,9 +1148,7 @@
         "SW15 3SW"
       ],
       "email": "compass@rhn.org.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000140",
         "e38000048",
@@ -1336,12 +1183,8 @@
         "CV1 4DW"
       ],
       "email": "CWPT.Enquiries@covwarkpt.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000038"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000038"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1355,19 +1198,10 @@
       "communicationMatters": null,
       "phoneNumber": "020 8665 9313",
       "website": "https://www.croydonhealthservices.nhs.uk/a-to-z-of-services/service/wheelchair-service-173/",
-      "addressLines": [
-        "28 Boulogne Road",
-        "Croydon",
-        "Surrey",
-        "CR0 2QT"
-      ],
+      "addressLines": ["28 Boulogne Road", "Croydon", "Surrey", "CR0 2QT"],
       "email": "Croydon-Getinvolved@swlondon.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000040"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000040"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1381,19 +1215,10 @@
       "communicationMatters": null,
       "phoneNumber": "0808 169 8747",
       "website": "https://derbyshire.wheelchair.services/",
-      "addressLines": [
-        "Alfreton Road",
-        "Derby",
-        "DE21 4AP"
-      ],
+      "addressLines": ["Alfreton Road", "Derby", "DE21 4AP"],
       "email": "derbyshire@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000169",
-        "e38000115"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000169", "e38000115"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1414,12 +1239,8 @@
         "S43 4WW"
       ],
       "email": "derbyshire@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000115"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000115"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1441,9 +1262,7 @@
         "DE1 2QY"
       ],
       "email": "dhft.eat@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e39000012",
         "e38000058",
@@ -1479,12 +1298,8 @@
         "DN4 8QN"
       ],
       "email": "wheelchair.services@rdash.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000022"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000022"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1507,12 +1322,8 @@
         "BH24 2RR"
       ],
       "email": "dhc.wheelchair.services@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000045"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000045"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1534,12 +1345,8 @@
         "DT1 1YA"
       ],
       "email": "dhc.wheelchair.services@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000045"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000045"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1561,12 +1368,8 @@
         "DY5 1TA"
       ],
       "email": "DudleyWheelchairs@blatchford.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000046"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000046"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1580,18 +1383,10 @@
       "communicationMatters": null,
       "phoneNumber": "01628 670117",
       "website": "https://www.berkshirehealthcare.nhs.uk/our-services/physical-and-community-healthcare/east-berkshire-specialist-wheelchair-service/",
-      "addressLines": [
-        "3 Abell Gardens",
-        "Maidenhead",
-        "SL6 6PS"
-      ],
+      "addressLines": ["3 Abell Gardens", "Maidenhead", "SL6 6PS"],
       "email": "berkseast.mobility@berkshire.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000224"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000224"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1613,12 +1408,8 @@
         "CW12 3AR"
       ],
       "email": "ecn-tr.WAC@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000056"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000056"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1640,13 +1431,8 @@
         "BN21 2UD"
       ],
       "email": "eastsussexwcs@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000083",
-        "e38000213"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000083", "e38000213"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1669,9 +1455,7 @@
         "LN6 8UZ"
       ],
       "email": "eats.lincoln@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000099",
         "e38000157",
@@ -1705,9 +1489,7 @@
         "LN6 8UZ"
       ],
       "email": "eats.lincoln@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000157",
         "e38000165",
@@ -1739,9 +1521,7 @@
         "EH9 2HL"
       ],
       "email": "lothian.smartmanagement@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
+      "servicesOffered": ["wcs"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -1765,12 +1545,8 @@
         "N9 0AH"
       ],
       "email": "wheelchairservice@enfield.gov.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000057"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000057"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1792,12 +1568,8 @@
         "IP2 0QY"
       ],
       "email": "adminwheelchairservices@wsh.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000086"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000086"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1819,12 +1591,8 @@
         "EX5 4QX"
       ],
       "email": "rde-tr.EMCWheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000129"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000129"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1846,13 +1614,8 @@
         "KY7 5PQ"
       ],
       "email": "fife.sltreferral@nhs.scot",
-      "servicesOffered": [
-        "aac"
-      ],
-      "ccgCodes": [
-        "s03000007",
-        "s03000006"
-      ],
+      "servicesOffered": ["aac"],
+      "ccgCodes": ["s03000007", "s03000006"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1873,12 +1636,8 @@
         "SE19 1SZ"
       ],
       "email": "gst-tr.gsttwheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000023"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000023"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1899,12 +1658,8 @@
         "EN5 2ED"
       ],
       "email": "parkroyal@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000005"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000005"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1926,12 +1681,8 @@
         "NE11 0QD"
       ],
       "email": "ges.enquiries@stft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000212"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000212"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -1953,9 +1704,7 @@
         "G51 4TF"
       ],
       "email": "WestMARC@ggc.scot.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
+      "servicesOffered": ["wcs"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -1970,15 +1719,9 @@
       "communicationMatters": "http://www.communicationmatters.org.uk/contact-assessment-service/wolfson-neurodisability-team-communication-service",
       "phoneNumber": "0207 405 9200 x1143",
       "website": "http://www.gosh.nhs.uk/medical-information/clinical-specialties/neurodisability-information-parents-and-visitors/clinics-and-services/augmentative-communication-service",
-      "addressLines": [
-        "Great Ormond Street",
-        "London",
-        "WC1N 3JH"
-      ],
+      "addressLines": ["Great Ormond Street", "London", "WC1N 3JH"],
       "email": "acsadmin@gosh.nhs.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000140",
         "e38000048",
@@ -2005,19 +1748,10 @@
       "communicationMatters": null,
       "phoneNumber": "020 3045 5437",
       "website": "https://inspirecommunitytrust.org/services/wheelchair/",
-      "addressLines": [
-        "20 Whitehall Lane",
-        "Slade Green",
-        "Kent",
-        "DA8 2DH"
-      ],
+      "addressLines": ["20 Whitehall Lane", "Slade Green", "Kent", "DA8 2DH"],
       "email": "info@inspirecommunitytrust.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000066"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000066"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2039,12 +1773,8 @@
         "DN33 2BA"
       ],
       "email": "nlg-tr.pals@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000100"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000100"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2065,9 +1795,7 @@
         "SE19 1SZ"
       ],
       "email": "gst-tr.acs-hub@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000004",
         "e38000098",
@@ -2102,12 +1830,8 @@
         "NR33 0DR"
       ],
       "email": "ecch.enquiry@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000063"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000063"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2128,12 +1852,8 @@
         "WA7 1HB"
       ],
       "email": "bchft.enquiries@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000068"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000068"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2155,12 +1875,8 @@
         "HG5 8LF"
       ],
       "email": "york.nhswheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000073"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000073"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2183,12 +1899,8 @@
         "HA1 4TR"
       ],
       "email": "HarrowHillingdon.Wheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000074"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000074"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2210,12 +1922,8 @@
         "TS24 9AH"
       ],
       "email": "judith.ruddle@nth.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000075"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000075"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2236,13 +1944,8 @@
         "N11 2HD"
       ],
       "email": "haringey.wheelchair-service@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000031",
-        "e38000202"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000031", "e38000202"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2265,12 +1968,8 @@
         "RM13 8BT"
       ],
       "email": "nel.ajmhealthcare@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000077"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000077"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2291,12 +1990,8 @@
         "N1 5LZ"
       ],
       "email": "huh-tr.wheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000035"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000035"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2317,12 +2012,8 @@
         "AL7 1LT"
       ],
       "email": "hertswcs@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000049"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000049"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2346,12 +2037,8 @@
         "HR2 9RP"
       ],
       "email": "WHCNHS.wheelchairservice@NHS.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000049"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000049"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2373,12 +2060,8 @@
         "UB3 2PB"
       ],
       "email": "HarrowHillingdon.Wheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000082"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000082"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2401,12 +2084,8 @@
         "CM23 5GZ"
       ],
       "email": "epunft.pals@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000197"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000197"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2428,12 +2107,8 @@
         "RH12 2DR"
       ],
       "email": "sc-tr.wheelchairservicehorsham@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000083"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000083"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2455,12 +2130,8 @@
         "TW3 3EL"
       ],
       "email": "wheelchair.hub@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000084"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000084"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2481,12 +2152,8 @@
         "HU2 8JJ"
       ],
       "email": "hull.wheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000085"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000085"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2508,12 +2175,8 @@
         "CB23 3UY"
       ],
       "email": "wheelchairservice@cambridgeshirepct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000026"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000026"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2535,9 +2198,7 @@
         "IV2 3UJ"
       ],
       "email": "nhsh.wheelchairreferral@nhs.scot",
-      "servicesOffered": [
-        "wcs"
-      ],
+      "servicesOffered": ["wcs"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -2552,18 +2213,10 @@
       "communicationMatters": null,
       "phoneNumber": "0333 999 0890",
       "website": "https://millbrookhealthcare.co.uk/pages/northamptonshire-wcs",
-      "addressLines": [
-        "22 Meadow Road",
-        "Kettering",
-        "NN16 8TL"
-      ],
+      "addressLines": ["22 Meadow Road", "Kettering", "NN16 8TL"],
       "email": "wheelchair.assessment@nhft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000104"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000104"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2584,14 +2237,8 @@
         "EH4 4PH"
       ],
       "email": "deborah.jans@ea.edin.sch.uk",
-      "servicesOffered": [
-        "aac"
-      ],
-      "ccgCodes": [
-        "s03000031",
-        "s03000032",
-        "s03000035"
-      ],
+      "servicesOffered": ["aac"],
+      "ccgCodes": ["s03000031", "s03000032", "s03000035"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2613,9 +2260,7 @@
         "TN24 0PF"
       ],
       "email": "kcht.cat-admin@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000184",
         "e38000180",
@@ -2647,9 +2292,7 @@
         "CT1 3NG"
       ],
       "email": "acat.service@nhs.net",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "e38000184",
         "e38000180",
@@ -2683,9 +2326,7 @@
         "ME7 5PA"
       ],
       "email": "kmpt.specialistequipmentservices@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000011",
         "e38000023",
@@ -2727,12 +2368,8 @@
         "PE30 4ET"
       ],
       "email": "wheelchairservice@qehkl.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000203"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000203"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2755,12 +2392,8 @@
         "L36 6HY"
       ],
       "email": "centreforindependentliving@5bp.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000128"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000128"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2784,12 +2417,8 @@
         "TN23 7SH"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000002"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000002"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2811,12 +2440,8 @@
         "CT3 3BB"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000002"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000002"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2838,12 +2463,8 @@
         "DA2 6PB"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000104"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000104"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2866,12 +2487,8 @@
         "ME7 5NY"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000156"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000156"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2894,12 +2511,8 @@
         "ME17 4AH"
       ],
       "email": "kcht.wheelchairservice-kent@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000207"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000207"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2921,12 +2534,8 @@
         "KT22 8SD"
       ],
       "email": "SurreyWCS@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000128"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000128"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2948,12 +2557,8 @@
         "LS14 6UH"
       ],
       "email": "wheelchairs.cah@leedsth.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000096"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000096"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -2974,12 +2579,8 @@
         "LE19 1WZ"
       ],
       "email": "opcare.wheelchairservices@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000097"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000097"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3000,14 +2601,8 @@
         "LE19 1WZ"
       ],
       "email": "opcare.wheelchairservices@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000097",
-        "e38000051",
-        "e38000201"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000097", "e38000051", "e38000201"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3021,19 +2616,10 @@
       "communicationMatters": null,
       "phoneNumber": "0808 169 9677",
       "website": "https://lincolnshire.wheelchair.services/",
-      "addressLines": [
-        "Teal Park Road",
-        "Teal Park",
-        "Lincoln",
-        "LN6 3AD"
-      ],
+      "addressLines": ["Teal Park Road", "Teal Park", "Lincoln", "LN6 3AD"],
       "email": "lincolnshire@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000100"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000100"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3055,12 +2641,8 @@
         "L3 4BL"
       ],
       "email": "liverpoolwheelchairservice@liverpoolch.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000101"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000101"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3082,12 +2664,8 @@
         "E1 4DG"
       ],
       "email": "wheelchairservice1@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000186"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000186"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3109,12 +2687,8 @@
         "UB8 3NN"
       ],
       "email": "thh-tr.RECES@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000102"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000102"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3136,12 +2710,8 @@
         "NG18 5QJ"
       ],
       "email": "https://www.blatchford.co.uk/locations/mansfield-nhs-wheelchair-service/",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000103"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000103"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3164,12 +2734,8 @@
         "CM2 0PD"
       ],
       "email": "wheelchairservice2@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000106"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000106"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3192,12 +2758,8 @@
         "MK3 6EN"
       ],
       "email": "MKWheelchairs@mkpct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000107"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000107"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3219,12 +2781,8 @@
         "BT9 7JB"
       ],
       "email": "Enquiry.hscb@hscni.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000066"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000066"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3247,9 +2805,7 @@
         "BS34 5BW"
       ],
       "email": "EnvironmentalControls@nbt.nhs.uk",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000089",
         "e38000129",
@@ -3276,16 +2832,9 @@
       "communicationMatters": "http://www.communicationmatters.org.uk/contact-assessment-service/communication-aid-centre-alac",
       "phoneNumber": "029 2031 3914",
       "website": "http://www.cardiffandvaleuhb.wales.nhs.uk/electronic-assistive-technology",
-      "addressLines": [
-        "18 Fairwater Rd",
-        "Cardiff",
-        "CF5 2YN"
-      ],
+      "addressLines": ["18 Fairwater Rd", "Cardiff", "CF5 2YN"],
       "email": "info.eat@wales.nhs.uk",
-      "servicesOffered": [
-        "ec",
-        "aac"
-      ],
+      "servicesOffered": ["ec", "aac"],
       "ccgCodes": [
         "w11000026",
         "w11000027",
@@ -3316,9 +2865,7 @@
         "NR2 2PJ"
       ],
       "email": "EnvironmentalControlService@nchc.nhs.uk",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000124",
         "e38000131",
@@ -3347,12 +2894,8 @@
         "NE7 7AF"
       ],
       "email": "northoftynepals@nhct.nhs.uk.",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000212"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000212"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3374,12 +2917,8 @@
         "NN3 5HW"
       ],
       "email": "arichens@olympuscareservices.co.uk",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000108"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000108"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3402,12 +2941,8 @@
         "NG5 1PJ"
       ],
       "email": "wheelchair.referrals@nuh.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000132"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000132"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3429,12 +2964,8 @@
         "NR2 3UD"
       ],
       "email": "pals@nchc.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000218"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000218"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3461,9 +2992,7 @@
         "NE46 1QJ"
       ],
       "email": "RECSAdmin@ntw.nhs.uk",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e39000002",
         "e38000042",
@@ -3501,12 +3030,8 @@
         "DL6 1JG"
       ],
       "email": "stees.patient.experience@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000052"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000052"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3528,12 +3053,8 @@
         "DH8 0NB"
       ],
       "email": "stees.patient.experience@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000217"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000217"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3555,12 +3076,8 @@
         "CO3 3NB"
       ],
       "email": "chu-ftr.NEEWCS@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000106"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000106"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3582,12 +3099,8 @@
         "DN16 1QQ"
       ],
       "email": "nlg-tr.PALS@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000099"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000099"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3609,12 +3122,8 @@
         "TS19 8PE"
       ],
       "email": "judith.ruddle@nth.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000075"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000075"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3637,12 +3146,8 @@
         "NE23 1WB"
       ],
       "email": "wheelchairservices@northumbria-healthcare.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000130"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000130"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3664,12 +3169,8 @@
         "CV11 5TY"
       ],
       "email": "OutpatientsAppointments@swft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000164"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000164"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3691,12 +3192,8 @@
         "NE29 0SF"
       ],
       "email": "wheelchair.service@northtyneside-pct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000127"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000127"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3719,9 +3216,7 @@
         "L9 7AL"
       ],
       "email": "eatnw@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000135",
         "e38000143",
@@ -3780,12 +3275,8 @@
         "PO30 5TG"
       ],
       "email": "IOWContactUs@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000087"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000087"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3808,12 +3299,8 @@
         "YO30 5SF"
       ],
       "email": "cabsl.NYOwheelchairs@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000188"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000188"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3837,9 +3324,7 @@
         "OX3 7HE"
       ],
       "email": "specialist.disabilityservice@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000110",
         "e38000114",
@@ -3878,12 +3363,8 @@
         "OX3 7HE"
       ],
       "email": "oxfordshire.wheelchairservice@ouh.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000136"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000136"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3905,12 +3386,8 @@
         "PE3 6BD"
       ],
       "email": "cambridgeandpeterborough@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000026"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000026"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3934,12 +3411,8 @@
         "PL6 7PY"
       ],
       "email": "plymouth@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000152"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000152"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3962,12 +3435,8 @@
         "PR2 8DY"
       ],
       "email": "outpatient@lthtr.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000050"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000050"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3989,12 +3458,8 @@
         "PO3 6AD"
       ],
       "email": "pecentre@porthosp.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000137"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000137"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4008,19 +3473,10 @@
       "communicationMatters": null,
       "phoneNumber": "020 8780 4500 Ex 5050",
       "website": "www.rhn.org.uk",
-      "addressLines": [
-        "West Hill",
-        "Putney",
-        "London",
-        "SW15 3SW"
-      ],
+      "addressLines": ["West Hill", "Putney", "London", "SW15 3SW"],
       "email": "kmarshall@rhn.org.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000202"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000202"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4041,9 +3497,7 @@
         "BH23 2JX"
       ],
       "email": "rbc-tr.environmentalcontrolservice@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000045",
         "e38000059",
@@ -4076,10 +3530,7 @@
         "NE6 4QD"
       ],
       "email": "rcas@ntw.nhs.uk",
-      "servicesOffered": [
-        "ec",
-        "aac"
-      ],
+      "servicesOffered": ["ec", "aac"],
       "ccgCodes": [
         "e38000127",
         "e38000130",
@@ -4116,12 +3567,8 @@
         "OL10 2DY"
       ],
       "email": "deborah.jones@pat.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000080"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000080"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4144,12 +3591,8 @@
         "IG3 8XJ"
       ],
       "email": "nel.ajmhealthcare@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000138"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000138"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4172,9 +3615,7 @@
         "UB8 3NN"
       ],
       "email": "thh-tr.RECES@nhs.net",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000007",
         "e38000030",
@@ -4228,12 +3669,8 @@
         "SW15 5PN"
       ],
       "email": "Lesley.clarridge@stgeorges.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000202"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000202"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4255,12 +3692,8 @@
         "S65 1SU"
       ],
       "email": "cabsl.rotherhamwheelchairservices@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000141"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000141"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4282,12 +3715,8 @@
         "M28 2LY"
       ],
       "email": "info@disabledliving.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000143"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000143"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4309,12 +3738,8 @@
         "B66 1JE"
       ],
       "email": "sandwellwheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000144"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000144"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4335,12 +3760,8 @@
         "YO12 4AD"
       ],
       "email": "stees.patient.experience@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000145"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000145"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4362,9 +3783,7 @@
         "G51 4TF"
       ],
       "email": "sctci@ggc.scot.nhs.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -4387,14 +3806,8 @@
         "IP2 0QY"
       ],
       "email": "alex.winterbone@bartrams.net",
-      "servicesOffered": [
-        "ec"
-      ],
-      "ccgCodes": [
-        "e38000086",
-        "e38000063",
-        "e38000204"
-      ],
+      "servicesOffered": ["ec"],
+      "ccgCodes": ["e38000086", "e38000063", "e38000204"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4415,12 +3828,8 @@
         "S5 7AU"
       ],
       "email": "CABSL.BlatchfordNGH@NHS.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000146"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000146"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4443,12 +3852,8 @@
         "SY1 3NJ"
       ],
       "email": "shropcom.swaps@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000147"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000147"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4470,12 +3875,8 @@
         "RM16 2PX"
       ],
       "email": "wheelchairservice@swessex.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000197"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000197"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4498,12 +3899,8 @@
         "B37 7HY"
       ],
       "email": "jointequipmentservice@solihull.gov.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000149"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000149"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4525,12 +3922,8 @@
         "TS4 3BW"
       ],
       "email": "Christine.willans@stees.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000162"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000162"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4552,9 +3945,7 @@
         "SW15 5PN"
       ],
       "email": "supportAT@stgeorges.nhs.uk",
-      "servicesOffered": [
-        "ec"
-      ],
+      "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000036",
         "e38000039",
@@ -4588,12 +3979,8 @@
         "WA9 3DA"
       ],
       "email": "bchft.enquiries@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000056"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000056"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4617,12 +4004,8 @@
         "SS2 5TE"
       ],
       "email": "southendwheelchair.service@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000117"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000117"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4643,12 +4026,8 @@
         "PR9 0PQ"
       ],
       "email": "Wheelchairs.southportandformby@lancashirecare.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000170"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000170"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4672,12 +4051,8 @@
         "L9 7AL"
       ],
       "email": "PAWCAdmin@liverpoolft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000161"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000161"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4700,12 +4075,8 @@
         "WN8 9PR"
       ],
       "email": "Wheelchairs.southportandformby@lancashirecare.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000170"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000170"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4728,12 +4099,8 @@
         "SK4 1LW"
       ],
       "email": "Wheelchair.Services@Stockport.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000174"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000174"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4747,19 +4114,10 @@
       "communicationMatters": null,
       "phoneNumber": "020 84969029",
       "website": "https://www.enabledlivinghealthcare.co.uk/wheelchair-specialist-seating/",
-      "addressLines": [
-        "29 Romford Road",
-        "Stratford",
-        "London",
-        "E15 4LY"
-      ],
+      "addressLines": ["29 Romford Road", "Stratford", "London", "E15 4LY"],
       "email": "info@enabledlivinghealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000113"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000113"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4781,12 +4139,8 @@
         "NE34 0PL"
       ],
       "email": "ges.enquiries@stft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000127"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000127"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4809,12 +4163,8 @@
         "SR2 9TS"
       ],
       "email": "ges.enquiries@stft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000176"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000176"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4837,12 +4187,8 @@
         "GU21 5SA"
       ],
       "email": "surreywcs@millbrookhealthcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000214"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000214"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4864,12 +4210,8 @@
         "SN2 8UU"
       ],
       "email": "gwh.swindonwheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000181"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000181"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4890,9 +4232,7 @@
         "AB23 8BL"
       ],
       "email": "tasscc@aberdeencity.gov.uk",
-      "servicesOffered": [
-        "aac"
-      ],
+      "servicesOffered": ["aac"],
       "ccgCodes": [],
       "caseload": "All",
       "serviceColour": null,
@@ -4907,19 +4247,10 @@
       "communicationMatters": null,
       "phoneNumber": "01382 496299/496300",
       "website": "https://www.nhstayside.scot.nhs.uk/OurServicesA-Z/TORTCentre/index.htm",
-      "addressLines": [
-        "Ninewells Hospital",
-        "Dundee",
-        "Tayside",
-        "DD1 9SY"
-      ],
+      "addressLines": ["Ninewells Hospital", "Dundee", "Tayside", "DD1 9SY"],
       "email": "geoff.bardsley@tuht.scot.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000182"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000182"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4941,12 +4272,8 @@
         "WF2 8EF"
       ],
       "email": "wheelchairs@wakefield.gov.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000190"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000190"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4969,12 +4296,8 @@
         "WS12 4HD"
       ],
       "email": "contactus@walsallhospitals.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000191"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000191"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -4988,19 +4311,10 @@
       "communicationMatters": null,
       "phoneNumber": "0151 525 3622 x5484",
       "website": "https://www.thewaltoncentre.nhs.uk/",
-      "addressLines": [
-        "Lower Lane",
-        "Liverpool",
-        "Merseyside",
-        "L9 7LJ"
-      ],
+      "addressLines": ["Lower Lane", "Liverpool", "Merseyside", "L9 7LJ"],
       "email": "enquiries@thewaltoncentre.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000068"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000068"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5022,12 +4336,8 @@
         "WA5 7TN"
       ],
       "email": "wheels@warrington-pct.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000194"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000194"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5050,12 +4360,8 @@
         "CV34 6SR"
       ],
       "email": "wheelchairs@swft.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000164"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000164"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5079,12 +4385,8 @@
         "RG1 5AN"
       ],
       "email": "PALS@royalberkshire.nhs.uk.",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000114"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000114"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5106,12 +4408,8 @@
         "CH65 2HB"
       ],
       "email": "wcnt.wctwheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000196"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000196"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5135,12 +4433,8 @@
         "SK14 4NL"
       ],
       "email": "Tameside.wheelchairs@blatchford.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000182"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000182"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5163,12 +4457,8 @@
         "WN3 4NW"
       ],
       "email": "wigan.wheelchairservice@bridgewater.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000205"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000205"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5190,12 +4480,8 @@
         "SN12 7NA"
       ],
       "email": "Joanne.lawton@gwh.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000206"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000206"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5217,12 +4503,8 @@
         "B29 6JA"
       ],
       "email": "ACT.Duty@bhamcommunity.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000208"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000208"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5244,12 +4526,8 @@
         "CH41 5DA"
       ],
       "email": "wcnt.wctwheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000208"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000208"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5271,12 +4549,8 @@
         "CM2 0PD"
       ],
       "email": "walthamforest@ajmhealthcare.org",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000192"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000192"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5299,12 +4573,8 @@
         "SO23 7FA"
       ],
       "email": "info@opcare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000013"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000013"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5326,12 +4596,8 @@
         "GU22 7HS"
       ],
       "email": "wheelchair.services@virgincare.co.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000178"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000178"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5353,12 +4619,8 @@
         "WV1 1NQ"
       ],
       "email": "rwh-tr.wheelchairservice@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000210"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000210"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5381,12 +4643,8 @@
         "BN2 3EX"
       ],
       "email": "SC-TR.wheelchairserviceworthing@nhs.net",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000213"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000213"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5408,12 +4666,8 @@
         "LL13 7TD"
       ],
       "email": "CAV_Alas@wales.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000196"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000196"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5437,12 +4691,8 @@
         "IP32 7BX"
       ],
       "email": "adminwheelchairservices@wsh.nhs.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000204"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000204"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -5456,19 +4706,10 @@
       "communicationMatters": null,
       "phoneNumber": "01527 869107",
       "website": "https://www.hacw.nhs.uk/services/service/wheelchair-posture-mobility-service-93/",
-      "addressLines": [
-        "Crown Lane",
-        "Wychbold",
-        "Worcestershire",
-        "WR9 0BX"
-      ],
+      "addressLines": ["Crown Lane", "Wychbold", "Worcestershire", "WR9 0BX"],
       "email": "gcooper@worcestershire.gov.uk",
-      "servicesOffered": [
-        "wcs"
-      ],
-      "ccgCodes": [
-        "e38000166"
-      ],
+      "servicesOffered": ["wcs"],
+      "ccgCodes": ["e38000166"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
