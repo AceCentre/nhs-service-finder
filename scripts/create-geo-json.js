@@ -18,9 +18,18 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   const CcgEngland16 = require("../archive/Clinical_Commissioning_Groups_(April_2016)_Boundaries.json");
   const CcgEngland15 = require("../archive/Clinical_Commissioning_Groups_(July_2015)_Boundaries.json");
 
+  const PostcodeCH = require("../archive/welsh-postcodes/CH.json");
+  const PostcodeLD = require("../archive/welsh-postcodes/LD.json");
+  const PostcodeLL = require("../archive/welsh-postcodes/LL.json");
+  const PostcodeSY = require("../archive/welsh-postcodes/SY.json");
+
   const PRIORITY_ORDER_GEOJSON = [
     { map: NorthernIreland, key: "isNorthernIreland" },
     { map: AllWales, key: "isAllOfWales" },
+    { map: PostcodeCH, key: "name" },
+    { map: PostcodeLD, key: "name" },
+    { map: PostcodeLL, key: "name" },
+    { map: PostcodeSY, key: "name" },
     { map: CcgEngland21, key: "CCG21CD" },
     { map: CcgEngland20, key: "ccg20cd" },
     { map: CcgEngland19, key: "CCG19CD" },
