@@ -10,6 +10,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   let features = [];
 
   const NorthernIreland = require("../archive/northern-ireland.json");
+  const AllWales = require("../archive/all-wales.json");
   const CcgEngland21 = require("../archive/Clinical_Commissioning_Groups_(April_2021)_EN_BUC.json");
   const CcgEngland20 = require("../archive/Clinical_Commissioning_Groups_(April_2020)_EN_BFC_V2.json");
   const CcgEngland19 = require("../archive/Clinical_Commissioning_Groups__April_2019__Boundaries_EN_BUC.json");
@@ -19,6 +20,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
 
   const PRIORITY_ORDER_GEOJSON = [
     { map: NorthernIreland, key: "isNorthernIreland" },
+    { map: AllWales, key: "isAllOfWales" },
     { map: CcgEngland21, key: "CCG21CD" },
     { map: CcgEngland20, key: "ccg20cd" },
     { map: CcgEngland19, key: "CCG19CD" },
