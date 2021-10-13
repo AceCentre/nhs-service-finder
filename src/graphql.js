@@ -1,11 +1,45 @@
 const { ApolloError } = require("apollo-server-errors");
 const { gql } = require("apollo-server-lambda");
 const fetch = require("node-fetch");
+const fs = require("fs/promises");
+const path = require("path");
+const turf = require("@turf/turf");
 
 const { services } = require("../data/services.json");
 const { serviceTypes } = require("../data/service-types.json");
-const servicesGeo = require("../data/services-geo.json");
-const turf = require("@turf/turf");
+
+let aacServicesGeo = null;
+let ecServicesGeo = null;
+let wcsServicesGeo = null;
+
+const getServicesGeo = async () => {
+  // Return the files if we have already done the work to get them
+  if (aacServicesGeo && ecServicesGeo && wcsServicesGeo) {
+    return {
+      aacServicesGeo,
+      ecServicesGeo,
+      wcsServicesGeo,
+    };
+  }
+
+  const dataFolder = path.join(__dirname, "../data");
+
+  const results = await Promise.all([
+    fs.readFile(path.join(dataFolder, "./aac-services-geo.geojson")),
+    fs.readFile(path.join(dataFolder, "./ec-services-geo.geojson")),
+    fs.readFile(path.join(dataFolder, "./wcs-services-geo.geojson")),
+  ]);
+
+  aacServicesGeo = JSON.parse(results[0].toString());
+  ecServicesGeo = JSON.parse(results[1].toString());
+  wcsServicesGeo = JSON.parse(results[2].toString());
+
+  return {
+    aac: aacServicesGeo,
+    ec: ecServicesGeo,
+    wcs: wcsServicesGeo,
+  };
+};
 
 const typeDefs = gql`
   type ServiceType {
@@ -56,10 +90,13 @@ const typeDefs = gql`
 `;
 
 // This could be optimized and cleaned up
-const getServicesFromPoint = (currentPoint) => {
+const getServicesFromPoint = async (currentPoint) => {
   console.log("Called with", currentPoint);
   let featuresWithPoints = [];
-  for (const current of servicesGeo.features) {
+
+  const { aac, ec, wcs } = await getServicesGeo();
+
+  for (const current of [...aac.features, ...ec.features, ...wcs.features]) {
     const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
     const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
     if (ptsWithin.features.length > 0) {
@@ -114,7 +151,7 @@ const resolvers = {
       const currentPoint = turf.point([lng, lat]);
 
       return {
-        services: getServicesFromPoint(currentPoint),
+        services: await getServicesFromPoint(currentPoint),
         nearbyServices: [],
       };
     },
@@ -144,7 +181,7 @@ const resolvers = {
       ]);
 
       return {
-        services: getServicesFromPoint(currentPoint),
+        services: await getServicesFromPoint(currentPoint),
         nearbyServices: [],
       };
     },
