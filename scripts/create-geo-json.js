@@ -3,6 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const turf = require("@turf/turf");
 const { execSync } = require("child_process");
+const { uniq } = require("lodash");
 
 const geojsonhint = require("@mapbox/geojsonhint");
 
@@ -47,7 +48,13 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   ];
 
   for (const currentService of currentServiceList) {
-    for (const currentCcg of currentService.ccgCodes) {
+    const uniqueCodes = uniq(currentService.ccgCodes);
+
+    if (uniqueCodes.length !== currentService.ccgCodes.length) {
+      console.log(`Duplicate in ${currentService.serviceName}`);
+    }
+
+    for (const currentCcg of uniqueCodes) {
       let featureForCcg = null;
 
       for (const currentSource of PRIORITY_ORDER_GEOJSON) {
