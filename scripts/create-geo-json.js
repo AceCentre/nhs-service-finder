@@ -51,7 +51,11 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
     const uniqueCodes = uniq(currentService.ccgCodes);
 
     if (uniqueCodes.length !== currentService.ccgCodes.length) {
-      console.log(`Duplicate in ${currentService.serviceName}`);
+      const duplicates = currentService.ccgCodes.filter(
+        (e, i, a) => a.indexOf(e) !== i
+      );
+
+      console.log(`Duplicate in ${currentService.serviceName}: ${duplicates}`);
     }
 
     for (const currentCcg of uniqueCodes) {
