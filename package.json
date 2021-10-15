@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/local-testing",
-    "map-viewer": "http-server data"
+    "map-viewer": "http-server ."
   },
   "repository": {
     "type": "git",
