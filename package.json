@@ -25,6 +25,7 @@
     "apollo-server-errors": "^3.1.0",
     "apollo-server-lambda": "^3.3.0",
     "axios": "^0.21.4",
+    "csv-parser": "^3.0.0",
     "graphql": "^15.6.0",
     "http-server": "^13.0.2",
     "lodash": "^4.17.21",
