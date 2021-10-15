@@ -58,18 +58,33 @@
       ).addTo(map);
 
       (async () => {
-        const aacServicesResult = await fetch("/aac-services-geo.geojson");
-        const ecServicesResult = await fetch("/ec-services-geo.geojson");
-        const wcsServicesResult = await fetch("/wcs-services-geo.geojson");
+        const aacServicesResult = await fetch("/data/aac-services-geo.geojson");
+        const ecServicesResult = await fetch("/data/ec-services-geo.geojson");
+        const wcsServicesResult = await fetch("/data/wcs-services-geo.geojson");
+        const ccg21Result = await fetch(
+          "/archive/Clinical_Commissioning_Groups_(April_2021)_EN_BUC.json"
+        );
 
         const aac = await aacServicesResult.json();
         const ec = await ecServicesResult.json();
         const wcs = await wcsServicesResult.json();
+        const ccg21 = await ccg21Result.json();
+
+        const onEachFeature =
+          (property = "serviceId") =>
+          (feature, layer) => {
+            layer.bindPopup(`<h1>${feature.properties[property]}</h1>`);
+          };
 
         const layers = {
-          "AAC Services": L.geoJSON(aac),
-          "EC Services": L.geoJSON(ec),
-          "Wheelchair Services": L.geoJSON(wcs),
+          "AAC Services": L.geoJSON(aac, { onEachFeature: onEachFeature() }),
+          "EC Services": L.geoJSON(ec, { onEachFeature: onEachFeature() }),
+          "Wheelchair Services": L.geoJSON(wcs, {
+            onEachFeature: onEachFeature(),
+          }),
+          "CCG Codes 21": L.geoJSON(ccg21, {
+            onEachFeature: onEachFeature("CCG21CD"),
+          }),
         };
 
         L.control.layers({}, layers, { collapsed: false }).addTo(map);
