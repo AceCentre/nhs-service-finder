@@ -28,12 +28,9 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   const PostcodeSA = require("../archive/welsh-postcodes/SA.json");
   const PostcodeNP = require("../archive/welsh-postcodes/NP.json");
 
-  const Scotland = require("../archive/health-boards.json");
-
   const PRIORITY_ORDER_GEOJSON = [
     { map: NorthernIreland, key: "isNorthernIreland" },
     { map: AllWales, key: "isAllOfWales" },
-    { map: Scotland, key: "HBCode" },
     { map: PostcodeCH, key: "name" },
     { map: PostcodeLD, key: "name" },
     { map: PostcodeLL, key: "name" },
