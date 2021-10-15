@@ -113,7 +113,9 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
           );
         }
       } else {
-        console.log(`Could not find location for ccg, ${currentCcg}`);
+        console.log(
+          `Could not find location for ccg, ${currentCcg}, ${currentService.id}`
+        );
         // throw new Error(`Could not find location for ccg, ${currentCcg}`);
       }
     }
@@ -130,7 +132,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
 
   fs.writeFileSync(tempFile, JSON.stringify(simplified, null, 2));
 
-  execSync(`mapshaper ${tempFile} -dissolve 'serviceId' -o ${outFile}`);
+  execSync(`mapshaper ${tempFile} -dissolve2 'serviceId' -o ${outFile}`);
 };
 
 const aac = services.filter((service) =>
