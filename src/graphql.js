@@ -98,10 +98,6 @@ const getServicesFromPoint = async (currentPoint) => {
   const { aac, ec, wcs } = await getServicesGeo();
 
   for (const current of [...aac.features, ...ec.features, ...wcs.features]) {
-    if (!current.geometry) {
-      continue;
-    }
-
     const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
     const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
     if (ptsWithin.features.length > 0) {
