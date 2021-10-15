@@ -1028,6 +1028,7 @@
       "email": "enquiries.casee@nhs.net",
       "servicesOffered": ["aac"],
       "ccgCodes": [
+        "e38000239",
         "e38000049",
         "e38000185",
         "e38000124",
@@ -1550,7 +1551,10 @@
         "e38000108",
         "e38000201",
         "e38000037",
-        "e38000100"
+        "e38000100",
+        "E38000249",
+        "E38000243",
+        "E38000229"
       ],
       "caseload": "All",
       "serviceColour": null,
