@@ -17,11 +17,6 @@
     status = 200
 
 [[redirects]]
-    from = "/get-raw-geo-data"
-    to = "https://servicefinder.acecentre.net/.netlify/functions/get-raw-geo-data"
-    status = 200
-
-[[redirects]]
     from = "https://servicefinder.acecentre.net"
     to = "https://acecentre.org.uk/nhs-service-finder"
     status = 301
