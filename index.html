@@ -64,11 +64,15 @@
         const ccg21Result = await fetch(
           "/archive/Clinical_Commissioning_Groups_(April_2021)_EN_BUC.json"
         );
+        const scottishHealthBoardsResult = await fetch(
+          "/archive/health-boards-small.json"
+        );
 
         const aac = await aacServicesResult.json();
         const ec = await ecServicesResult.json();
         const wcs = await wcsServicesResult.json();
         const ccg21 = await ccg21Result.json();
+        const scottishHealthBoards = await scottishHealthBoardsResult.json();
 
         const onEachFeature =
           (property = "serviceId") =>
@@ -84,6 +88,9 @@
           }),
           "CCG Codes 21": L.geoJSON(ccg21, {
             onEachFeature: onEachFeature("CCG21CD"),
+          }),
+          "Scottish Health Boards": L.geoJSON(scottishHealthBoards, {
+            onEachFeature: onEachFeature("HBCode"),
           }),
         };
 
