@@ -35,13 +35,33 @@ const getServicesGeo = async () => {
 };
 
 exports.handler = async ({ queryStringParameters }, context) => {
-  const data = await getServicesGeo();
+  try {
+    const data = await getServicesGeo();
 
-  if (
-    !queryStringParameters ||
-    !queryStringParameters.type ||
-    !data[queryStringParameters.type.toLowerCase()]
-  ) {
+    console.log("Got data", Object.keys(data), queryStringParameters);
+
+    if (
+      !queryStringParameters ||
+      !queryStringParameters.type ||
+      !data[queryStringParameters.type.toLowerCase()]
+    ) {
+      return {
+        statusCode: 404,
+        headers: {
+          "Access-Control-Allow-Origin": "*",
+        },
+      };
+    }
+
+    return {
+      statusCode: 200,
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+      },
+      body: JSON.stringify(data[queryStringParameters.type.toLowerCase()]),
+    };
+  } catch (e) {
+    console.warn(e);
     return {
       statusCode: 404,
       headers: {
@@ -49,12 +69,4 @@ exports.handler = async ({ queryStringParameters }, context) => {
       },
     };
   }
-
-  return {
-    statusCode: 200,
-    headers: {
-      "Access-Control-Allow-Origin": "*",
-    },
-    body: JSON.stringify(data[queryStringParameters.type.toLowerCase()]),
-  };
 };
