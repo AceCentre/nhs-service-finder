@@ -102,8 +102,9 @@ const getServicesFromPoint = async (currentPoint) => {
       continue;
     }
 
-    const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
-    const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
+    const currentFeature = turf.feature(current.geometry);
+    const ptsWithin = turf.pointsWithinPolygon(currentPoint, currentFeature);
+
     if (ptsWithin.features.length > 0) {
       featuresWithPoints.push(current.properties.serviceId);
     }
