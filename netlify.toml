@@ -5,7 +5,7 @@
 
 [build]
     functions = "functions"
-    command = "echo 'Dont bother building'"
+    command = "mkdir build-output/raw-data && cp -r data/ build-output/raw-data"
     publish = "build-output"
 
 [functions]
@@ -22,7 +22,13 @@
     status = 200
 
 [[redirects]]
-    from = "https://servicefinder.acecentre.net/*"
+    from = "https://servicefinder.acecentre.net"
+    to = "https://acecentre.org.uk/nhs-service-finder"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "https://servicefinder.acecentre.net/index.html"
     to = "https://acecentre.org.uk/nhs-service-finder"
     status = 301
     force = true
