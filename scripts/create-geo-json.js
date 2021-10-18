@@ -135,7 +135,9 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
 
   fs.writeFileSync(tempFile, JSON.stringify(simplified, null, 2));
 
-  execSync(`mapshaper ${tempFile} -dissolve2 'serviceId' -o ${outFile}`);
+  execSync(
+    `mapshaper ${tempFile} -dissolve2 'serviceId' allow-overlaps -o ${outFile}`
+  );
 };
 
 const aac = services.filter((service) =>
