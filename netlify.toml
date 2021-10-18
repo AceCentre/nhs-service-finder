@@ -5,7 +5,7 @@
 
 [build]
     functions = "functions"
-    command = "mkdir build-output/raw-data && cp -r data/ build-output/raw-data"
+    command = "mkdir build-output/raw-data && cp -r data/* build-output/raw-data"
     publish = "build-output"
 
 [functions]
