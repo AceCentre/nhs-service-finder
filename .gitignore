@@ -6,3 +6,7 @@ public/
 res/data/
 
 node_modules
+.DS_Store
+
+temp
+archive

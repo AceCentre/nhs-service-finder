@@ -1,9 +1,46 @@
 const { ApolloError } = require("apollo-server-errors");
 const { gql } = require("apollo-server-lambda");
 const fetch = require("node-fetch");
+const fs = require("fs").promises;
+const path = require("path");
+const turf = require("@turf/turf");
+const { uniqBy } = require("lodash");
 
 const { services } = require("../data/services.json");
 const { serviceTypes } = require("../data/service-types.json");
+
+let aacServicesGeo = null;
+let ecServicesGeo = null;
+let wcsServicesGeo = null;
+
+const getServicesGeo = async () => {
+  // Return the files if we have already done the work to get them
+  if (aacServicesGeo && ecServicesGeo && wcsServicesGeo) {
+    return {
+      aac: aacServicesGeo,
+      ec: ecServicesGeo,
+      wcs: wcsServicesGeo,
+    };
+  }
+
+  const dataFolder = path.join(__dirname, "../data");
+
+  const results = await Promise.all([
+    fs.readFile(path.join(dataFolder, "./aac-services-geo.geojson")),
+    fs.readFile(path.join(dataFolder, "./ec-services-geo.geojson")),
+    fs.readFile(path.join(dataFolder, "./wcs-services-geo.geojson")),
+  ]);
+
+  aacServicesGeo = JSON.parse(results[0].toString());
+  ecServicesGeo = JSON.parse(results[1].toString());
+  wcsServicesGeo = JSON.parse(results[2].toString());
+
+  return {
+    aac: aacServicesGeo,
+    ec: ecServicesGeo,
+    wcs: wcsServicesGeo,
+  };
+};
 
 const typeDefs = gql`
   type ServiceType {
@@ -53,7 +90,30 @@ const typeDefs = gql`
   }
 `;
 
-const uniq = (array) => [...new Set(array)];
+// This could be optimized and cleaned up
+const getServicesFromPoint = async (currentPoint) => {
+  console.log("Called with", currentPoint);
+  let featuresWithPoints = [];
+
+  const { aac, ec, wcs } = await getServicesGeo();
+
+  for (const current of [...aac.features, ...ec.features, ...wcs.features]) {
+    if (!current.geometry) {
+      continue;
+    }
+
+    const multiPolygon = turf.multiPolygon(current.geometry.coordinates);
+    const ptsWithin = turf.pointsWithinPolygon(currentPoint, multiPolygon);
+    if (ptsWithin.features.length > 0) {
+      featuresWithPoints.push(current.properties.serviceId);
+    }
+  }
+
+  const foundServices = featuresWithPoints.map((feature) =>
+    services.find((x) => x.id === feature)
+  );
+  return uniqBy(foundServices, "id");
+};
 
 const servicesForGivenCcgList = (ccgCodes) => {
   const servicesForGivenCcgList = services.filter((service) => {
@@ -93,42 +153,11 @@ const resolvers = {
       return servicesForGivenCcgList(ccgCodes);
     },
     servicesForCoords: async (_, { lat, lng }) => {
-      let data;
-      try {
-        const result = await fetch(
-          `https://api.postcodes.io/postcodes?lon=${lng}&lat=${lat}&limit=100&radius=2000`
-        );
-        data = await result.json();
-      } catch (error) {
-        throw new ApolloError(`Failed to get CCGs for your given lat/long`);
-      }
-
-      if (data.status !== 200) {
-        throw new ApolloError(data.error || "Failed to get CCGs");
-      }
-
-      if (data.result.length === 0) {
-        throw new ApolloError("No postcodes were found for you given lat/long");
-      }
-
-      const nearestPostcode = data.result[0];
-      const nearestCcgs = uniq([
-        nearestPostcode.ccg,
-        nearestPostcode.codes.ccg,
-        nearestPostcode.codes.ccg_id,
-      ]).filter((x) => !!x);
-
-      const allCcgs = uniq(
-        data.result.flatMap((postcode) => {
-          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
-        })
-      ).filter((x) => !!x);
-
-      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+      const currentPoint = turf.point([lng, lat]);
 
       return {
-        services: servicesForGivenCcgList(nearestCcgs),
-        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+        services: await getServicesFromPoint(currentPoint),
+        nearbyServices: [],
       };
     },
     servicesForPostcode: async (_, { postcode }) => {
@@ -151,23 +180,14 @@ const resolvers = {
       }
 
       const nearestPostcode = data.result[0];
-      const nearestCcgs = uniq([
-        nearestPostcode.ccg,
-        nearestPostcode.codes.ccg,
-        nearestPostcode.codes.ccg_id,
-      ]).filter((x) => !!x);
-
-      const allCcgs = uniq(
-        data.result.flatMap((postcode) => {
-          return [postcode.ccg, postcode.codes.ccg, postcode.codes.ccg_id];
-        })
-      ).filter((x) => !!x);
-
-      const nearbyCCgs = nearestCcgs.filter((ccg) => !allCcgs.includes(ccg));
+      const currentPoint = turf.point([
+        nearestPostcode.longitude,
+        nearestPostcode.latitude,
+      ]);
 
       return {
-        services: servicesForGivenCcgList(nearestCcgs),
-        nearbyServices: servicesForGivenCcgList(nearbyCCgs),
+        services: await getServicesFromPoint(currentPoint),
+        nearbyServices: [],
       };
     },
   },

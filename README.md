@@ -21,6 +21,10 @@ You can run a local version of the graphql server for development. Here are the 
 1. Install npm deps: `npm install`
 2. Run the dev server: `npm run dev`
 
+### Viewing the maps locally
+
+You can view the maps locally by running `npm run map-viewer` which will output a local URL. If you visit the local URL you will see a map which you can toggle the GeoJSON layers for.
+
 ## Deployment
 
 The GraphQL server is deployed to Netlify. There are no build steps before deployment. The `functions` folder become serverless functions.
