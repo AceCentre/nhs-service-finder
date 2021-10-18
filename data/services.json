@@ -4334,7 +4334,7 @@
       "addressLines": ["Ninewells Hospital", "Dundee", "Tayside", "DD1 9SY"],
       "email": "geoff.bardsley@tuht.scot.nhs.uk",
       "servicesOffered": ["wcs"],
-      "ccgCodes": ["e38000182"],
+      "ccgCodes": ["S08000030"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
