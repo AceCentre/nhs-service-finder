@@ -4007,6 +4007,7 @@
       "email": "supportAT@stgeorges.nhs.uk",
       "servicesOffered": ["ec"],
       "ccgCodes": [
+        "E38000245",
         "e38000248",
         "e38000039",
         "e38000054",
