@@ -28,7 +28,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "ACE Centre North",
@@ -97,7 +98,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "ACE Centre South",
@@ -151,7 +153,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Access to Communication and Technology (ACT), Birmingham",
@@ -206,7 +209,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Airedale Mobility Services",
@@ -237,7 +241,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Manchester Specialised Services Centre",
@@ -269,7 +274,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "AT Telehealthcare team, Cambridgeshire",
@@ -301,7 +307,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Ayrshire & Arran AAC Resource",
@@ -331,7 +338,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Barnsley Assistive Technology Team",
@@ -386,7 +394,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bristol Communication Aid Service (BCAS)",
@@ -431,7 +440,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair Assessment Service",
@@ -462,7 +472,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bedfordshire EC service",
@@ -494,7 +505,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Belfast Communication Advice Centre",
@@ -524,7 +536,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bedfordshire and Luton Wheelchair Service",
@@ -556,7 +569,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bexley Wheelchair Service",
@@ -587,7 +601,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Birmingham Wheelchair Service",
@@ -619,7 +634,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bolton Wheelchair Service",
@@ -650,7 +666,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bognor Regis Wheelchair Service",
@@ -681,7 +698,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bradford Wheelchair Assessment Centre",
@@ -713,7 +731,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Brent and Ealing Wheelchair Service",
@@ -745,7 +764,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Brighton and Hove  Wheelchair / Specialist seating Service",
@@ -776,7 +796,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hampshire Wheelchair Service",
@@ -808,7 +829,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Bristol Wheelchair and Special Seating Service",
@@ -839,7 +861,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Buckinghamshire Wheelchair Service",
@@ -870,7 +893,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Calderdale, Greater Huddersfield and North Kirklees Posture and Mobility Services",
@@ -903,7 +927,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "CALL Scotland",
@@ -949,7 +974,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Cornwall Wheelchair Service",
@@ -980,7 +1006,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Camden & Islington Wheelchair Service",
@@ -1011,7 +1038,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Staffordshire Wheelchair Service - (South)",
@@ -1043,7 +1071,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Canterbury",
@@ -1074,7 +1103,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Carlisle Disablement Services Centre",
@@ -1106,7 +1136,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -1249,7 +1280,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Communication Aid Service East of England (CASEE)",
@@ -1303,7 +1335,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Chailey Communication Aid Service (CCAS)",
@@ -1346,7 +1379,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Gloucestershire Care Services Wheelchair Service",
@@ -1377,7 +1411,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Chorley South Ribble and West Lancashire Wheelchair Service",
@@ -1409,7 +1444,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Assistive Communication Service - CLCH (ACS)",
@@ -1451,7 +1487,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Staffordshire Wheelchair Service (North)",
@@ -1482,7 +1519,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "County Durham & Darlington Wheelchair",
@@ -1513,7 +1551,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Compass Assistive and Rehabilitation Technology Service",
@@ -1556,7 +1595,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Coventry Wheelchair Service",
@@ -1587,7 +1627,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Croydon Wheelchair Services",
@@ -1612,7 +1653,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1637,7 +1679,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1667,7 +1710,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Derbyshire & Nottinghamshire EAT service",
@@ -1709,7 +1753,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair and Special Seating Services",
@@ -1741,7 +1786,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Dorset Wheelchair Service (East)",
@@ -1773,7 +1819,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Dorset Wheelchair Service (West)",
@@ -1804,7 +1851,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Dudley Wheelchair Service",
@@ -1835,7 +1883,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "East Berkshire Specialist Wheelchair Service",
@@ -1860,7 +1909,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "East Cheshire Wheelchair Service",
@@ -1891,7 +1941,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "East Sussex Wheelchair Service",
@@ -1922,7 +1973,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Electronic Assistive Technology Service - AAC (EATS)",
@@ -1967,7 +2019,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Electronic Assistive Technology Service - EC (EATS)",
@@ -2009,7 +2062,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Edinburgh Mobility Centre",
@@ -2039,7 +2093,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Enfield Wheelchair Service",
@@ -2071,7 +2126,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "East Suffolk Wheelchair Service",
@@ -2102,7 +2158,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Exeter Mobility Centre",
@@ -2133,7 +2190,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Fife AAC",
@@ -2164,7 +2222,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Guy's and St Thomas's Wheelchair service",
@@ -2194,7 +2253,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Barnet Wheelchair Service",
@@ -2224,7 +2284,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Gateshead Wheelchair Services",
@@ -2255,7 +2316,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "West of Scotland Mobility & Rehabilitation Centre",
@@ -2293,7 +2355,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Augmentative Communication Service - GOSH",
@@ -2330,7 +2393,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Greenwich Wheelchair Service",
@@ -2355,7 +2419,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair Services",
@@ -2386,7 +2451,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Guy's and St Thomas' Assistive Communication Service (GSTT ACS)",
@@ -2428,7 +2494,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Great Yarmouth & Waveney Wheelchair Service",
@@ -2459,7 +2526,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Halton Wheelchair Service",
@@ -2489,7 +2557,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Harrogate Wheelchair Service",
@@ -2520,7 +2589,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Harrow Wheelchair Service",
@@ -2552,7 +2622,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hartlepool Wheelchair Service",
@@ -2583,7 +2654,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Haringey Wheelchair Service",
@@ -2613,7 +2685,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Havering Wheelchair Service",
@@ -2645,7 +2718,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "City & Hackney Wheelchair Service",
@@ -2675,7 +2749,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hertfordshire Wheelchair Service",
@@ -2705,7 +2780,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Herefordshire District Wheelchair Service",
@@ -2738,7 +2814,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hillingdon Wheelchair Service",
@@ -2769,7 +2846,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Holly (West Essex) NHS Wheelchair Service",
@@ -2801,7 +2879,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Sussex Community NHS Trust Wheelchair Service - Horsham Locality",
@@ -2832,7 +2911,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hounslow Wheelchair and Special Seating Service",
@@ -2863,7 +2943,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Hull and East Riding Wheelchair Services",
@@ -2893,7 +2974,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Huntingdon Wheelchair Service",
@@ -2924,7 +3006,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Highlands Wheelchair Service",
@@ -2955,7 +3038,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Northamptonshire Wheelchair Service Assessment Team",
@@ -2980,7 +3064,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Lothian Communication Technology Service",
@@ -3010,7 +3095,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- CYP Team",
@@ -3050,7 +3136,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- Adult Team",
@@ -3090,7 +3177,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Specialist Equipment Service",
@@ -3142,7 +3230,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kings Lynn Wheelchair Service",
@@ -3173,7 +3262,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Knowsley Centre for Independent Living",
@@ -3205,7 +3295,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Ashford",
@@ -3238,7 +3329,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Aylesham",
@@ -3269,7 +3361,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent and Medway Wheelchair Service , Dartford",
@@ -3300,7 +3393,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Gillingham",
@@ -3332,7 +3426,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Maidstone",
@@ -3364,7 +3459,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Central Surrey Wheelchair Service",
@@ -3395,7 +3491,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Leeds Wheelchair Centre",
@@ -3426,7 +3523,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Leicester Specialist Mobility Centre",
@@ -3456,7 +3554,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Leicestershire & Rutland EC Service",
@@ -3486,7 +3585,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Lincolnshire Wheelchair Service",
@@ -3511,7 +3611,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Liverpool Wheelchair Service",
@@ -3542,7 +3643,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Tower Hamlets Wheelchair Service",
@@ -3573,7 +3675,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Luton EC Service",
@@ -3604,7 +3707,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Mansfield Wheelchair Service",
@@ -3635,7 +3739,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Mid Essex Wheelchair Service",
@@ -3667,7 +3772,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Milton Keynes Wheelchair Service",
@@ -3699,7 +3805,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Regional Disablement Services Wheelchair Centre",
@@ -3730,7 +3837,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Electronic Assistive Technology South West",
@@ -3774,7 +3882,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "National Centre for Electronic Assistive Technology (NCEAT)",
@@ -3799,7 +3908,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Norfolk EC Service",
@@ -3836,7 +3946,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Newcastle Disablement Services Centre",
@@ -3867,7 +3978,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Northampton EC service",
@@ -3898,7 +4010,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Nottingham Mobility Centre",
@@ -3930,7 +4043,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Norwich Disablement Services Centre",
@@ -3961,7 +4075,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North East Regional EC Service",
@@ -4009,7 +4124,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Northallerton Wheelchair Centre",
@@ -4039,7 +4155,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Occupational Therapy Department",
@@ -4070,7 +4187,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North East Essex Wheelchair Service",
@@ -4101,7 +4219,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Lincolnshire Wheelchair Service",
@@ -4132,7 +4251,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Tees Wheelchair Service",
@@ -4163,7 +4283,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Northumberland Wheelchair Service",
@@ -4195,7 +4316,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Warwickshire & Rugby Wheelchair Service",
@@ -4226,7 +4348,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Tyneside Wheelchair Service",
@@ -4257,7 +4380,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North West AT Service",
@@ -4325,7 +4449,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Isle of Wight Occupational Therapy & Wheelchair Service",
@@ -4356,7 +4481,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Yorkshire and York Wheelchair Centre",
@@ -4388,7 +4514,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Specialist Disability Service, Oxford",
@@ -4436,7 +4563,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Oxfordshire Wheelchair Service OCE",
@@ -4468,7 +4596,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Peterborough Wheelchair Services",
@@ -4499,7 +4628,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Plymouth Wheelchair Service",
@@ -4532,7 +4662,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Specialist Mobility Rehabilitation Centre",
@@ -4564,7 +4695,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Portsmouth Disablement Services Centre",
@@ -4595,7 +4727,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Royal Hospital for Neuro-disability",
@@ -4620,7 +4753,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Dorset, hampshire & IOW ECS",
@@ -4660,7 +4794,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Regional Communication Aid Service (RCAS)",
@@ -4704,7 +4839,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Rochdale Posture & Mobility Centre",
@@ -4736,7 +4872,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Redbridge Wheelchair service",
@@ -4768,7 +4905,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "North Thames RECES (Regional Environmental Control Equipment Service)",
@@ -4831,7 +4969,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Roehampton Wheelchair Service",
@@ -4862,7 +5001,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Rotherham Equipment & Wheelchair Services",
@@ -4893,7 +5033,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Salford Disable Living Centre",
@@ -4924,7 +5065,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Sandwell Wheelchair Service",
@@ -4955,7 +5097,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Scarborough Wheelchair Centre",
@@ -4985,7 +5128,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Scottish Centre of Technology for the Communication Impaired",
@@ -5031,7 +5175,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Suffolk ECS",
@@ -5062,7 +5207,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Mobility and Specialised Rehabilitation Centre",
@@ -5092,7 +5238,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Shropshire Wheelchair & Posture Service",
@@ -5124,7 +5271,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair Service",
@@ -5155,7 +5303,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Solihull Wheelchair Service",
@@ -5187,7 +5336,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "South Tees Wheelchair Service",
@@ -5218,7 +5368,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Assistive Technology Service, St George's University Hospitals NHS Foundation Trust",
@@ -5261,7 +5412,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair Assessment Unit",
@@ -5293,7 +5445,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Southend Wheelchair Service",
@@ -5326,7 +5479,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Southport & Formby Wheelchair Services",
@@ -5356,7 +5510,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "South Sefton Wheelchair Service",
@@ -5389,7 +5544,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Southport and Formby Wheelchair Service",
@@ -5421,7 +5577,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Stockport Wheelchair Service",
@@ -5453,7 +5610,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Newham Wheelchair and Special Seating Service",
@@ -5478,7 +5636,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wheelchair Services",
@@ -5509,7 +5668,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Sunderland Wheelchair Service",
@@ -5541,7 +5701,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Surrey Wheelchair Service",
@@ -5573,7 +5734,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Swindon Wheelchair and Special Seating Service",
@@ -5604,7 +5766,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Technological Assessment and Support Service for Children and the Curriculum",
@@ -5634,7 +5797,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Tayside Orthopaedic & Rehabilitation Technology Centre",
@@ -5659,7 +5823,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wakefield Wheelchair Services",
@@ -5690,7 +5855,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Walsall ICES Community Equipment Stores",
@@ -5722,7 +5888,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Walton Centre for Neurology & Neurosurgery (BRSM)",
@@ -5747,7 +5914,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Warrington Wheelchair Service",
@@ -5778,7 +5946,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Warwickshire Wheelchair & Special Seating Service",
@@ -5810,7 +5979,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "West Berkshire Wheelchair Service",
@@ -5843,7 +6013,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "West Cheshire Wheelchair Service",
@@ -5874,7 +6045,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "West Pennine Wheelchair Service",
@@ -5907,7 +6079,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wigan and Leigh Wheelchair Service",
@@ -5939,7 +6112,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wiltshire Wheelchair Service and Specialist Service",
@@ -5970,7 +6144,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -6001,7 +6176,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -6032,7 +6208,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Waltham Forest Wheelchair & Special Seating Service",
@@ -6063,7 +6240,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Winchester Posture & Mobility Service",
@@ -6095,7 +6273,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Surrey Wheelchair Services",
@@ -6126,7 +6305,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Wolverhampton Wheelchair Service Maltings Mobility Centre",
@@ -6157,7 +6337,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Worthing Wheelchair Service",
@@ -6189,7 +6370,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -6312,7 +6494,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "West Suffolk Wheelchair Services",
@@ -6345,7 +6528,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     },
     {
       "serviceName": "Worcestershire Wheelchair Service",
@@ -6370,7 +6554,8 @@
       "staffing": null,
       "areaCoveredText": null,
       "populationServed": null,
-      "scale": null
+      "scale": null,
+      "servicesProvidedDescription": null
     }
   ]
 }
