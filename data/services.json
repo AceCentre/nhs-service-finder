@@ -25,7 +25,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "ACE Centre North",
@@ -91,7 +92,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "ACE Centre South",
@@ -142,7 +144,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Access to Communication and Technology (ACT), Birmingham",
@@ -194,7 +197,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Airedale Mobility Services",
@@ -222,7 +226,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Manchester Specialised Services Centre",
@@ -251,7 +256,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "AT Telehealthcare team, Cambridgeshire",
@@ -280,7 +286,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Ayrshire & Arran AAC Resource",
@@ -307,7 +314,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Barnsley Assistive Technology Team",
@@ -359,7 +367,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bristol Communication Aid Service (BCAS)",
@@ -401,7 +410,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair Assessment Service",
@@ -429,7 +439,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bedfordshire EC service",
@@ -458,7 +469,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Belfast Communication Advice Centre",
@@ -485,7 +497,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bedfordshire and Luton Wheelchair Service",
@@ -514,7 +527,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bexley Wheelchair Service",
@@ -542,7 +556,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Birmingham Wheelchair Service",
@@ -571,7 +586,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bolton Wheelchair Service",
@@ -599,7 +615,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bognor Regis Wheelchair Service",
@@ -627,7 +644,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bradford Wheelchair Assessment Centre",
@@ -656,7 +674,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Brent and Ealing Wheelchair Service",
@@ -685,7 +704,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Brighton and Hove  Wheelchair / Specialist seating Service",
@@ -713,7 +733,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hampshire Wheelchair Service",
@@ -742,7 +763,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Bristol Wheelchair and Special Seating Service",
@@ -770,7 +792,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Buckinghamshire Wheelchair Service",
@@ -798,7 +821,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Calderdale, Greater Huddersfield and North Kirklees Posture and Mobility Services",
@@ -828,7 +852,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "CALL Scotland",
@@ -871,7 +896,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Cornwall Wheelchair Service",
@@ -899,7 +925,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Camden & Islington Wheelchair Service",
@@ -927,7 +954,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Staffordshire Wheelchair Service - (South)",
@@ -956,7 +984,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Canterbury",
@@ -984,7 +1013,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Carlisle Disablement Services Centre",
@@ -1013,7 +1043,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -1153,7 +1184,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Communication Aid Service East of England (CASEE)",
@@ -1204,7 +1236,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Chailey Communication Aid Service (CCAS)",
@@ -1244,7 +1277,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Gloucestershire Care Services Wheelchair Service",
@@ -1272,7 +1306,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Chorley South Ribble and West Lancashire Wheelchair Service",
@@ -1301,7 +1336,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Assistive Communication Service - CLCH (ACS)",
@@ -1340,7 +1376,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Staffordshire Wheelchair Service (North)",
@@ -1368,7 +1405,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "County Durham & Darlington Wheelchair",
@@ -1396,7 +1434,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Compass Assistive and Rehabilitation Technology Service",
@@ -1436,7 +1475,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Coventry Wheelchair Service",
@@ -1464,7 +1504,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Croydon Wheelchair Services",
@@ -1486,7 +1527,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1508,7 +1550,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1535,7 +1578,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Derbyshire & Nottinghamshire EAT service",
@@ -1574,7 +1618,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair and Special Seating Services",
@@ -1603,7 +1648,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Dorset Wheelchair Service (East)",
@@ -1632,7 +1678,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Dorset Wheelchair Service (West)",
@@ -1660,7 +1707,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Dudley Wheelchair Service",
@@ -1688,7 +1736,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "East Berkshire Specialist Wheelchair Service",
@@ -1710,7 +1759,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "East Cheshire Wheelchair Service",
@@ -1738,7 +1788,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "East Sussex Wheelchair Service",
@@ -1766,7 +1817,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Electronic Assistive Technology Service - AAC (EATS)",
@@ -1808,7 +1860,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Electronic Assistive Technology Service - EC (EATS)",
@@ -1847,7 +1900,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Edinburgh Mobility Centre",
@@ -1874,7 +1928,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Enfield Wheelchair Service",
@@ -1903,7 +1958,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "East Suffolk Wheelchair Service",
@@ -1931,7 +1987,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Exeter Mobility Centre",
@@ -1959,7 +2016,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Fife AAC",
@@ -1987,7 +2045,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Guy's and St Thomas's Wheelchair service",
@@ -2014,7 +2073,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Barnet Wheelchair Service",
@@ -2041,7 +2101,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Gateshead Wheelchair Services",
@@ -2069,7 +2130,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "West of Scotland Mobility & Rehabilitation Centre",
@@ -2104,7 +2166,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Augmentative Communication Service - GOSH",
@@ -2138,7 +2201,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Greenwich Wheelchair Service",
@@ -2160,7 +2224,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair Services",
@@ -2188,7 +2253,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Guy's and St Thomas' Assistive Communication Service (GSTT ACS)",
@@ -2227,7 +2293,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Great Yarmouth & Waveney Wheelchair Service",
@@ -2255,7 +2322,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Halton Wheelchair Service",
@@ -2282,7 +2350,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Harrogate Wheelchair Service",
@@ -2310,7 +2379,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Harrow Wheelchair Service",
@@ -2339,7 +2409,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hartlepool Wheelchair Service",
@@ -2367,7 +2438,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Haringey Wheelchair Service",
@@ -2394,7 +2466,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Havering Wheelchair Service",
@@ -2423,7 +2496,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "City & Hackney Wheelchair Service",
@@ -2450,7 +2524,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hertfordshire Wheelchair Service",
@@ -2477,7 +2552,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Herefordshire District Wheelchair Service",
@@ -2507,7 +2583,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hillingdon Wheelchair Service",
@@ -2535,7 +2612,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Holly (West Essex) NHS Wheelchair Service",
@@ -2564,7 +2642,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Sussex Community NHS Trust Wheelchair Service - Horsham Locality",
@@ -2592,7 +2671,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hounslow Wheelchair and Special Seating Service",
@@ -2620,7 +2700,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Hull and East Riding Wheelchair Services",
@@ -2647,7 +2728,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Huntingdon Wheelchair Service",
@@ -2675,7 +2757,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Highlands Wheelchair Service",
@@ -2703,7 +2786,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Northamptonshire Wheelchair Service Assessment Team",
@@ -2725,7 +2809,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Lothian Communication Technology Service",
@@ -2752,7 +2837,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- CYP Team",
@@ -2789,7 +2875,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- Adult Team",
@@ -2826,7 +2913,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Specialist Equipment Service",
@@ -2875,7 +2963,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kings Lynn Wheelchair Service",
@@ -2903,7 +2992,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Knowsley Centre for Independent Living",
@@ -2932,7 +3022,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Ashford",
@@ -2962,7 +3053,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Aylesham",
@@ -2990,7 +3082,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent and Medway Wheelchair Service , Dartford",
@@ -3018,7 +3111,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Gillingham",
@@ -3047,7 +3141,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Maidstone",
@@ -3076,7 +3171,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Central Surrey Wheelchair Service",
@@ -3104,7 +3200,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Leeds Wheelchair Centre",
@@ -3132,7 +3229,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Leicester Specialist Mobility Centre",
@@ -3159,7 +3257,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Leicestershire & Rutland EC Service",
@@ -3186,7 +3285,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Lincolnshire Wheelchair Service",
@@ -3208,7 +3308,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Liverpool Wheelchair Service",
@@ -3236,7 +3337,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Tower Hamlets Wheelchair Service",
@@ -3264,7 +3366,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Luton EC Service",
@@ -3292,7 +3395,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Mansfield Wheelchair Service",
@@ -3320,7 +3424,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Mid Essex Wheelchair Service",
@@ -3349,7 +3454,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Milton Keynes Wheelchair Service",
@@ -3378,7 +3484,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Regional Disablement Services Wheelchair Centre",
@@ -3406,7 +3513,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Electronic Assistive Technology South West",
@@ -3447,7 +3555,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "National Centre for Electronic Assistive Technology (NCEAT)",
@@ -3469,7 +3578,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Norfolk EC Service",
@@ -3503,7 +3613,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Newcastle Disablement Services Centre",
@@ -3531,7 +3642,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Northampton EC service",
@@ -3559,7 +3671,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Nottingham Mobility Centre",
@@ -3588,7 +3701,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Norwich Disablement Services Centre",
@@ -3616,7 +3730,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North East Regional EC Service",
@@ -3661,7 +3776,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Northallerton Wheelchair Centre",
@@ -3688,7 +3804,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Occupational Therapy Department",
@@ -3716,7 +3833,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North East Essex Wheelchair Service",
@@ -3744,7 +3862,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Lincolnshire Wheelchair Service",
@@ -3772,7 +3891,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Tees Wheelchair Service",
@@ -3800,7 +3920,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Northumberland Wheelchair Service",
@@ -3829,7 +3950,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Warwickshire & Rugby Wheelchair Service",
@@ -3857,7 +3979,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Tyneside Wheelchair Service",
@@ -3885,7 +4008,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North West AT Service",
@@ -3950,7 +4074,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Isle of Wight Occupational Therapy & Wheelchair Service",
@@ -3978,7 +4103,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Yorkshire and York Wheelchair Centre",
@@ -4007,7 +4133,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Specialist Disability Service, Oxford",
@@ -4052,7 +4179,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Oxfordshire Wheelchair Service OCE",
@@ -4081,7 +4209,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Peterborough Wheelchair Services",
@@ -4109,7 +4238,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Plymouth Wheelchair Service",
@@ -4139,7 +4269,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Specialist Mobility Rehabilitation Centre",
@@ -4168,7 +4299,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Portsmouth Disablement Services Centre",
@@ -4196,7 +4328,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Royal Hospital for Neuro-disability",
@@ -4218,7 +4351,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Dorset, hampshire & IOW ECS",
@@ -4255,7 +4389,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Regional Communication Aid Service (RCAS)",
@@ -4296,7 +4431,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Rochdale Posture & Mobility Centre",
@@ -4325,7 +4461,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Redbridge Wheelchair service",
@@ -4354,7 +4491,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "North Thames RECES (Regional Environmental Control Equipment Service)",
@@ -4414,7 +4552,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Roehampton Wheelchair Service",
@@ -4442,7 +4581,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Rotherham Equipment & Wheelchair Services",
@@ -4470,7 +4610,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Salford Disable Living Centre",
@@ -4498,7 +4639,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Sandwell Wheelchair Service",
@@ -4526,7 +4668,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Scarborough Wheelchair Centre",
@@ -4553,7 +4696,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Scottish Centre of Technology for the Communication Impaired",
@@ -4596,7 +4740,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Suffolk ECS",
@@ -4624,7 +4769,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Mobility and Specialised Rehabilitation Centre",
@@ -4651,7 +4797,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Shropshire Wheelchair & Posture Service",
@@ -4680,7 +4827,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair Service",
@@ -4708,7 +4856,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Solihull Wheelchair Service",
@@ -4737,7 +4886,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "South Tees Wheelchair Service",
@@ -4765,7 +4915,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Assistive Technology Service, St George's University Hospitals NHS Foundation Trust",
@@ -4805,7 +4956,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair Assessment Unit",
@@ -4834,7 +4986,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Southend Wheelchair Service",
@@ -4864,7 +5017,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Southport & Formby Wheelchair Services",
@@ -4891,7 +5045,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "South Sefton Wheelchair Service",
@@ -4921,7 +5076,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Southport and Formby Wheelchair Service",
@@ -4950,7 +5106,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Stockport Wheelchair Service",
@@ -4979,7 +5136,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Newham Wheelchair and Special Seating Service",
@@ -5001,7 +5159,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wheelchair Services",
@@ -5029,7 +5188,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Sunderland Wheelchair Service",
@@ -5058,7 +5218,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Surrey Wheelchair Service",
@@ -5087,7 +5248,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Swindon Wheelchair and Special Seating Service",
@@ -5115,7 +5277,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Technological Assessment and Support Service for Children and the Curriculum",
@@ -5142,7 +5305,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Tayside Orthopaedic & Rehabilitation Technology Centre",
@@ -5164,7 +5328,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wakefield Wheelchair Services",
@@ -5192,7 +5357,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Walsall ICES Community Equipment Stores",
@@ -5221,7 +5387,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Walton Centre for Neurology & Neurosurgery (BRSM)",
@@ -5243,7 +5410,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Warrington Wheelchair Service",
@@ -5271,7 +5439,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Warwickshire Wheelchair & Special Seating Service",
@@ -5300,7 +5469,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "West Berkshire Wheelchair Service",
@@ -5330,7 +5500,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "West Cheshire Wheelchair Service",
@@ -5358,7 +5529,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "West Pennine Wheelchair Service",
@@ -5388,7 +5560,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wigan and Leigh Wheelchair Service",
@@ -5417,7 +5590,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wiltshire Wheelchair Service and Specialist Service",
@@ -5445,7 +5619,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -5473,7 +5648,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -5501,7 +5677,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Waltham Forest Wheelchair & Special Seating Service",
@@ -5529,7 +5706,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Winchester Posture & Mobility Service",
@@ -5558,7 +5736,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Surrey Wheelchair Services",
@@ -5586,7 +5765,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Wolverhampton Wheelchair Service Maltings Mobility Centre",
@@ -5614,7 +5794,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Worthing Wheelchair Service",
@@ -5643,7 +5824,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -5763,7 +5945,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "West Suffolk Wheelchair Services",
@@ -5793,7 +5976,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     },
     {
       "serviceName": "Worcestershire Wheelchair Service",
@@ -5815,7 +5999,8 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": null,
-      "staffing": null
+      "staffing": null,
+      "areaCoveredText": null
     }
   ]
 }
