@@ -31,7 +31,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "ACE Centre North",
@@ -103,7 +104,8 @@
       "scale": "Approx. 210 assessments per year.",
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Initial support post assessment</li><li>Training</li><li>Loan bank</li><li>Consultancy</li><li>Audits</li><li>Project management/research</li><li>Local capacity building</li><li>Service Level Agreements available for bespoke/combined service offer</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "ACE Centre South",
@@ -160,7 +162,8 @@
       "scale": "Approx. 140 assessments per year.",
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Initial support post assessment</li><li>Training</li><li>Loan bank</li><li>Consultancy</li><li>Audits</li><li>Project management/research</li><li>Local capacity building</li><li>Service Level Agreements available for bespoke/combined service offer</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Access to Communication and Technology (ACT), Birmingham",
@@ -218,7 +221,8 @@
       "scale": "Currently have a target of 233 assessments per year, which includes people with need for augmentative and alternative communication (AAC), environmental control (EC) and computer access i.e. not solely an AAC service.",
       "servicesProvidedDescription": "Assessment provision and review of AAC. Other services provided to local teams to support the development and maintenance of care pathways such as ongoing support, training and telephone helpline. Also responsible for West Midlands Environmental Control provision.",
       "additionalContactName": "Jo Cartwright, Service Lead",
-      "additionalContactEmail": "joanne.cartwright5@nhs.net"
+      "additionalContactEmail": "joanne.cartwright5@nhs.net",
+      "country": "England"
     },
     {
       "serviceName": "Airedale Mobility Services",
@@ -252,7 +256,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Manchester Specialised Services Centre",
@@ -287,7 +292,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "AT Telehealthcare team, Cambridgeshire",
@@ -322,7 +328,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Ayrshire & Arran AAC Resource",
@@ -355,7 +362,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Barnsley Assistive Technology Team",
@@ -413,7 +421,8 @@
       "scale": "Approx 100 per year. Current case load approx 600.",
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Loan-Trial iterative process</li><li>Provision (funding through local services)</li><li>Ongoing support</li><li>Training</li><li>Research</li><li>Custom made equipment</li><li>Setup and customisation of equipment</li></ul>",
       "additionalContactName": "Simon Judge",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bristol Communication Aid Service (BCAS)",
@@ -461,7 +470,8 @@
       "scale": "220 referrals per year",
       "servicesProvidedDescription": "<p>As the NHS England contract holder for the South West, BCAS are able to provide the following services to clients who meet the national service specification for referral to a specialist AAC assessment centre:</p><ul><li>Assessment</li><li>Short term loan of equipment for evaluation.</li><li>Provision of equipment for long term use.</li><li>Quality assurance evaluation</li><li>Training</li><li>Research</li></ul>",
       "additionalContactName": "Vicky Styles (Service Manager)",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair Assessment Service",
@@ -495,7 +505,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bedfordshire EC service",
@@ -530,7 +541,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Belfast Communication Advice Centre",
@@ -563,7 +575,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Northern Ireland"
     },
     {
       "serviceName": "Bedfordshire and Luton Wheelchair Service",
@@ -598,7 +611,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bexley Wheelchair Service",
@@ -632,7 +646,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Birmingham Wheelchair Service",
@@ -667,7 +682,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bolton Wheelchair Service",
@@ -701,7 +717,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bognor Regis Wheelchair Service",
@@ -735,7 +752,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bradford Wheelchair Assessment Centre",
@@ -770,7 +788,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Brent and Ealing Wheelchair Service",
@@ -805,7 +824,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Brighton and Hove  Wheelchair / Specialist seating Service",
@@ -839,7 +859,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hampshire Wheelchair Service",
@@ -874,7 +895,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Bristol Wheelchair and Special Seating Service",
@@ -908,7 +930,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Buckinghamshire Wheelchair Service",
@@ -942,7 +965,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Calderdale, Greater Huddersfield and North Kirklees Posture and Mobility Services",
@@ -978,7 +1002,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "CALL Scotland",
@@ -1027,7 +1052,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Cornwall Wheelchair Service",
@@ -1061,7 +1087,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Camden & Islington Wheelchair Service",
@@ -1095,7 +1122,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Staffordshire Wheelchair Service - (South)",
@@ -1130,7 +1158,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Canterbury",
@@ -1164,7 +1193,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Carlisle Disablement Services Centre",
@@ -1199,7 +1229,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -1345,7 +1376,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Wales"
     },
     {
       "serviceName": "Communication Aid Service East of England (CASEE)",
@@ -1402,7 +1434,8 @@
       "scale": null,
       "servicesProvidedDescription": "<ul><li>Assessment and provision of Augmentative and Alternative Communication (AAC) solutions (for example electronic communication aids with voice output for people without speech) for individuals that meet the criteria for assessment by a specialised communication hub.</li><li>Support with training and development of local AAC services.</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Chailey Communication Aid Service (CCAS)",
@@ -1448,7 +1481,8 @@
       "scale": null,
       "servicesProvidedDescription": "<p>To assess and provide high tech communication aids for spoken communication for children and adults with complex needs in Surrey and Sussex (including Brighton and Hove).</p><p>Our remit does not cover written communication (email and text), computer access or environmental controls.</p>",
       "additionalContactName": "Belinda Bleeker (Administrator)",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Gloucestershire Care Services Wheelchair Service",
@@ -1482,7 +1516,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Chorley South Ribble and West Lancashire Wheelchair Service",
@@ -1517,7 +1552,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Assistive Communication Service - CLCH (ACS)",
@@ -1562,7 +1598,8 @@
       "scale": "Approximately 105 assessments per year.",
       "servicesProvidedDescription": "<ul><li>AAC Assessment and support with implementation</li><li>Bespoke mounting, switch access</li><li>Review</li><li>Training</li><li>Loan bank of equipment</li></ul>",
       "additionalContactName": "Nikky Steiner (Principal Speech and Language Therapist)",
-      "additionalContactEmail": "nikky.steiner@nhs.net"
+      "additionalContactEmail": "nikky.steiner@nhs.net",
+      "country": "England"
     },
     {
       "serviceName": "Staffordshire Wheelchair Service (North)",
@@ -1596,7 +1633,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "County Durham & Darlington Wheelchair",
@@ -1630,7 +1668,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Compass Assistive and Rehabilitation Technology Service",
@@ -1676,7 +1715,8 @@
       "scale": "Approx. 130 external clients per year.",
       "servicesProvidedDescription": "<ul><li>Assessment and recommendation of AAC, Computer access, environmental control, powered wheelchair control.</li><li>Custom making of equipment, particularly specialised switching and custom mounting for AAC and switches.</li><li>Loans available to any client accepted by the service.</li></ul>",
       "additionalContactName": "Jane Bache",
-      "additionalContactEmail": "jbache@rhn.org.uk"
+      "additionalContactEmail": "jbache@rhn.org.uk",
+      "country": "England"
     },
     {
       "serviceName": "Coventry Wheelchair Service",
@@ -1710,7 +1750,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Croydon Wheelchair Services",
@@ -1738,7 +1779,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1766,7 +1808,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Derbyshire Wheelchair Service",
@@ -1799,7 +1842,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Derbyshire & Nottinghamshire EAT service",
@@ -1844,7 +1888,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair and Special Seating Services",
@@ -1879,7 +1924,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Dorset Wheelchair Service (East)",
@@ -1914,7 +1960,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Dorset Wheelchair Service (West)",
@@ -1948,7 +1995,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Dudley Wheelchair Service",
@@ -1982,7 +2030,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "East Berkshire Specialist Wheelchair Service",
@@ -2010,7 +2059,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "East Cheshire Wheelchair Service",
@@ -2044,7 +2094,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "East Sussex Wheelchair Service",
@@ -2078,7 +2129,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Electronic Assistive Technology Service - AAC (EATS)",
@@ -2126,7 +2178,8 @@
       "scale": null,
       "servicesProvidedDescription": "Assessment, equipment trial and provision of appropriate equipment on long term loan. Set up, training and ongoing support for local SLT, family/carers, home and/or educational environment as appropriate.",
       "additionalContactName": "Jon Rouston",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Electronic Assistive Technology Service - EC (EATS)",
@@ -2171,7 +2224,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Edinburgh Mobility Centre",
@@ -2204,7 +2258,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Enfield Wheelchair Service",
@@ -2239,7 +2294,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "East Suffolk Wheelchair Service",
@@ -2273,7 +2329,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Exeter Mobility Centre",
@@ -2307,7 +2364,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Dame Hannah Rogers Trust",
@@ -2340,7 +2398,8 @@
       "scale": "This is a new and developing service. We have a second site based at ‘Hannahs at Seale Hayne’, near Newton Abbot. Over the past year (2011) we saw 15 clients for assessment. This number is increasing as our service grows.",
       "servicesProvidedDescription": "<p>We can offer: <ul><li>Specialist AAC assessments helping the client to explore various communication aids.</li><li>Flexible assessments that can be carried out by our experienced staff at Seale-Hayne/Ivybridge or in the person’s home/ education setting.</li><li>A multi-disciplinary team of speech and language therapists, OT, specialist teachers, IT technician with many years of experience and expertise in the field of AAC.</li><li>Assessments which are carried out collaboratively with families, carers and professionals.</li><li>A bank of AAC devices to trial.</li><li>Bespoke training to learn about the communication aid and how to implement most effective use.</li><li>We are currently carrying out joint research with Plymouth University: “Increasing the communicative opportunities and skills of students with multiple physical and sensory disabilities”. This project focuses on working more closely and collaboratively with parents and carers, supporting them to support their sons/daughters use of alternative communication systems.</li><li>Continued specialist outreach to support implementation of a communication aid.</li><li>Opportunity of maintaining up to date knowledge on the latest technology via training/communication aid road shows.</li></ul></p>",
       "additionalContactName": "Adam Clark (administrator)",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Fife AAC",
@@ -2374,7 +2433,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Guy's and St Thomas's Wheelchair service",
@@ -2407,7 +2467,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Barnet Wheelchair Service",
@@ -2440,7 +2501,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Gateshead Wheelchair Services",
@@ -2474,7 +2536,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "West of Scotland Mobility & Rehabilitation Centre",
@@ -2515,7 +2578,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Augmentative Communication Service - GOSH",
@@ -2555,7 +2619,8 @@
       "scale": "35 clinical sessions per month; approx 400 children per year.",
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Loan (when equipment is loaned there is a school visit for training, followed by email/telephone support through 3 month loan, and further assessment at end of the loan period)</li><li>Provision</li><li>Ongoing support</li><li>Training</li><li>Research</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Greenwich Wheelchair Service",
@@ -2583,7 +2648,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair Services",
@@ -2617,7 +2683,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Guy's and St Thomas' Assistive Communication Service (GSTT ACS)",
@@ -2662,7 +2729,8 @@
       "scale": "Number of referrals per year average 90",
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Consultancy (telephone and face to face)</li><li>Training (clients and staff teams)</li><li>Loan</li><li>Provision of some equipment (e.g. switches/mounts) See http://www.evelinalondon.nhs.uk/ACS</li><li>Support re applications for funding for equipment</li><li>Ongoing support (including review system for clients with rapidly progressing conditions and students in special schools).</li></ul>",
       "additionalContactName": "Charlotte Sax (SLT) and/or Wendy Garnett (OT)",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Great Yarmouth & Waveney Wheelchair Service",
@@ -2696,7 +2764,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Halton Wheelchair Service",
@@ -2729,7 +2798,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Harrogate Wheelchair Service",
@@ -2763,7 +2833,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Harrow Wheelchair Service",
@@ -2798,7 +2869,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hartlepool Wheelchair Service",
@@ -2832,7 +2904,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Haringey Wheelchair Service",
@@ -2865,7 +2938,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Havering Wheelchair Service",
@@ -2900,7 +2974,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "City & Hackney Wheelchair Service",
@@ -2933,7 +3008,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hertfordshire Wheelchair Service",
@@ -2966,7 +3042,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Herefordshire District Wheelchair Service",
@@ -3002,7 +3079,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hillingdon Wheelchair Service",
@@ -3036,7 +3114,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Holly (West Essex) NHS Wheelchair Service",
@@ -3071,7 +3150,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Sussex Community NHS Trust Wheelchair Service - Horsham Locality",
@@ -3105,7 +3185,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hounslow Wheelchair and Special Seating Service",
@@ -3139,7 +3220,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Hull and East Riding Wheelchair Services",
@@ -3172,7 +3254,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Huntingdon Wheelchair Service",
@@ -3206,7 +3289,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Highlands Wheelchair Service",
@@ -3240,7 +3324,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Northamptonshire Wheelchair Service Assessment Team",
@@ -3268,7 +3353,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Lothian Communication Technology Service",
@@ -3301,7 +3387,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- CYP Team",
@@ -3344,7 +3431,8 @@
       "scale": null,
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Loan</li><li>Provision</li><li>Helping client’s local therapist maintain ongoing support</li><li>Training therapists and clients</li><li>Research, development and integration with other assistive technologies</li></ul>",
       "additionalContactName": "Alison Battye",
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent and Medway Communication and Assistive Technology Service (KM CAT)- Adult Team",
@@ -3387,7 +3475,8 @@
       "scale": null,
       "servicesProvidedDescription": "<ul><li>Assessment</li><li>Loan</li><li>Provision</li><li>Helping client’s local therapist maintain ongoing support</li><li>Training therapists and clients</li><li>Research, development and integration with other assistive technologies</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Specialist Equipment Service",
@@ -3442,7 +3531,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kings Lynn Wheelchair Service",
@@ -3476,7 +3566,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Knowsley Centre for Independent Living",
@@ -3511,7 +3602,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Ashford",
@@ -3547,7 +3639,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Aylesham",
@@ -3581,7 +3674,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent and Medway Wheelchair Service , Dartford",
@@ -3615,7 +3709,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Gillingham",
@@ -3650,7 +3745,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Kent & Medway Wheelchair Service, Maidstone",
@@ -3685,7 +3781,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Central Surrey Wheelchair Service",
@@ -3719,7 +3816,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Leeds Wheelchair Centre",
@@ -3753,7 +3851,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Leicester Specialist Mobility Centre",
@@ -3786,7 +3885,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Leicestershire & Rutland EC Service",
@@ -3819,7 +3919,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Lincolnshire Wheelchair Service",
@@ -3847,7 +3948,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Liverpool Wheelchair Service",
@@ -3881,7 +3983,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Tower Hamlets Wheelchair Service",
@@ -3915,7 +4018,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Luton EC Service",
@@ -3949,7 +4053,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Mansfield Wheelchair Service",
@@ -3983,7 +4088,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Mid Essex Wheelchair Service",
@@ -4018,7 +4124,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Milton Keynes Wheelchair Service",
@@ -4053,7 +4160,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Regional Disablement Services Wheelchair Centre",
@@ -4087,7 +4195,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Northern Ireland"
     },
     {
       "serviceName": "Electronic Assistive Technology South West",
@@ -4134,7 +4243,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "National Centre for Electronic Assistive Technology (NCEAT)",
@@ -4162,7 +4272,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Wales"
     },
     {
       "serviceName": "Norfolk EC Service",
@@ -4202,7 +4313,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Newcastle Disablement Services Centre",
@@ -4236,7 +4348,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Northampton EC service",
@@ -4270,7 +4383,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Nottingham Mobility Centre",
@@ -4305,7 +4419,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Norwich Disablement Services Centre",
@@ -4339,7 +4454,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North East Regional EC Service",
@@ -4390,7 +4506,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Northallerton Wheelchair Centre",
@@ -4423,7 +4540,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Occupational Therapy Department",
@@ -4457,7 +4575,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North East Essex Wheelchair Service",
@@ -4491,7 +4610,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Lincolnshire Wheelchair Service",
@@ -4525,7 +4645,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Tees Wheelchair Service",
@@ -4559,7 +4680,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Northumberland Wheelchair Service",
@@ -4594,7 +4716,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Warwickshire & Rugby Wheelchair Service",
@@ -4628,7 +4751,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Tyneside Wheelchair Service",
@@ -4662,7 +4786,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North West AT Service",
@@ -4733,7 +4858,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Isle of Wight Occupational Therapy & Wheelchair Service",
@@ -4767,7 +4893,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Yorkshire and York Wheelchair Centre",
@@ -4802,7 +4929,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Specialist Disability Service, Oxford",
@@ -4853,7 +4981,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Oxfordshire Wheelchair Service OCE",
@@ -4888,7 +5017,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Peterborough Wheelchair Services",
@@ -4922,7 +5052,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Plymouth Wheelchair Service",
@@ -4958,7 +5089,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Specialist Mobility Rehabilitation Centre",
@@ -4993,7 +5125,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Portsmouth Disablement Services Centre",
@@ -5027,7 +5160,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Royal Hospital for Neuro-disability",
@@ -5055,7 +5189,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Dorset, hampshire & IOW ECS",
@@ -5098,7 +5233,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Regional Communication Aid Service (RCAS)",
@@ -5145,7 +5281,8 @@
       "scale": null,
       "servicesProvidedDescription": "<ul><li>Visiting Assessment Service</li><li>Equipment Loan Service</li><li>Training and Professional Advice/Supervision</li></ul>",
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Rochdale Posture & Mobility Centre",
@@ -5180,7 +5317,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Redbridge Wheelchair service",
@@ -5215,7 +5353,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "North Thames RECES (Regional Environmental Control Equipment Service)",
@@ -5281,7 +5420,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Roehampton Wheelchair Service",
@@ -5315,7 +5455,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Rotherham Equipment & Wheelchair Services",
@@ -5349,7 +5490,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Salford Disable Living Centre",
@@ -5383,7 +5525,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Sandwell Wheelchair Service",
@@ -5417,7 +5560,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Scarborough Wheelchair Centre",
@@ -5450,7 +5594,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Scottish Centre of Technology for the Communication Impaired",
@@ -5499,7 +5644,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Suffolk ECS",
@@ -5533,7 +5679,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Mobility and Specialised Rehabilitation Centre",
@@ -5566,7 +5713,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Shropshire Wheelchair & Posture Service",
@@ -5601,7 +5749,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair Service",
@@ -5635,7 +5784,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Solihull Wheelchair Service",
@@ -5670,7 +5820,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "South Tees Wheelchair Service",
@@ -5704,7 +5855,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Assistive Technology Service, St George's University Hospitals NHS Foundation Trust",
@@ -5750,7 +5902,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair Assessment Unit",
@@ -5785,7 +5938,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Southend Wheelchair Service",
@@ -5821,7 +5975,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Southport & Formby Wheelchair Services",
@@ -5854,7 +6009,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "South Sefton Wheelchair Service",
@@ -5890,7 +6046,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Southport and Formby Wheelchair Service",
@@ -5925,7 +6082,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Stockport Wheelchair Service",
@@ -5960,7 +6118,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Newham Wheelchair and Special Seating Service",
@@ -5988,7 +6147,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wheelchair Services",
@@ -6022,7 +6182,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Sunderland Wheelchair Service",
@@ -6057,7 +6218,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Surrey Wheelchair Service",
@@ -6092,7 +6254,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Swindon Wheelchair and Special Seating Service",
@@ -6126,7 +6289,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Technological Assessment and Support Service for Children and the Curriculum",
@@ -6159,7 +6323,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Tayside Orthopaedic & Rehabilitation Technology Centre",
@@ -6187,7 +6352,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Scotland"
     },
     {
       "serviceName": "Wakefield Wheelchair Services",
@@ -6221,7 +6387,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Walsall ICES Community Equipment Stores",
@@ -6256,7 +6423,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Walton Centre for Neurology & Neurosurgery (BRSM)",
@@ -6284,7 +6452,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Warrington Wheelchair Service",
@@ -6318,7 +6487,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Warwickshire Wheelchair & Special Seating Service",
@@ -6353,7 +6523,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "West Berkshire Wheelchair Service",
@@ -6389,7 +6560,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "West Cheshire Wheelchair Service",
@@ -6423,7 +6595,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "West Pennine Wheelchair Service",
@@ -6459,7 +6632,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wigan and Leigh Wheelchair Service",
@@ -6494,7 +6668,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wiltshire Wheelchair Service and Specialist Service",
@@ -6528,7 +6703,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -6562,7 +6738,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wirral Wheelchair Service",
@@ -6596,7 +6773,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Waltham Forest Wheelchair & Special Seating Service",
@@ -6630,7 +6808,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Winchester Posture & Mobility Service",
@@ -6665,7 +6844,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Surrey Wheelchair Services",
@@ -6699,7 +6879,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Wolverhampton Wheelchair Service Maltings Mobility Centre",
@@ -6733,7 +6914,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Worthing Wheelchair Service",
@@ -6768,7 +6950,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Artificial Limb and Appliance Service",
@@ -6894,7 +7077,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "Wales"
     },
     {
       "serviceName": "West Suffolk Wheelchair Services",
@@ -6930,7 +7114,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     },
     {
       "serviceName": "Worcestershire Wheelchair Service",
@@ -6958,7 +7143,8 @@
       "scale": null,
       "servicesProvidedDescription": null,
       "additionalContactName": null,
-      "additionalContactEmail": null
+      "additionalContactEmail": null,
+      "country": "England"
     }
   ]
 }
