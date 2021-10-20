@@ -71,6 +71,17 @@ const typeDefs = gql`
     communicationMatters: String
     servicesOffered: [ServiceType]!
     coordinates: Coordinates!
+    additionalContactEmail: String
+    additionalContactName: String
+    servicesProvidedDescription: String
+    scale: String
+    populationServed: String
+    areaCoveredText: String
+    staffing: String
+    referralProcess: String
+    fundedBy: String
+    permanentOrProject: String
+    yearSetUp: String
   }
 
   type ServiceResult {
