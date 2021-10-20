@@ -89,6 +89,16 @@ const typeDefs = gql`
     nearbyServices: [Service!]!
   }
 
+  enum ServiceTypeEnum {
+    AAC
+    EC
+    WCS
+  }
+
+  input FilterInput {
+    serviceTypes: [ServiceTypeEnum!]!
+  }
+
   type Query {
     services: [Service!]!
     service(id: String!): Service!
@@ -98,6 +108,7 @@ const typeDefs = gql`
     serviceForGivenCcgList(ccgCodes: [String!]!): [Service]!
     servicesForCoords(lat: Float!, lng: Float!): ServiceResult!
     servicesForPostcode(postcode: String!): ServiceResult!
+    servicesFilter(filters: FilterInput!): [Service!]!
   }
 `;
 
@@ -201,6 +212,15 @@ const resolvers = {
         services: await getServicesFromPoint(currentPoint),
         nearbyServices: [],
       };
+    },
+    servicesFilter: (_, { filters }) => {
+      let filteredServices = services.filter((current) => {
+        return filters.serviceTypes.some((serviceType) => {
+          return current.servicesOffered.includes(serviceType.toLowerCase());
+        });
+      });
+
+      return filteredServices;
     },
   },
   ServiceType: {
