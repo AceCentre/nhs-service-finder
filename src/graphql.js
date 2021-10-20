@@ -82,6 +82,7 @@ const typeDefs = gql`
     fundedBy: String
     permanentOrProject: String
     yearSetUp: String
+    country: CountryEnum!
   }
 
   type ServiceResult {
@@ -95,8 +96,16 @@ const typeDefs = gql`
     WCS
   }
 
+  enum CountryEnum {
+    Scotland
+    England
+    NorthernIreland
+    Wales
+  }
+
   input FilterInput {
     serviceTypes: [ServiceTypeEnum!]!
+    countries: [CountryEnum!]!
   }
 
   type Query {
@@ -220,6 +229,10 @@ const resolvers = {
         });
       });
 
+      filteredServices = filteredServices.filter((current) => {
+        return filters.countries.includes(current.country.replace(/\s/g, ""));
+      });
+
       return filteredServices;
     },
   },
@@ -231,6 +244,9 @@ const resolvers = {
     },
   },
   Service: {
+    country: (service) => {
+      return service.country.replace(/\s/g, "");
+    },
     servicesOffered: (service) => {
       const fullServices = service.servicesOffered.map((serviceType) => {
         return serviceTypes.find((current) => current.id === serviceType);
