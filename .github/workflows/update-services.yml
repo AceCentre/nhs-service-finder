@@ -7,12 +7,10 @@ on:
 jobs:
   UpdateServices:
     runs-on: ubuntu-latest
-    env:
-      ACTIONS_STEP_DEBUG: true
     steps:
       - uses: fjogeleit/http-request-action@master
         id: makeRequest
         with:
-          url: "https://assistivetechnology.org.uk/wp-json/at-services-list/update-servicess"
+          url: "https://assistivetechnology.org.uk/wp-json/at-services-list/update-services"
           method: "GET"
           timeout: 10000
