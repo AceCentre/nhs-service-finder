@@ -6,6 +6,7 @@ on:
 
 jobs:
   UpdateServices:
+    runs-on: ubuntu-latest
     steps:
       - uses: fjogeleit/http-request-action@master
         id: makeRequest
