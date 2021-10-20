@@ -6,11 +6,12 @@ on:
 
 jobs:
   UpdateServices:
-    - uses: fjogeleit/http-request-action@master
-      id: makeRequest
-      with:
-        url: "https://assistivetechnology.org.uk/wp-json/at-services-list/update-services"
-        method: "GET"
-        timeout: 10000
-    - name: Show Response
-      run: echo ${{ steps.makeRequest.outputs.response }}
+    steps:
+      - uses: fjogeleit/http-request-action@master
+        id: makeRequest
+        with:
+          url: "https://assistivetechnology.org.uk/wp-json/at-services-list/update-services"
+          method: "GET"
+          timeout: 10000
+      - name: Show Response
+        run: echo ${{ steps.makeRequest.outputs.response }}
