@@ -35,7 +35,7 @@
       "country": "Scotland"
     },
     {
-      "serviceName": "ACE Centre North",
+      "serviceName": "Ace Centre North",
       "id": "ace-n",
       "serviceColor": "#588BBA",
       "communicationMatters": "http://www.communicationmatters.org.uk/contact-assessment-service/ace-centre-oldham",
@@ -108,7 +108,7 @@
       "country": "England"
     },
     {
-      "serviceName": "ACE Centre South",
+      "serviceName": "Ace Centre South",
       "id": "ace-s",
       "serviceColor": "#39d4c0",
       "communicationMatters": "http://www.communicationmatters.org.uk/contact-assessment-service/ace-centre-oxford",
