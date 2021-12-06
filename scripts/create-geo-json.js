@@ -12,6 +12,9 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
 
   const NorthernIreland = require("../archive/northern-ireland.json");
   const AllWales = require("../archive/all-wales.json");
+
+  const Counties = require("../archive/Counties_(December_2020)_EN_BGC.json");
+
   const CcgEngland21 = require("../archive/Clinical_Commissioning_Groups_(April_2021)_EN_BUC.json");
   const CcgEngland20 = require("../archive/Clinical_Commissioning_Groups_(April_2020)_EN_BFC_V2.json");
   const CcgEngland19 = require("../archive/Clinical_Commissioning_Groups__April_2019__Boundaries_EN_BUC.json");
@@ -48,6 +51,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
     { map: CcgEngland17, key: "ccg17cd" },
     { map: CcgEngland16, key: "ccg16cd" },
     { map: CcgEngland15, key: "ccg15cd" },
+    { map: Counties, key: "CTY20NM" },
   ];
 
   for (const currentService of currentServiceList) {
