@@ -7144,6 +7144,41 @@
       "additionalContactName": null,
       "additionalContactEmail": null,
       "country": "England"
+    },
+    {
+      "serviceName": "Suffolk Communication Aids Resource Centre (Ages 0 - 25)",
+      "id": "scarc",
+      "serviceColor": null,
+      "communicationMatters": "https://www.communicationmatters.org.uk/assessment_service/suffolk-communication-aid-resource-centre/",
+      "phoneNumber": "01473744223",
+      "website": "https://www.wsh.nhs.uk/Services-A-Z/Childrens-services/Childrens-community-services/SCARC/Suffolk-communication-aids-resource-centre.aspx",
+      "addressLines": [
+        "Suffolk Communication Aids Resource Centre",
+        "Thomas Wolsey Ormiston Academy",
+        "Defoe Road",
+        "Ipswich",
+        "IP1 6SG"
+      ],
+      "email": "scarc@wsh.nhs.uk",
+      "servicesOffered": ["aac"],
+      "ccgCodes": ["Suffolk"],
+      "caseload": "All",
+      "serviceColour": null,
+      "provider": null,
+      "note": null,
+      "postcode": "IP1 6SG",
+      "yearSetUp": null,
+      "permanentOrProject": null,
+      "fundedBy": null,
+      "referralProcess": "You can refer into our service by filling out our referral form and e-mailing it directly to us.  It is always helpful to discuss referrals with us prior to filling in the referral form – please contact us for further information. ",
+      "staffing": "<ul><li>Principal Speech & Language Therapist: full time, term-time only</li><li>Secretary: 13 hours weekly, term-time only</li><li>Specialist Technician: 7 hours weekly, term-time only</li><li>Highly Specialist Occupational Therapist: 0.1 WTE</li><li>Highly Specialist Speech & Language Therapist: 5 sessions weekly; 3 sessions funded via service level agreement with Education Authority</li></ul>",
+      "areaCoveredText": "Locality 1 and 2 in Suffolk PCT and Waveney area of Great Yarmouth and Waveney PCT.",
+      "populationServed": "Children and young people aged 0 - 25",
+      "scale": null,
+      "servicesProvidedDescription": "<ul><li>Assessment</li><li>Active assistance in the adaptation of any suitable aid/system</li><li>Provide up to date information on a range of issues related to the field augmentative and alternative communication</li><li>Long-term loan of appropriate communication aids</li><li>Ongoing training and support to children with loan equipment and to their family and the relevant professionals involved</li><li>Manage, on behalf of Suffolk Local Authority, the organisation of warranties and repairs of equipment on loan</li></ul>",
+      "additionalContactName": "Della Chubb",
+      "additionalContactEmail": "d.chubb@nhs.net",
+      "country": "England"
     }
   ]
 }
