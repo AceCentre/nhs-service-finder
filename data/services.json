@@ -7171,13 +7171,13 @@
       "permanentOrProject": null,
       "fundedBy": null,
       "referralProcess": "You can refer into our service by filling out our referral form and e-mailing it directly to us.  It is always helpful to discuss referrals with us prior to filling in the referral form – please contact us for further information. ",
-      "staffing": "<ul><li>Principal Speech & Language Therapist: full time, term-time only</li><li>Secretary: 13 hours weekly, term-time only</li><li>Specialist Technician: 7 hours weekly, term-time only</li><li>Highly Specialist Occupational Therapist: 0.1 WTE</li><li>Highly Specialist Speech & Language Therapist: 5 sessions weekly; 3 sessions funded via service level agreement with Education Authority</li></ul>",
-      "areaCoveredText": "Locality 1 and 2 in Suffolk PCT and Waveney area of Great Yarmouth and Waveney PCT.",
+      "staffing": "<ul><li>Principal Speech and Language Therapist (SLT) / Service Lead</li><li>2x Highly Specialist SLTs</li><li>Highly Specialist Occupational Therapist (OT)</li><li>Communication Aids Practitioner (CAP)</li><li>Communication Aids Assistant (CAA)</li><li>Administrator</li></ul>",
+      "areaCoveredText": "Suffolk",
       "populationServed": "Children and young people aged 0 - 25",
       "scale": null,
-      "servicesProvidedDescription": "<ul><li>Assessment</li><li>Active assistance in the adaptation of any suitable aid/system</li><li>Provide up to date information on a range of issues related to the field augmentative and alternative communication</li><li>Long-term loan of appropriate communication aids</li><li>Ongoing training and support to children with loan equipment and to their family and the relevant professionals involved</li><li>Manage, on behalf of Suffolk Local Authority, the organisation of warranties and repairs of equipment on loan</li></ul>",
+      "servicesProvidedDescription": "Suffolk Communication Aids Resource Centre (SCARC) is a countywide assessment, support, training and advice service for children and young people up to age 25 to consider use of a Voice Output Communication Aids (VOCA). We operate an equipment loan bank for short and long-term loans of communication aids, including responsibility for maintenance and repairs. We additionally provide specialist Augmentative and Alternative Communication (AAC) advice for our Speech and Language Therapy (SALT) colleagues and other settings supporting students with communication difficulties.",
       "additionalContactName": "Della Chubb",
-      "additionalContactEmail": "d.chubb@nhs.net",
+      "additionalContactEmail": "della.chubb@wsh.nhs.uk",
       "country": "England"
     }
   ]
