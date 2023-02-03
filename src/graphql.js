@@ -1,5 +1,5 @@
-const { ApolloError } = require("apollo-server-errors");
-const { gql } = require("apollo-server-lambda");
+const { GraphQLError } = require("graphql");
+const { gql } = require("graphql-tag");
 const fetch = require("node-fetch");
 const fs = require("fs").promises;
 const path = require("path");
@@ -164,7 +164,7 @@ const resolvers = {
       const service = services.find((service) => service.id === id);
 
       if (!service) {
-        throw new ApolloError(`Service with id: '${id}' not found`);
+        throw new GraphQLError(`Service with id: '${id}' not found`);
       }
 
       return service;
@@ -176,7 +176,7 @@ const resolvers = {
       );
 
       if (!serviceType) {
-        throw new ApolloError(`ServiceType with id: '${id}' not found`);
+        throw new GraphQLError(`ServiceType with id: '${id}' not found`);
       }
 
       return serviceType;
@@ -200,15 +200,17 @@ const resolvers = {
         );
         data = await result.json();
       } catch (error) {
-        throw new ApolloError(`Failed to get CCGs for your given postcode`);
+        throw new GraphQLError(`Failed to get CCGs for your given postcode`);
       }
 
       if (data.status !== 200) {
-        throw new ApolloError(data.error || "Failed to get CCGs");
+        throw new GraphQLError(data.error || "Failed to get CCGs");
       }
 
       if (data.result.length === 0) {
-        throw new ApolloError("No postcodes were found for you given postcode");
+        throw new GraphQLError(
+          "No postcodes were found for you given postcode"
+        );
       }
 
       const nearestPostcode = data.result[0];
@@ -265,17 +267,17 @@ const resolvers = {
         );
         data = await result.json();
       } catch (error) {
-        throw new ApolloError(`Failed to get CCGs for your given postcode`);
+        throw new GraphQLError(`Failed to get CCGs for your given postcode`);
       }
 
       if (data.status !== 200) {
-        throw new ApolloError(
+        throw new GraphQLError(
           data.error || `Failed to get lat/long for: ${postcode}`
         );
       }
 
       if (!data.result.latitude || !data.result.longitude) {
-        throw new ApolloError(`Failed to get lat/long for: ${postcode}`);
+        throw new GraphQLError(`Failed to get lat/long for: ${postcode}`);
       }
 
       return {

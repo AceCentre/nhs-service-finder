@@ -1,6 +1,6 @@
-# Service Finder [![Netlify Status](https://api.netlify.com/api/v1/badges/fd6cb4cc-b92a-44a2-91af-d6b58c37f63d/deploy-status)](https://app.netlify.com/sites/nhs-service-finder/deploys)
+# Service Finder
 
-This is a repo which contains the data of NHS Specialist Services around the UK - and the regions they cover. The main focus is for indivdiuals (clients/patients) looking for which service supports them in their postcoded area.
+This is a repo which contains the data of NHS Specialist Services around the UK - and the regions they cover. The main focus is for individuals (clients/patients) looking for which service supports them in their postcoded area.
 
 This repo does not contain a UI for end users. However, you can explore the data using the UI on the [Ace Centre website, available here.](https://acecentre.org.uk/nhs-service-finder)
 
@@ -21,15 +21,14 @@ You can run a local version of the graphql server for development. Here are the 
 1. Install npm deps: `npm install`
 2. Run the dev server: `npm run dev`
 
-### Viewing the maps locally
+## Routing
 
-You can view the maps locally by running `npm run map-viewer` which will output a local URL. If you visit the local URL you will see a map which you can toggle the GeoJSON layers for.
-
-## Deployment
-
-The GraphQL server is deployed to Netlify. There are no build steps before deployment. The `functions` folder become serverless functions.
-
-We have a few redirects in place so that if you access the root of the domain you are redirect to the Ace Centre service finder UI.
+- / => https://acecentre.org.uk/nhs-service-finder
+- /.netlify/functions/graphql => graphql
+- /graphql => Server graphql requests
+- /raw-data => Serve `data` folder
+- /data => => Serve `data` folder
+- /map-demo => Serve map demo
 
 ## FAQs
 
