@@ -23,8 +23,9 @@ const server = new ApolloServer({
 });
 
 server.start().then(() => {
+  app.use(cors());
+
   const graphqlStack = [
-    cors(),
     bodyParser.json(),
     // expressMiddleware accepts the same arguments:
     // an Apollo Server instance and optional configuration options
