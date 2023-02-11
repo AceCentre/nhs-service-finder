@@ -29,6 +29,6 @@
     "graphql-tag": "^2.12.6",
     "lodash": "^4.17.21",
     "node-fetch": "^2.6.5",
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.20"
   }
 }
