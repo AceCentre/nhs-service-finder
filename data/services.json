@@ -4461,7 +4461,7 @@
       "serviceColor": null,
       "communicationMatters": null,
       "phoneNumber": "01434 612714",
-      "website": "https://www.cntw.nhs.uk/services/regional-environmental-control-service-community-service-hexham",
+      "website": "https://www.cntw.nhs.uk/resource-library/regional-environmental-control-systems-service/",
       "addressLines": [
         "Regional Environmental Control Systems (ECS) Service",
         "Neurological Services",
@@ -4474,7 +4474,7 @@
         "Northumberland",
         "NE46 1QJ"
       ],
-      "email": "RECSAdmin@ntw.nhs.uk",
+      "email": "recsadmin@cntw.nhs.uk",
       "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000042",
