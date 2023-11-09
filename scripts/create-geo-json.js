@@ -10,6 +10,8 @@ const geojsonhint = require("@mapbox/geojsonhint");
 const writeGeoJsonForServices = (currentServiceList, outputName) => {
   let features = [];
 
+  const ICBs = require("../archive/ICBs-2023.json");
+
   const NorthernIreland = require("../archive/northern-ireland.json");
   const AllWales = require("../archive/all-wales.json");
 
@@ -34,6 +36,7 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
   const Scotland = require("../archive/health-boards-small.json");
 
   const PRIORITY_ORDER_GEOJSON = [
+    { map: ICBs, key: "ICB23CD" },
     { map: NorthernIreland, key: "isNorthernIreland" },
     { map: AllWales, key: "isAllOfWales" },
     { map: Scotland, key: "HBCode" },
