@@ -4586,7 +4586,7 @@
       "serviceColor": null,
       "communicationMatters": null,
       "phoneNumber": "0151 529 2022",
-      "website": "http://www.northwestassistivetechnology.nhs.uk/",
+      "website": "https://www.liverpoolft.nhs.uk/services/service-finder/north-west-assistive-technology",
       "addressLines": [
         "Northwest Assistive Technology",
         "Aintree University Hospital",
@@ -4595,7 +4595,7 @@
         "Liverpool",
         "L9 7AL"
       ],
-      "email": "eatnw@nhs.net",
+      "email": "nwat@liverpoolft.nhs.uk",
       "servicesOffered": ["ec"],
       "ccgCodes": [
         "e38000135",
