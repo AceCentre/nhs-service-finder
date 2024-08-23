@@ -35,7 +35,10 @@ const writeGeoJsonForServices = (currentServiceList, outputName) => {
 
   const Scotland = require("../archive/health-boards-small.json");
 
+  const LondonBoroughs = require("../archive/Upper_Tier_Local_Authorities_December_2022_Boundaries_UK_BFC_-582766102348601148.json");
+
   const PRIORITY_ORDER_GEOJSON = [
+    { map: LondonBoroughs, key: "UTLA22NM" },
     { map: ICBs, key: "ICB23CD" },
     { map: NorthernIreland, key: "isNorthernIreland" },
     { map: AllWales, key: "isAllOfWales" },
