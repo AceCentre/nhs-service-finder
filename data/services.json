@@ -5323,11 +5323,12 @@
       "phoneNumber": "0141 201 2619",
       "website": "https://www.communicationmatters.org.uk/assessment_service/sctci/",
       "addressLines": [
-        "WESTMARC",
-        "Queen Elizabeth University Hospital",
-        "1345 Govan Road",
+        "SCTCI",
+        "Barrhead Centre",
+        "8 Carlibar Road",
+        "Barrhead",
         "Glasgow",
-        "G51 4TF"
+        "G78 1AA"
       ],
       "email": "sctci@ggc.scot.nhs.uk",
       "servicesOffered": ["aac"],
