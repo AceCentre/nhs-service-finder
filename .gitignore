@@ -1,0 +1,12 @@
+*~
+tmp/
+res/scripts/node_modules/
+public/
+.python-virtualenv
+res/data/
+
+node_modules
+.DS_Store
+
+temp
+archive
