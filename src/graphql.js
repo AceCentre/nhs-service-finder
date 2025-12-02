@@ -90,6 +90,34 @@ const typeDefs = gql`
     nearbyServices: [Service!]!
   }
 
+  "Describes how the location was resolved from the user's search input"
+  enum LocationTypeEnum {
+    POSTCODE
+    OUTCODE
+    PLACE
+  }
+
+  "Result from a unified location search"
+  type LocationSearchResult {
+    services: [Service!]!
+    nearbyServices: [Service!]!
+    "The type of location that was matched"
+    locationType: LocationTypeEnum!
+    "The resolved location name (e.g., 'Manchester', 'SW1A 1AA')"
+    resolvedLocation: String!
+    "Coordinates of the resolved location"
+    coordinates: Coordinates!
+  }
+
+  "A place suggestion for autocomplete"
+  type PlaceSuggestion {
+    name: String!
+    county: String
+    country: String!
+    latitude: Float!
+    longitude: Float!
+  }
+
   enum ServiceTypeEnum {
     AAC
     EC
@@ -118,6 +146,31 @@ const typeDefs = gql`
     servicesForCoords(lat: Float!, lng: Float!): ServiceResult!
     servicesForPostcode(postcode: String!): ServiceResult!
     servicesFilter(filters: FilterInput!): [Service!]!
+
+    """
+    Search for services by place name (city, town, village).
+    Example: servicesForPlace(placeName: "Manchester")
+    """
+    servicesForPlace(placeName: String!): LocationSearchResult!
+
+    """
+    Search for services by outcode (first part of postcode).
+    Example: servicesForOutcode(outcode: "M1") or servicesForOutcode(outcode: "SW1A")
+    """
+    servicesForOutcode(outcode: String!): LocationSearchResult!
+
+    """
+    Unified search that accepts postcodes, outcodes, or place names.
+    Automatically detects the input type and returns appropriate results.
+    Example: search(query: "Manchester") or search(query: "M1 1AA") or search(query: "SW1")
+    """
+    search(query: String!): LocationSearchResult!
+
+    """
+    Get place name suggestions for autocomplete.
+    Example: placeSuggestions(query: "Manch", limit: 5)
+    """
+    placeSuggestions(query: String!, limit: Int): [PlaceSuggestion!]!
   }
 `;
 
@@ -155,6 +208,112 @@ const servicesForGivenCcgList = (ccgCodes) => {
   });
 
   return servicesForGivenCcgList;
+};
+
+// Regex patterns for UK postcodes
+const FULL_POSTCODE_REGEX = /^[A-Z]{1,2}[0-9][0-9A-Z]?\s*[0-9][A-Z]{2}$/i;
+const OUTCODE_REGEX = /^[A-Z]{1,2}[0-9][0-9A-Z]?$/i;
+
+/**
+ * Normalizes a postcode by removing spaces and converting to uppercase
+ */
+const normalizePostcode = (input) => {
+  return input.replace(/\s+/g, "").toUpperCase();
+};
+
+/**
+ * Detects whether input looks like a postcode, outcode, or place name
+ */
+const detectInputType = (input) => {
+  const normalized = normalizePostcode(input);
+
+  if (FULL_POSTCODE_REGEX.test(normalized)) {
+    return "POSTCODE";
+  }
+
+  if (OUTCODE_REGEX.test(normalized)) {
+    return "OUTCODE";
+  }
+
+  return "PLACE";
+};
+
+/**
+ * Fetches place data from postcodes.io
+ */
+const fetchPlace = async (placeName) => {
+  const result = await fetch(
+    `https://api.postcodes.io/places?q=${encodeURIComponent(placeName)}&limit=1`
+  );
+  const data = await result.json();
+
+  if (data.status !== 200 || !data.result || data.result.length === 0) {
+    throw new GraphQLError(
+      `No location found for "${placeName}". Try a UK city, town, or village name.`
+    );
+  }
+
+  return data.result[0];
+};
+
+/**
+ * Fetches outcode (partial postcode) data from postcodes.io
+ */
+const fetchOutcode = async (outcode) => {
+  const normalized = normalizePostcode(outcode);
+  const result = await fetch(
+    `https://api.postcodes.io/outcodes/${encodeURIComponent(normalized)}`
+  );
+  const data = await result.json();
+
+  if (data.status !== 200 || !data.result) {
+    throw new GraphQLError(
+      `Invalid outcode "${outcode}". Enter the first part of a UK postcode (e.g., "M1", "SW1A").`
+    );
+  }
+
+  return data.result;
+};
+
+/**
+ * Fetches full postcode data from postcodes.io
+ */
+const fetchPostcode = async (postcode) => {
+  const normalized = normalizePostcode(postcode);
+  const result = await fetch(
+    `https://api.postcodes.io/postcodes/${encodeURIComponent(normalized)}`
+  );
+  const data = await result.json();
+
+  if (data.status !== 200 || !data.result) {
+    throw new GraphQLError(
+      `Invalid postcode "${postcode}". Enter a valid UK postcode (e.g., "SW1A 1AA").`
+    );
+  }
+
+  return data.result;
+};
+
+/**
+ * Fetches place suggestions for autocomplete
+ */
+const fetchPlaceSuggestions = async (query, limit = 5) => {
+  const result = await fetch(
+    `https://api.postcodes.io/places?q=${encodeURIComponent(query)}&limit=${limit}`
+  );
+  const data = await result.json();
+
+  if (data.status !== 200 || !data.result) {
+    return [];
+  }
+
+  return data.result.map((place) => ({
+    name: place.name_1,
+    county: place.county_unitary || place.region || null,
+    country: place.country || "England",
+    latitude: place.latitude,
+    longitude: place.longitude,
+  }));
 };
 
 const resolvers = {
@@ -236,6 +395,114 @@ const resolvers = {
       });
 
       return filteredServices;
+    },
+
+    servicesForPlace: async (_, { placeName }) => {
+      const place = await fetchPlace(placeName);
+      const currentPoint = turf.point([place.longitude, place.latitude]);
+
+      return {
+        services: await getServicesFromPoint(currentPoint),
+        nearbyServices: [],
+        locationType: "PLACE",
+        resolvedLocation: place.name_1,
+        coordinates: {
+          latitude: place.latitude,
+          longitude: place.longitude,
+        },
+      };
+    },
+
+    servicesForOutcode: async (_, { outcode }) => {
+      const outcodeData = await fetchOutcode(outcode);
+      const currentPoint = turf.point([
+        outcodeData.longitude,
+        outcodeData.latitude,
+      ]);
+
+      return {
+        services: await getServicesFromPoint(currentPoint),
+        nearbyServices: [],
+        locationType: "OUTCODE",
+        resolvedLocation: outcodeData.outcode,
+        coordinates: {
+          latitude: outcodeData.latitude,
+          longitude: outcodeData.longitude,
+        },
+      };
+    },
+
+    search: async (_, { query }) => {
+      const trimmedQuery = query.trim();
+
+      if (!trimmedQuery) {
+        throw new GraphQLError("Please enter a postcode, town, or city name.");
+      }
+
+      const inputType = detectInputType(trimmedQuery);
+
+      if (inputType === "POSTCODE") {
+        const postcodeData = await fetchPostcode(trimmedQuery);
+        const currentPoint = turf.point([
+          postcodeData.longitude,
+          postcodeData.latitude,
+        ]);
+
+        return {
+          services: await getServicesFromPoint(currentPoint),
+          nearbyServices: [],
+          locationType: "POSTCODE",
+          resolvedLocation: postcodeData.postcode,
+          coordinates: {
+            latitude: postcodeData.latitude,
+            longitude: postcodeData.longitude,
+          },
+        };
+      }
+
+      if (inputType === "OUTCODE") {
+        const outcodeData = await fetchOutcode(trimmedQuery);
+        const currentPoint = turf.point([
+          outcodeData.longitude,
+          outcodeData.latitude,
+        ]);
+
+        return {
+          services: await getServicesFromPoint(currentPoint),
+          nearbyServices: [],
+          locationType: "OUTCODE",
+          resolvedLocation: outcodeData.outcode,
+          coordinates: {
+            latitude: outcodeData.latitude,
+            longitude: outcodeData.longitude,
+          },
+        };
+      }
+
+      // Default to place search
+      const place = await fetchPlace(trimmedQuery);
+      const currentPoint = turf.point([place.longitude, place.latitude]);
+
+      return {
+        services: await getServicesFromPoint(currentPoint),
+        nearbyServices: [],
+        locationType: "PLACE",
+        resolvedLocation: place.name_1,
+        coordinates: {
+          latitude: place.latitude,
+          longitude: place.longitude,
+        },
+      };
+    },
+
+    placeSuggestions: async (_, { query, limit }) => {
+      const trimmedQuery = query.trim();
+
+      if (trimmedQuery.length < 2) {
+        return [];
+      }
+
+      return fetchPlaceSuggestions(trimmedQuery, limit || 5);
     },
   },
   ServiceType: {
