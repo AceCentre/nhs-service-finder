@@ -5582,7 +5582,7 @@
       "id": "stgeo",
       "serviceColor": null,
       "communicationMatters": null,
-      "phoneNumber": "020 8487 6084/5",
+      "phoneNumber": "020 8487 6027",
       "website": "https://www.stgeorges.nhs.uk/service/community-services/assistive-technology-service/",
       "addressLines": [
         "Assistive Technology Service",
@@ -6602,18 +6602,18 @@
       "country": "England"
     },
     {
-      "serviceName": "Wolverhampton Wheelchair Service Maltings Mobility Centre",
+      "serviceName": "Wolverhampton Wheelchair Service ",
       "id": "wolwmd",
       "serviceColor": null,
       "communicationMatters": null,
       "phoneNumber": "01902 444042",
-      "website": "https://www.royalwolverhampton.nhs.uk/services/service-directory-a-z/wolverhampton-wheelchair-service/",
+      "website": "https://www.wolverhampton.gov.uk/health-and-social-care/adult-social-care/physical-and-sensory-disabilities/wolverhampton-wheelchair-service",
       "addressLines": [
-        "The Maltings",
-        "Herbert Street",
+        "West Park Hospital",
+        "Marson Wing",
+        "Park Rd West",
         "Wolverhampton",
-        "West Midlands",
-        "WV1 1NQ"
+        "WV1 4PW"
       ],
       "email": "rwh-tr.wheelchairservice@nhs.net",
       "servicesOffered": ["wcs"],
