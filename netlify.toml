@@ -1,0 +1,23 @@
+[build]
+  # Install dependencies only - no build step needed
+  # The Express app (index.js) handles all routing including GraphQL
+  command = "npm install"
+  publish = "."
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Redirects
+[[redirects]]
+  from = "/"
+  to = "https://acecentre.org.uk/nhs-service-finder"
+  status = 301
+
+# Note: The Express app in index.js handles:
+# - /.netlify/functions/graphql (GraphQL endpoint)
+# - /graphql (GraphQL endpoint)
+# - /data/* (static data files)
+# - /raw-data/* (static data files)
+# - /archive/* (boundary files)
+# - /map-demo (map demo page)
+
