@@ -1,9 +1,9 @@
 [build]
-  # Install dependencies only - no build step needed
-  command = "npm install"
-  # Set publish to current directory (overrides UI setting for _site)
-  # For serverless functions, we just need the repo, not a built directory
-  publish = "."
+  # Install dependencies and create empty _site directory (Netlify requirement)
+  command = "npm install && mkdir -p _site"
+  # Set publish to _site directory (Netlify requires a publish directory)
+  # For serverless functions, this can be empty - functions are in netlify/functions
+  publish = "_site"
 
 [build.environment]
   NODE_VERSION = "20"
