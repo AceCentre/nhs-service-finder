@@ -1,23 +1,25 @@
 [build]
   # Install dependencies only - no build step needed
-  # The Express app (index.js) handles all routing including GraphQL
   command = "npm install"
-  publish = "."
+  # No publish directory needed - this is a serverless function, not a static site
 
 [build.environment]
   NODE_VERSION = "20"
 
-# Redirects
-[[redirects]]
-  from = "/"
-  to = "https://acecentre.org.uk/nhs-service-finder"
-  status = 301
+# Netlify Functions configuration
+[functions]
+  directory = "netlify/functions"
 
-# Note: The Express app in index.js handles:
-# - /.netlify/functions/graphql (GraphQL endpoint)
-# - /graphql (GraphQL endpoint)
+# Redirects - proxy all requests to the serverless function
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/server"
+  status = 200
+
+# Note: The serverless function handles:
+# - /.netlify/functions/server/graphql (GraphQL endpoint)
+# - /graphql (via redirect)
 # - /data/* (static data files)
 # - /raw-data/* (static data files)
 # - /archive/* (boundary files)
 # - /map-demo (map demo page)
-
