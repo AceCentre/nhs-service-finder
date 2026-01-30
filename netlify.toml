@@ -1,7 +1,9 @@
 [build]
   # Install dependencies only - no build step needed
   command = "npm install"
-  # No publish directory needed - this is a serverless function, not a static site
+  # Set publish to current directory (overrides UI setting for _site)
+  # For serverless functions, we just need the repo, not a built directory
+  publish = "."
 
 [build.environment]
   NODE_VERSION = "20"
