@@ -1,0 +1,27 @@
+[build]
+  # Install dependencies and create empty _site directory (Netlify requirement)
+  command = "npm install && mkdir -p _site"
+  # Set publish to _site directory (Netlify requires a publish directory)
+  # For serverless functions, this can be empty - functions are in netlify/functions
+  publish = "_site"
+
+[build.environment]
+  NODE_VERSION = "20"
+
+# Netlify Functions configuration
+[functions]
+  directory = "netlify/functions"
+
+# Redirects - proxy all requests to the serverless function
+[[redirects]]
+  from = "/*"
+  to = "/.netlify/functions/server"
+  status = 200
+
+# Note: The serverless function handles:
+# - /.netlify/functions/server/graphql (GraphQL endpoint)
+# - /graphql (via redirect)
+# - /data/* (static data files)
+# - /raw-data/* (static data files)
+# - /archive/* (boundary files)
+# - /map-demo (map demo page)

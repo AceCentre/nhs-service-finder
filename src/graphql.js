@@ -176,7 +176,9 @@ const typeDefs = gql`
 
 // This could be optimized and cleaned up
 const getServicesFromPoint = async (currentPoint) => {
-  console.log("Called with", currentPoint);
+  if (process.env.NODE_ENV === "development") {
+    console.log("Called with", currentPoint);
+  }
   let featuresWithPoints = [];
 
   const { aac, ec, wcs } = await getServicesGeo();
@@ -299,7 +301,9 @@ const fetchPostcode = async (postcode) => {
  */
 const fetchPlaceSuggestions = async (query, limit = 5) => {
   const result = await fetch(
-    `https://api.postcodes.io/places?q=${encodeURIComponent(query)}&limit=${limit}`
+    `https://api.postcodes.io/places?q=${encodeURIComponent(
+      query
+    )}&limit=${limit}`
   );
   const data = await result.json();
 
