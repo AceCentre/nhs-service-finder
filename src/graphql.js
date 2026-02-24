@@ -196,9 +196,9 @@ const getServicesFromPoint = async (currentPoint) => {
     }
   }
 
-  const foundServices = featuresWithPoints.map((feature) =>
-    services.find((x) => x.id === feature)
-  );
+  const foundServices = featuresWithPoints
+    .map((feature) => services.find((x) => x.id === feature))
+    .filter(Boolean);
   return uniqBy(foundServices, "id");
 };
 
@@ -245,13 +245,13 @@ const detectInputType = (input) => {
  */
 const fetchPlace = async (placeName) => {
   const result = await fetch(
-    `https://api.postcodes.io/places?q=${encodeURIComponent(placeName)}&limit=1`
+    `https://api.postcodes.io/places?q=${encodeURIComponent(placeName)}&limit=1`,
   );
   const data = await result.json();
 
   if (data.status !== 200 || !data.result || data.result.length === 0) {
     throw new GraphQLError(
-      `No location found for "${placeName}". Try a UK city, town, or village name.`
+      `No location found for "${placeName}". Try a UK city, town, or village name.`,
     );
   }
 
@@ -264,13 +264,13 @@ const fetchPlace = async (placeName) => {
 const fetchOutcode = async (outcode) => {
   const normalized = normalizePostcode(outcode);
   const result = await fetch(
-    `https://api.postcodes.io/outcodes/${encodeURIComponent(normalized)}`
+    `https://api.postcodes.io/outcodes/${encodeURIComponent(normalized)}`,
   );
   const data = await result.json();
 
   if (data.status !== 200 || !data.result) {
     throw new GraphQLError(
-      `Invalid outcode "${outcode}". Enter the first part of a UK postcode (e.g., "M1", "SW1A").`
+      `Invalid outcode "${outcode}". Enter the first part of a UK postcode (e.g., "M1", "SW1A").`,
     );
   }
 
@@ -283,13 +283,13 @@ const fetchOutcode = async (outcode) => {
 const fetchPostcode = async (postcode) => {
   const normalized = normalizePostcode(postcode);
   const result = await fetch(
-    `https://api.postcodes.io/postcodes/${encodeURIComponent(normalized)}`
+    `https://api.postcodes.io/postcodes/${encodeURIComponent(normalized)}`,
   );
   const data = await result.json();
 
   if (data.status !== 200 || !data.result) {
     throw new GraphQLError(
-      `Invalid postcode "${postcode}". Enter a valid UK postcode (e.g., "SW1A 1AA").`
+      `Invalid postcode "${postcode}". Enter a valid UK postcode (e.g., "SW1A 1AA").`,
     );
   }
 
@@ -302,8 +302,8 @@ const fetchPostcode = async (postcode) => {
 const fetchPlaceSuggestions = async (query, limit = 5) => {
   const result = await fetch(
     `https://api.postcodes.io/places?q=${encodeURIComponent(
-      query
-    )}&limit=${limit}`
+      query,
+    )}&limit=${limit}`,
   );
   const data = await result.json();
 
@@ -335,7 +335,7 @@ const resolvers = {
     serviceTypes: () => serviceTypes,
     serviceType: (_, { id }) => {
       const serviceType = serviceTypes.find(
-        (serviceType) => serviceType.id === id
+        (serviceType) => serviceType.id === id,
       );
 
       if (!serviceType) {
@@ -359,7 +359,7 @@ const resolvers = {
       let data;
       try {
         const result = await fetch(
-          `https://api.postcodes.io/postcodes/${postcode}/nearest?limit=100&radius=2000`
+          `https://api.postcodes.io/postcodes/${postcode}/nearest?limit=100&radius=2000`,
         );
         data = await result.json();
       } catch (error) {
@@ -372,7 +372,7 @@ const resolvers = {
 
       if (data.result.length === 0) {
         throw new GraphQLError(
-          "No postcodes were found for you given postcode"
+          "No postcodes were found for you given postcode",
         );
       }
 
@@ -534,7 +534,7 @@ const resolvers = {
 
       try {
         const result = await fetch(
-          `https://api.postcodes.io/postcodes/${postcode}`
+          `https://api.postcodes.io/postcodes/${postcode}`,
         );
         data = await result.json();
       } catch (error) {
@@ -543,7 +543,7 @@ const resolvers = {
 
       if (data.status !== 200) {
         throw new GraphQLError(
-          data.error || `Failed to get lat/long for: ${postcode}`
+          data.error || `Failed to get lat/long for: ${postcode}`,
         );
       }
 
