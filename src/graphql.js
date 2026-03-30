@@ -197,7 +197,10 @@ const getServicesFromPoint = async (currentPoint) => {
   }
 
   const foundServices = featuresWithPoints
-    .map((feature) => services.find((x) => x.id === feature))
+    .map((feature) => {
+      const resolvedId = feature === "bcas" ? "aacw" : feature;
+      return services.find((x) => x.id === resolvedId);
+    })
     .filter(Boolean);
   return uniqBy(foundServices, "id");
 };
