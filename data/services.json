@@ -119,7 +119,7 @@
         "B29 6JA"
       ],
       "email": "actadmin@nhs.net",
-      "servicesOffered": ["ec", "aac"],
+      "servicesOffered": ["aac"],
       "ccgCodes": [
         "E54000062",
         "E54000055",
@@ -144,6 +144,49 @@
       "servicesProvidedDescription": "Assessment provision and review of AAC. Other services provided to local teams to support the development and maintenance of care pathways such as ongoing support, training and telephone helpline. Also responsible for West Midlands Environmental Control provision.",
       "additionalContactName": "Jo Cartwright, Service Lead",
       "additionalContactEmail": "joanne.cartwright5@nhs.net",
+      "country": "England"
+    },
+    {
+      "serviceName": "Access to Communication and Technology (ACT), Birmingham - EC",
+      "id": "act-ec",
+      "serviceColor": null,
+      "communicationMatters": null,
+      "phoneNumber": "0121 466 3050,   (Referrals: 0121 466 3028)",
+      "website": "https://www.bhamcommunity.nhs.uk/act/",
+      "addressLines": [
+        "ACT",
+        "WMRC",
+        "Oak Tree Lane",
+        "Selly Oak",
+        "Birmingham",
+        "B29 6JA"
+      ],
+      "email": "bchnt.actadmin@nhs.net",
+      "servicesOffered": ["ec"],
+      "ccgCodes": [
+        "E54000062",
+        "E54000055",
+        "E54000010",
+        "E54000011",
+        "E54000019",
+        "E54000018"
+      ],
+      "caseload": "All",
+      "serviceColour": null,
+      "provider": null,
+      "note": null,
+      "postcode": "B29 6JA",
+      "yearSetUp": "1983",
+      "permanentOrProject": "Permanent",
+      "fundedBy": "NHS England. ACT is part of Birmingham Community Health Care NHS Foundation Trust.",
+      "referralProcess": "Referrals and advice line: 0121 466 3028",
+      "staffing": "Occupational Therapists, Speech and Language Therapists, Clinical Scientists and Technologist, Technicians, Stock team, Administrators, Training Support and Rehab Assistants.",
+      "areaCoveredText": "Shropshire, Staffordshire, Warwickshire, Worcestershire, Herefordshire and West Midlands county (Birmingham, the Black Country and Coventry)",
+      "populationServed": "All ages",
+      "scale": null,
+      "servicesProvidedDescription": "West Midlands Environmental Control provision.",
+      "additionalContactName": null,
+      "additionalContactEmail": null,
       "country": "England"
     },
     {
@@ -1812,7 +1855,7 @@
       "country": "England"
     },
     {
-      "serviceName": "Electronic Assistive Technology Service - AAC (EATS)",
+      "serviceName": "Electronic Assistive Technology Service (EATS)",
       "id": "eats-aac",
       "serviceColor": null,
       "communicationMatters": null,
@@ -1827,7 +1870,7 @@
         "LN6 8UZ"
       ],
       "email": "eats.lincoln@nhs.net",
-      "servicesOffered": ["aac"],
+      "servicesOffered": ["aac", "ec"],
       "ccgCodes": [
         "E54000013",
         "E54000060",
@@ -1855,28 +1898,27 @@
       "country": "England"
     },
     {
-      "serviceName": "Electronic Assistive Technology Service - EC (EATS)",
+      "serviceName": "Electronic Assistive Technology Service - EC only (EATS)",
       "id": "eats",
       "serviceColor": null,
       "communicationMatters": null,
-      "phoneNumber": "01522 697282",
-      "website": "http://www.eatslincoln.co.uk/",
+      "phoneNumber": "01332 254980",
+      "website": "https://www.uhdb.nhs.uk/service-electronic-assistive-technology/",
       "addressLines": [
         "Electronic Assistive Technology Service",
-        "Fen House",
-        "Fen Lane",
-        "North Hykeham",
-        "Lincoln",
-        "LN6 8UZ"
+        "Level 3",
+        "Florence Nightingale Community Hospital",
+        "Derby",
+        "DE1 2QY"
       ],
-      "email": "eats.lincoln@nhs.net",
+      "email": "dhft.eat@nhs.net",
       "servicesOffered": ["ec"],
       "ccgCodes": ["E54000013"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
       "note": null,
-      "postcode": "LN6 8UZ",
+      "postcode": "DE1 2QY",
       "yearSetUp": null,
       "permanentOrProject": null,
       "fundedBy": null,
@@ -3116,7 +3158,7 @@
         "Kent",
         "ME7 5PA"
       ],
-      "email": "kmpt.specialistequipmentservices@nhs.net",
+      "email": "kmmh.specialistequipmentservices@nhs.net",
       "servicesOffered": ["ec"],
       "ccgCodes": ["E54000032"],
       "caseload": "All",
@@ -3818,7 +3860,14 @@
       ],
       "email": "EnvironmentalControls@nbt.nhs.uk",
       "servicesOffered": ["ec"],
-      "ccgCodes": ["E54000039"],
+      "ccgCodes": [
+        "E54000039",
+        "E54000043",
+        "E54000040",
+        "E54000038",
+        "E54000037",
+        "E54000036"
+      ],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3867,12 +3916,12 @@
       "country": "Wales"
     },
     {
-      "serviceName": "Norfolk EC Service",
+      "serviceName": "Norfolk and Suffolk Environmental Controls Service",
       "id": "nec",
       "serviceColor": null,
       "communicationMatters": null,
-      "phoneNumber": "01603 255754",
-      "website": "http://www.norfolkcommunityhealthandcare.nhs.uk",
+      "phoneNumber": "01603 255753",
+      "website": "https://eastofenglandcommunityhealthandcare.nhs.uk/our-services/norfolk-community-health-and-care-services/norfolk-and-suffolk-environmental-control-service/",
       "addressLines": [
         "Jubilee House",
         "Colman Centre for Specialist Rehabilitation Services",
@@ -3880,9 +3929,9 @@
         "Norwich",
         "NR2 2PJ"
       ],
-      "email": "EnvironmentalControlService@nchc.nhs.uk",
+      "email": "eec.environmentalcontrolservice@nhs.net",
       "servicesOffered": ["ec"],
-      "ccgCodes": ["E54000022"],
+      "ccgCodes": ["E54000022", "E54000023"],
       "caseload": "All",
       "serviceColour": null,
       "provider": null,
@@ -3893,7 +3942,7 @@
       "fundedBy": null,
       "referralProcess": null,
       "staffing": null,
-      "areaCoveredText": "Norfolk",
+      "areaCoveredText": "Norfolk and Suffolk",
       "populationServed": null,
       "scale": null,
       "servicesProvidedDescription": null,
@@ -5160,41 +5209,6 @@
       "additionalContactName": null,
       "additionalContactEmail": null,
       "country": "Scotland"
-    },
-    {
-      "serviceName": "Suffolk ECS",
-      "id": "sec",
-      "serviceColor": null,
-      "communicationMatters": null,
-      "phoneNumber": "01473 692727",
-      "website": "https://assistivetechnology.org.uk/list-of-ec-services-2/suffolk-ecs-ipswich/",
-      "addressLines": [
-        "Chantry Clinic",
-        "Hawthorne Drive",
-        "Ipswich",
-        "Suffolk",
-        "IP2 0QY"
-      ],
-      "email": "alex.winterbone@bartrams.net",
-      "servicesOffered": ["ec"],
-      "ccgCodes": ["e38000086", "e38000063", "e38000204"],
-      "caseload": "All",
-      "serviceColour": null,
-      "provider": null,
-      "note": null,
-      "postcode": "IP2 0QY",
-      "yearSetUp": null,
-      "permanentOrProject": null,
-      "fundedBy": null,
-      "referralProcess": null,
-      "staffing": null,
-      "areaCoveredText": "Suffolk",
-      "populationServed": null,
-      "scale": null,
-      "servicesProvidedDescription": null,
-      "additionalContactName": null,
-      "additionalContactEmail": null,
-      "country": "England"
     },
     {
       "serviceName": "Mobility and Specialised Rehabilitation Centre",
