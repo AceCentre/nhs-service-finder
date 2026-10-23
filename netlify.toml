@@ -6,7 +6,7 @@
   publish = "_site"
 
 [build.environment]
-  NODE_VERSION = "20"
+  NODE_VERSION = "22.23.4"
 
 # Netlify Functions configuration
 [functions]

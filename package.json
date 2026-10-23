@@ -13,6 +13,9 @@
   },
   "author": "",
   "license": "ISC",
+  "engines": {
+    "node": "22.23.4"
+  },
   "bugs": {
     "url": "https://github.com/AceCentre/nhs-service-finder/issues"
   },
